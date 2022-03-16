@@ -98,7 +98,7 @@ curl -fsSL https://git.io/rime-install | bash -s -- cantonese ayaka14732/rime-ts
 
 **可選步驟：自定義外觀**
 
-將[此配置檔](https://gist.githubusercontent.com/laubonghaudoi/40f4ad4036a321a21fb2f32229892f55/raw/958e050a57cc3da7abe0ba16510d61e95ad2b9ee/squirrel.custom.yaml)保存在你的「rime 用戶文件夾」中，重新部署，就可以見到外觀變化了。
+將[此配置檔](https://gist.githubusercontent.com/laubonghaudoi/40f4ad4036a321a21fb2f32229892f55/raw/958e050a57cc3da7abe0ba16510d61e95ad2b9ee/squirrel.custom.yaml)保存在「rime 用戶文件夾」中，重新部署，就可以見到外觀變化了。
 
 ### Arch Linux 安裝方法
 
@@ -120,9 +120,9 @@ XMODIFIERS=@im=fcitx
 
 然後重新登入。
 
-（你可能需要手動啓動 fcitx5 程式）
+（你可能需要手動啓動 Fcitx5 程式）
 
-開啓 fcitx5 設定，啓用 rime。
+開啓 Fcitx5 設定，啓用 rime。
 
 **第二步：安裝切韻拼音**
 
