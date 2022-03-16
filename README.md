@@ -16,11 +16,11 @@ rime 切韻拼音輸入方案
 
 ![](demo/2.png)
 
-3\. 普通話反查切韻
+3\. 普通話反查切韻（先按 <kbd>`</kbd>，再輸入普通話）
 
 ![](demo/3.png)
 
-4\. 粵語反查切韻
+4\. 粵語反查切韻（先按 <kbd>f</kbd>，再輸入粵語）
 
 ![](demo/4.png)
 
@@ -38,7 +38,7 @@ rime 切韻拼音輸入方案
 
 **第二步：下載切韻拼音**
 
-用 WinKey + space 切換至小狼毫輸入法。
+用 WinKey + <kbd>Space</kbd> 切換至小狼毫輸入法。
 
 右擊「中」，點選「輸入法設定」。
 
@@ -48,7 +48,7 @@ rime 切韻拼音輸入方案
 
 ![](https://camo.githubusercontent.com/97f42eb9aff6a44934777e2568ff5e6dc7a648266bbdc01739ec09d5810d718e/68747470733a2f2f692e696d6775722e636f6d2f657578684543562e706e67)
 
-在跳出的視窗中鍵入 cantonese 以安裝粵語輸入方案（用於反查），按下 enter。然後鍵入 ayaka14732/rime-tshet，按下 enter。
+在跳出的視窗中鍵入 `cantonese` 以安裝粵語輸入方案（用於反查），按下 <kbd>Enter</kbd>。然後鍵入 `ayaka14732/rime-tshet`，按下 <kbd>Enter</kbd>。
 
 ![](https://camo.githubusercontent.com/9609be7beef59bc18bb006aa95c8d17238f2ad45e0f88a274bc03d3984bad1c1/68747470733a2f2f692e696d6775722e636f6d2f315871617959382e706e67)
 
@@ -98,7 +98,7 @@ curl -fsSL https://git.io/rime-install | bash -s -- cantonese ayaka14732/rime-ts
 
 **可選步驟：自定義外觀**
 
-將[這個配置檔](https://gist.githubusercontent.com/laubonghaudoi/40f4ad4036a321a21fb2f32229892f55/raw/958e050a57cc3da7abe0ba16510d61e95ad2b9ee/squirrel.custom.yaml)保存在你的「rime 用戶文件夾」中，重新部署，就可以見到外觀變化了。
+將[此配置檔](https://gist.githubusercontent.com/laubonghaudoi/40f4ad4036a321a21fb2f32229892f55/raw/958e050a57cc3da7abe0ba16510d61e95ad2b9ee/squirrel.custom.yaml)保存在你的「rime 用戶文件夾」中，重新部署，就可以見到外觀變化了。
 
 ### Arch Linux 安裝方法
 
