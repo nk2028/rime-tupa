@@ -126,7 +126,7 @@ XMODIFIERS=@im=fcitx
 
 **第二步：安裝切韻拼音**
 
-從 AUR 安裝 `rime-tshet`。
+從 AUR 安裝 [`rime-tshet`](https://aur.archlinux.org/packages/rime-tshet)。
 
 ```sh
 yay -S rime-tshet
@@ -226,8 +226,8 @@ rm -f ~/.xprofile
 npm install
 rm -rf cache *.dict.yaml
 mkdir -p cache
-node build/generate_map.js
-python build/build.py
-python build/build_unspaced.py
-python build/uniqsort.py
+node scripts/generate_map.js
+python scripts/build.py
+python scripts/build_unspaced.py
+python scripts/uniqsort.py
 ```
