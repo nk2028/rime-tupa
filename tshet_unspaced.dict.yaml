@@ -7,7 +7,7 @@
 
 ---
 name: tshet_unspaced
-version: "2020.10.15-2"
+version: "20201015-rev20220316-3"
 sort: by_weight
 ...
 
@@ -36,9 +36,9 @@ sort: by_weight
 㑮	ghon
 㑮	ngon
 㑰	jyangh
-㑳	tsruo
-㑳	nreep
 㑳	dzruh
+㑳	nreep
+㑳	tsruo
 㑵	dzit
 㑻	meet
 㑿	dzraewq
@@ -51,10 +51,10 @@ sort: by_weight
 㒋	sie
 㒌	gwiaeng
 㒓	that
-㒔	douk
 㒔	djuok
-㒚	qynh
+㒔	douk
 㒚	qonq
+㒚	qynh
 㒝	met
 㒝	muot
 㒟	newq
@@ -156,8 +156,8 @@ sort: by_weight
 㕮	buoq
 㕮	puoq
 㕯	njwiet
-㕯	nrweet
 㕯	not
+㕯	nrweet
 㕰	hoeuk
 㖃	ghouq
 㖃	houh
@@ -202,9 +202,9 @@ sort: by_weight
 㗻	kwa
 㗼	ngyop
 㗾	hua
-㗿	haq
 㗿	haeh
 㗿	haeq
+㗿	haq
 㘀	tsak
 㘀	tswak
 㘁	jiaek
@@ -266,8 +266,8 @@ sort: by_weight
 㚒	sjiemq
 㚔	gheengq
 㚔	nriep
-㚖	tjhiaek
 㚖	kawq
+㚖	tjhiaek
 㚗	dziae
 㚘	banq
 㚛	hejh
@@ -293,8 +293,8 @@ sort: by_weight
 㛐	sawq
 㛑	tshanh
 㛒	douh
-㛗	tshua
 㛗	swa
+㛗	tshua
 㛘	phot
 㛥	thop
 㛧	mamq
@@ -333,16 +333,16 @@ sort: by_weight
 㜵	newq
 㜷	mie
 㜸	ngyet
-㜺	tsanh
 㜺	dzanh
+㜺	tsanh
 㜽	tsyq
 㝂	tjiejh
-㝃	myenq
 㝃	muonq
+㝃	myenq
 㝅	kouh
 㝅	nouq
-㝈	srwaenh
 㝈	sruenh
+㝈	srwaenh
 㝌	juq
 㝌	kuh
 㝏	keejh
@@ -381,9 +381,9 @@ sort: by_weight
 㞓	khih
 㞕	sot
 㞙	newh
-㞚	tsrhyip
-㞚	tsreep
 㞚	sraep
+㞚	tsreep
+㞚	tsrhyip
 㞛	kyiq
 㞜	thoj
 㞟	denh
@@ -457,8 +457,8 @@ sort: by_weight
 㡏	sruoh
 㡑	tsewq
 㡑	tshiew
-㡒	drwin
 㡒	donq
+㡒	drwin
 㡒	trwin
 㡓	kon
 㡔	mo
@@ -535,14 +535,14 @@ sort: by_weight
 㣱	dzreek
 㣶	treen
 㣻	ngyojh
-㣿	tjyak
 㣿	tek
 㣿	tewq
+㣿	tjyak
 㤄	pajh
+㤄	pat
 㤄	phajh
 㤄	phuojh
 㤄	phuot
-㤄	pat
 㤅	qeojh
 㤆	phuonh
 㤇	qawq
@@ -573,8 +573,8 @@ sort: by_weight
 㤸	hek
 㤻	lonq
 㤾	somh
-㤿	qyomh
 㤿	qiem
+㤿	qyomh
 㥁	teok
 㥂	theok
 㥄	lyng
@@ -608,13 +608,13 @@ sort: by_weight
 㥶	seok
 㥷	qejh
 㥽	tsrheek
-㥾	nryk
 㥾	nrit
+㥾	nryk
 㥾	theok
 㦁	lien
+㦃	sreenq
 㦃	tsrheenq
 㦃	tsrhweenq
-㦃	sreenq
 㦄	mae
 㦅	det
 㦌	hot
@@ -628,8 +628,8 @@ sort: by_weight
 㦜	ghwak
 㦝	moeuk
 㦟	meej
-㦣	tsiejh
 㦣	ngiejh
+㦣	tsiejh
 㦣	uejh
 㦦	hek
 㦬	laq
@@ -641,23 +641,23 @@ sort: by_weight
 㦿	kheemq
 㧀	gyip
 㧁	ghap
-㧁	khyoh
 㧁	khop
+㧁	khyoh
 㧁	kop
 㧆	kynh
 㧉	keojh
 㧊	phat
-㧒	ut
 㧒	uit
+㧒	ut
 㧓	kwae
 㧔	kweejh
 㧖	qeek
 㧗	tsejq
 㧗	tsieq
 㧗	tsryeq
-㧘	gyeh
 㧘	dzieh
 㧘	dzree
+㧘	gyeh
 㧡	gheojq
 㧢	qin
 㧦	hwenh
@@ -670,8 +670,8 @@ sort: by_weight
 㧺	dop
 㧻	troeuk
 㧾	khot
-㨁	dryh
 㨁	djyk
+㨁	dryh
 㨃	tojq
 㨅	nrwieh
 㨉	myin
@@ -686,8 +686,8 @@ sort: by_weight
 㨖	trih
 㨖	triq
 㨖	tryq
-㨙	ghejh
 㨙	ghee
+㨙	ghejh
 㨝	set
 㨞	soh
 㨟	gheoj
@@ -703,28 +703,28 @@ sort: by_weight
 㨶	tawq
 㨷	gyin
 㨷	kynh
-㨹	tswiejh
 㨹	swiet
-㨻	sraemq
+㨹	tswiejh
 㨻	dzam
+㨻	sraemq
 㨼	lyak
 㨾	jyangh
-㩇	tsrweek
 㩇	hweek
+㩇	tsrweek
 㩉	lop
 㩉	tap
 㩊	swien
 㩋	sew
 㩋	sewh
 㩋	sewq
-㩋	suk
 㩋	sruk
+㩋	suk
 㩒	gyim
 㩓	hueq
 㩜	lam
+㩢	maet
 㩢	mejh
 㩢	met
-㩢	maet
 㩤	phuo
 㩧	boeuk
 㩧	phoeuk
@@ -732,8 +732,8 @@ sort: by_weight
 㩩	khwiaengq
 㩱	tsyak
 㩳	suongq
-㩵	ngat
 㩵	dzat
+㩵	ngat
 㩹	dep
 㩺	byiq
 㩺	phi
@@ -745,9 +745,9 @@ sort: by_weight
 㩾	trwie
 㩿	khot
 㪁	gyim
+㪁	khom
 㪁	khyom
 㪁	khyomh
-㪁	khom
 㪃	haq
 㪆	tejq
 㪇	senh
@@ -784,8 +784,8 @@ sort: by_weight
 㪻	phuonh
 㪾	kaek
 㫂	tjyoh
-㫃	qyonq
 㫃	qyenq
+㫃	qyonq
 㫊	qaq
 㫍	jiew
 㫎	huj
@@ -823,8 +823,8 @@ sort: by_weight
 㭔	lo
 㭕	khyo
 㭘	ghop
-㭘	gyop
 㭘	gyep
+㭘	gyop
 㭘	kop
 㭚	lyoq
 㭛	pheeh
@@ -835,8 +835,8 @@ sort: by_weight
 㭩	lwat
 㭩	lwiet
 㭫	dzwa
-㭭	pet
 㭭	paet
+㭭	pet
 㭯	triep
 㭰	tsie
 㭰	tswie
@@ -882,16 +882,16 @@ sort: by_weight
 㯂	tajh
 㯃	tshit
 㯄	tjie
-㯅	bye
 㯅	bie
+㯅	bye
 㯅	pej
 㯉	trhyo
 㯊	gheon
 㯋	kwengq
 㯍	tsyangq
 㯓	thap
-㯔	tsrhuejh
 㯔	tshwiejh
+㯔	tsrhuejh
 㯕	sej
 㯙	driet
 㯚	top
@@ -942,9 +942,9 @@ sort: by_weight
 㰯	houh
 㰯	thouh
 㰰	heep
-㰲	tjuok
 㰲	huik
 㰲	quk
+㰲	tjuok
 㰳	qaeh
 㰴	phouh
 㰵	tswit
@@ -965,8 +965,8 @@ sort: by_weight
 㱕	kuj
 㱖	dzwih
 㱙	huq
-㱚	ngwaet
 㱚	dzan
+㱚	ngwaet
 㱜	tsreet
 㱞	ngyip
 㱟	phye
@@ -976,8 +976,8 @@ sort: by_weight
 㱡	sryngq
 㱣	thojq
 㱤	sek
-㱥	lyng
 㱥	leongh
+㱥	lyng
 㱦	khye
 㱦	kye
 㱦	kyeq
@@ -991,14 +991,14 @@ sort: by_weight
 㱵	punh
 㱸	bek
 㱸	biaek
-㱻	lwajh
 㱻	lwah
+㱻	lwajh
 㱽	gyim
 㱽	trimq
 㱾	kheoj
 㱿	khoeuk
-㲀	tjin
 㲀	dzryin
+㲀	tjin
 㲃	khu
 㲃	kuh
 㲄	khouk
@@ -1053,9 +1053,9 @@ sort: by_weight
 㳬	zwienh
 㳶	nouq
 㳹	qwangq
+㳻	sreek
 㳻	tshoh
 㳻	tsraek
-㳻	sreek
 㴂	tham
 㴄	qwaengq
 㴐	menh
@@ -1072,8 +1072,8 @@ sort: by_weight
 㴽	set
 㵂	sjyoh
 㵅	thom
-㵋	mek
 㵋	meeq
+㵋	mek
 㵎	kaenh
 㵐	khuot
 㵑	ghah
@@ -1081,8 +1081,8 @@ sort: by_weight
 㵗	bying
 㵝	jiejh
 㵞	dzru
-㵟	myi
 㵟	muj
+㵟	myi
 㵣	khat
 㵧	kat
 㵨	phieh
@@ -1091,8 +1091,8 @@ sort: by_weight
 㵺	pheeh
 㵻	hu
 㵽	lojq
-㵾	tsrhyaengh
 㵾	dziaengh
+㵾	tsrhyaengh
 㵿	ghewq
 㶀	kaew
 㶁	kwaek
@@ -1172,8 +1172,8 @@ sort: by_weight
 㸼	phuong
 㹁	lyang
 㹁	lyangh
-㹂	ghet
 㹂	gheenq
+㹂	ghet
 㹂	khienq
 㹃	pujh
 㹄	tsyk
@@ -1184,8 +1184,8 @@ sort: by_weight
 㹏	kynq
 㹒	phoeuk
 㹔	kyang
-㹗	tjhyoj
 㹗	thaw
+㹗	tjhyoj
 㹘	njuoh
 㹛	njiew
 㹜	ngyn
@@ -1197,8 +1197,8 @@ sort: by_weight
 㹭	jiejh
 㹮	maek
 㹯	hu
-㹱	tshyak
 㹱	tshuok
+㹱	tshyak
 㹲	haew
 㹳	ngo
 㹶	deng
@@ -1210,8 +1210,8 @@ sort: by_weight
 㺂	ngeem
 㺇	sy
 㺊	jyangh
-㺌	ghemq
 㺌	gheemq
+㺌	ghemq
 㺎	juong
 㺏	luo
 㺑	sraemq
@@ -1220,17 +1220,17 @@ sort: by_weight
 㺒	ghaewq
 㺒	nraewq
 㺔	hajh
-㺕	byenh
 㺕	buon
-㺖	tsrhaemh
+㺕	byenh
 㺖	ghamh
 㺖	haemq
+㺖	tsrhaemh
 㺗	tjheen
 㺛	tjuoh
 㺜	naw
+㺜	nong
 㺜	nraew
 㺜	nruong
-㺜	nong
 㺝	ghaemq
 㺝	gheemq
 㺞	jyo
@@ -1288,9 +1288,9 @@ sort: by_weight
 㼮	tsrhee
 㼯	toungh
 㼰	bej
-㼱	tswinh
-㼱	njwienq
 㼱	njuo
+㼱	njwienq
+㼱	tswinh
 㼲	lep
 㼲	liep
 㼳	sryaengq
@@ -1301,13 +1301,13 @@ sort: by_weight
 㼹	khang
 㼹	khoeung
 㼺	dang
-㼻	dzroeung
 㼻	dzong
-㼽	tsrhyangq
+㼻	dzroeung
 㼽	sryangq
+㼽	tsrhyangq
 㼾	louk
-㼿	tjuongh
 㼿	doung
+㼿	tjuongh
 㽀	driaengh
 㽁	lek
 㽃	phan
@@ -1332,9 +1332,9 @@ sort: by_weight
 㽩	tshomh
 㽬	phyik
 㽰	sryo
-㽱	ku
 㽱	kaewq
 㽱	kiw
+㽱	ku
 㽲	huq
 㽳	huo
 㽴	dryangq
@@ -1354,8 +1354,8 @@ sort: by_weight
 㾁	hot
 㾂	heoj
 㾄	douk
-㾆	tjhiem
 㾆	njiem
+㾆	tjhiem
 㾇	muk
 㾈	buoq
 㾉	leng
@@ -1368,9 +1368,9 @@ sort: by_weight
 㾑	ngop
 㾑	top
 㾓	qwen
+㾕	sonq
 㾕	sryimq
 㾕	sryin
-㾕	sonq
 㾖	ly
 㾖	lyq
 㾙	hynh
@@ -1405,8 +1405,8 @@ sort: by_weight
 㾾	hem
 㿃	tajh
 㿃	triejh
-㿄	qy
 㿄	qeeh
+㿄	qy
 㿉	doj
 㿊	tshien
 㿋	sawh
@@ -1432,8 +1432,8 @@ sort: by_weight
 㿪	ghwan
 㿬	pae
 㿭	trhaek
-㿮	qyangh
 㿮	qyaeng
+㿮	qyangh
 㿯	top
 㿱	zwiet
 㿴	tap
@@ -1467,30 +1467,30 @@ sort: by_weight
 䀗	kwet
 䀘	ghwej
 䀙	tshejh
-䀛	meejh
 䀛	mat
+䀛	meejh
 䀟	bujh
 䀠	kuo
 䀠	kuoh
 䀡	tem
 䀡	temh
 䀡	trhiemh
-䀢	sjy
 䀢	sjimq
 䀢	sjwinh
+䀢	sjy
 䀣	meet
 䀣	pyih
 䀨	hweet
 䀩	lak
 䀩	lyak
 䀫	keep
-䀬	tsruen
 䀬	dzwien
+䀬	tsruen
 䀮	hwang
 䀮	mang
 䀰	kouk
-䀴	ngengq
 䀴	ngeep
+䀴	ngengq
 䀵	sjy
 䀶	lyangh
 䀷	kyop
@@ -1505,8 +1505,8 @@ sort: by_weight
 䁅	maengh
 䁅	meengq
 䁆	qyop
-䁇	myik
 䁇	meok
+䁇	myik
 䁈	khejh
 䁈	toq
 䁊	nrih
@@ -1517,14 +1517,14 @@ sort: by_weight
 䁍	kheep
 䁎	dreeng
 䁒	tsip
+䁓	keejh
 䁓	tsoungh
 䁓	tsoungq
-䁓	keejh
 䁔	ghwanq
 䁔	huon
 䁔	huonq
-䁕	myin
 䁕	min
+䁕	myin
 䁘	jiewq
 䁙	qaenh
 䁛	kuih
@@ -1545,8 +1545,8 @@ sort: by_weight
 䁱	qou
 䁲	mee
 䁳	mangq
-䁴	tjienq
 䁴	sjienq
+䁴	tjienq
 䁵	pyenq
 䁷	koeuk
 䁷	qok
@@ -1576,8 +1576,8 @@ sort: by_weight
 䂬	kuongq
 䂭	khaew
 䂮	lyak
-䂳	tsrhwaeq
 䂳	tshwaq
+䂳	tsrhwaeq
 䂸	kweek
 䂹	kyiq
 䂹	sryaek
@@ -1636,8 +1636,8 @@ sort: by_weight
 䄮	puo
 䄱	puang
 䄲	njwieh
-䄶	byit
 䄶	bot
+䄶	byit
 䄷	djiaek
 䄻	draew
 䄼	themq
@@ -1659,28 +1659,28 @@ sort: by_weight
 䅗	swieh
 䅘	leoj
 䅚	khuonq
-䅜	dwaq
 䅜	djwieh
+䅜	dwaq
 䅝	khoung
 䅡	suoq
 䅢	tsuh
 䅣	ghwang
 䅥	khat
 䅥	kyet
-䅧	qyimh
 䅧	qiem
+䅧	qyimh
 䅩	tjieq
 䅬	qeeh
 䅭	bang
 䅳	dzruo
-䅵	tjyak
 䅵	kok
+䅵	tjyak
 䅷	do
 䅹	louq
 䅻	lie
 䅼	maen
-䅾	gyim
 䅾	dzryim
+䅾	gyim
 䆀	mojh
 䆁	kaw
 䆂	liem
@@ -1747,8 +1747,8 @@ sort: by_weight
 䈄	ghom
 䈇	traewh
 䈈	buj
-䈉	tsiep
 䈉	sreep
+䈉	tsiep
 䈋	thop
 䈎	jiep
 䈎	trhiep
@@ -1801,8 +1801,8 @@ sort: by_weight
 䉚	meeng
 䉛	quk
 䉞	tomq
-䉠	myi
 䉠	muj
+䉠	myi
 䉢	sryk
 䉣	siaeh
 䉥	soungq
@@ -1835,8 +1835,8 @@ sort: by_weight
 䊋	tsryang
 䊋	tsryangh
 䊎	khuonq
-䊓	drieq
 䊓	djieh
+䊓	drieq
 䊝	siet
 䊝	sit
 䊞	treek
@@ -1888,37 +1888,37 @@ sort: by_weight
 䌎	lyak
 䌐	mek
 䌑	ken
-䌖	tsip
 䌖	dziep
+䌖	tsip
 䌗	phuoq
 䌘	pet
 䌜	nriep
 䌞	liemq
 䌟	beek
 䌠	hem
+䌠	keem
 䌠	khem
 䌠	kom
-䌠	keem
 䌥	qynq
 䌦	dawh
 䌦	dek
 䌨	tshat
 䌪	jiemq
 䌭	tsiew
-䌳	tjhie
 䌳	sie
 䌳	sjie
+䌳	tjhie
 䌴	lwah
 䌵	tjuok
 䍃	ju
 䍄	temq
 䍆	tryoq
 䍇	dap
-䍊	khek
 䍊	kaew
-䍌	bu
+䍊	khek
 䍌	bou
 䍌	bouq
+䍌	bu
 䍍	khouh
 䍍	khouk
 䍍	pu
@@ -1976,8 +1976,8 @@ sort: by_weight
 䎕	hweeng
 䎖	tseong
 䎗	giew
-䎘	suk
 䎘	sruk
+䎘	suk
 䎙	phin
 䎠	ghwan
 䎠	njy
@@ -1995,12 +1995,12 @@ sort: by_weight
 䎰	dzak
 䎳	ngwaet
 䎶	njyh
-䎷	tjuoh
 䎷	phuoh
+䎷	tjuoh
 䎸	ngoh
 䎺	tjiejh
-䎿	tsu
 䎿	dzu
+䎿	tsu
 䏁	tseojq
 䏂	souq
 䏃	men
@@ -2038,17 +2038,17 @@ sort: by_weight
 䏿	khejh
 䏿	khejq
 䐀	kyeh
-䐁	troeuk
 䐁	touk
+䐁	troeuk
 䐃	guinq
 䐄	ghamh
-䐄	ghomh
 䐄	gheemh
+䐄	ghomh
 䐅	hi
 䐆	tsheojh
 䐇	minq
-䐈	tjyk
 䐈	dryk
+䐈	tjyk
 䐎	dej
 䐎	tej
 䐏	tjhwinq
@@ -2078,8 +2078,8 @@ sort: by_weight
 䐮	tsrheenq
 䐯	lweej
 䐲	drip
-䐴	kwajh
 䐴	kojh
+䐴	kwajh
 䐶	tsimq
 䐶	tsom
 䐷	tan
@@ -2094,12 +2094,12 @@ sort: by_weight
 䐿	qawh
 䐿	qawq
 䐿	quk
-䑁	qouk
 䑁	qok
+䑁	qouk
 䑂	jyojq
 䑃	moung
-䑄	byih
 䑄	bih
+䑄	byih
 䑄	phyih
 䑇	tjit
 䑈	poeuk
@@ -2107,8 +2107,8 @@ sort: by_weight
 䑎	tshiem
 䑎	tsrheemq
 䑏	guen
-䑑	bouk
 䑑	bok
+䑑	bouk
 䑔	buot
 䑔	phuojh
 䑕	sjyoq
@@ -2194,8 +2194,8 @@ sort: by_weight
 䓮	mouh
 䓲	jwiejh
 䓲	jwiet
-䓳	gheonq
 䓳	gheej
+䓳	gheonq
 䓴	njwienq
 䓵	phuo
 䓶	lajh
@@ -2328,8 +2328,8 @@ sort: by_weight
 䗪	tjiaek
 䗯	tsinh
 䗰	kwanh
-䗱	bouk
 䗱	bok
+䗱	bouk
 䗲	linh
 䗵	kyang
 䗶	lap
@@ -2340,8 +2340,8 @@ sort: by_weight
 䘃	meok
 䘄	tjyoh
 䘅	neok
-䘆	hyonq
 䘆	hynq
+䘆	hyonq
 䘇	mun
 䘌	nrit
 䘎	qwaen
@@ -2357,18 +2357,18 @@ sort: by_weight
 䘱	juoh
 䘳	kyim
 䘷	pet
-䘸	tjiaek
 䘸	jiaek
+䘸	tjiaek
 䘼	quonq
 䘽	ngej
-䘽	nget
 䘽	ngejq
+䘽	nget
 䘾	kwanh
 䘾	kwanq
 䘿	gut
 䙃	dwah
-䙄	tsrhyip
 䙄	tsreep
+䙄	tsrhyip
 䙅	qiew
 䙇	njwien
 䙈	ghou
@@ -2379,8 +2379,8 @@ sort: by_weight
 䙔	qouh
 䙔	qouq
 䙔	quo
-䙕	tsuongq
 䙕	suongq
+䙕	tsuongq
 䙘	tsrhyoq
 䙘	tsuk
 䙟	uj
@@ -2407,16 +2407,16 @@ sort: by_weight
 䚌	kaw
 䚎	trhoeung
 䚎	trhoeungh
-䚐	thek
 䚐	dzek
+䚐	thek
 䚔	phinh
 䚔	pin
 䚔	pinh
 䚕	lejh
 䚕	lih
 䚘	dzraeng
-䚙	hye
 䚙	huon
+䚙	hye
 䚜	pej
 䚝	dzot
 䚠	ghonq
@@ -2446,8 +2446,8 @@ sort: by_weight
 䛅	haep
 䛆	druh
 䛈	sjih
-䛋	tshieh
 䛋	gyeh
+䛋	tshieh
 䛌	daw
 䛍	pujh
 䛎	hwet
@@ -2460,8 +2460,8 @@ sort: by_weight
 䛝	naw
 䛞	ghanq
 䛠	touh
-䛢	thwa
 䛢	thouk
+䛢	thwa
 䛥	hyt
 䛩	qoq
 䛪	khungh
@@ -2474,9 +2474,9 @@ sort: by_weight
 䛽	tsreep
 䛾	soh
 䜃	toj
-䜅	tshou
-䜅	jwi
 䜅	djwi
+䜅	jwi
+䜅	tshou
 䜆	tjiep
 䜈	tsrhaew
 䜉	tsrhyit
@@ -2561,8 +2561,8 @@ sort: by_weight
 䞚	khyeq
 䞞	but
 䞠	tjiaek
-䞣	tshiaeh
 䞣	tjhiaeh
+䞣	tshiaeh
 䞤	guo
 䞤	phuoq
 䞥	uh
@@ -2590,8 +2590,8 @@ sort: by_weight
 䟂	mon
 䟃	tshom
 䟃	tshop
-䟄	tshiaek
 䟄	dzrweek
+䟄	tshiaek
 䟅	dziemq
 䟆	pit
 䟇	kyj
@@ -2599,16 +2599,16 @@ sort: by_weight
 䟊	gyo
 䟍	pen
 䟍	qyenq
-䟎	tsanh
 䟎	dzanq
+䟎	tsanh
 䟏	lek
 䟏	sjyak
 䟐	lek
 䟑	jyak
 䟒	guen
+䟓	treeng
 䟓	trhaeng
 䟓	trhiaeng
-䟓	treeng
 䟔	phuoh
 䟗	djieq
 䟘	ghangq
@@ -2622,8 +2622,8 @@ sort: by_weight
 䟣	trhwit
 䟧	den
 䟨	minq
-䟫	tjhyangq
 䟫	draeng
+䟫	tjhyangq
 䟯	khwat
 䟴	tjinh
 䟵	gu
@@ -2689,9 +2689,9 @@ sort: by_weight
 䡙	lang
 䡚	maewh
 䡜	luk
-䡝	quon
 䡝	qun
 䡝	qunq
+䡝	quon
 䡞	kuok
 䡣	ghon
 䡣	hyon
@@ -2704,8 +2704,8 @@ sort: by_weight
 䡰	kheeng
 䡲	dzreen
 䡲	dzryen
-䡴	tjhuong
 䡴	droeungh
+䡴	tjhuong
 䡵	zwih
 䡼	leng
 䡽	tswan
@@ -2738,8 +2738,8 @@ sort: by_weight
 䢵	un
 䢸	tshyo
 䢹	kyoq
-䢻	tjinh
 䢻	djin
+䢻	tjinh
 䢼	kuong
 䢿	qan
 䢿	qanh
@@ -2777,8 +2777,8 @@ sort: by_weight
 䣣	tangq
 䣤	guak
 䣧	jyk
-䣩	drwin
 䣩	djwin
+䣩	drwin
 䣪	phat
 䣮	bat
 䣵	njyh
@@ -2791,14 +2791,14 @@ sort: by_weight
 䣿	huo
 䣿	quo
 䣿	uo
-䤁	jim
 䤁	dzim
+䤁	jim
 䤂	moj
 䤃	qyim
 䤅	do
 䤅	dou
-䤇	suq
 䤇	sru
+䤇	suq
 䤉	mit
 䤍	mej
 䤎	kwit
@@ -2829,9 +2829,9 @@ sort: by_weight
 䥈	moq
 䥉	quon
 䥍	bejh
+䥍	siet
 䥍	tjih
 䥍	tjip
-䥍	siet
 䥏	ngyoq
 䥗	khwanh
 䥗	khwanq
@@ -2850,13 +2850,13 @@ sort: by_weight
 䦋	ngaw
 䦌	trhuoh
 䦍	ngot
-䦏	ghejh
 䦏	gheejh
+䦏	ghejh
 䦐	thengq
 䦑	hwet
 䦔	thanq
-䦖	ghet
 䦖	gheet
+䦖	ghet
 䦗	huik
 䦘	gheenq
 䦝	hweek
@@ -2864,8 +2864,8 @@ sort: by_weight
 䦪	qaet
 䦱	khwee
 䦱	ueq
-䦲	tjhiemh
 䦲	jiem
+䦲	tjhiemh
 䦳	hyangh
 䦵	mieq
 䦵	nejq
@@ -2892,8 +2892,8 @@ sort: by_weight
 䧨	ngyop
 䧪	tjhiep
 䧰	ghonq
-䧴	tjie
 䧴	sjieh
+䧴	tjie
 䧼	kok
 䨁	muoh
 䨂	tshu
@@ -2909,8 +2909,8 @@ sort: by_weight
 䨡	ghom
 䨢	domq
 䨣	keek
-䨥	tjiaek
 䨥	ghwak
+䨥	tjiaek
 䨦	phang
 䨨	trwi
 䨮	swiet
@@ -2931,9 +2931,9 @@ sort: by_weight
 䩇	treem
 䩉	buoq
 䩊	qwat
+䩌	dziew
 䩌	tsiew
 䩌	tsiewh
-䩌	dziew
 䩍	liewq
 䩏	met
 䩐	hot
@@ -2985,8 +2985,8 @@ sort: by_weight
 䪌	dzraemh
 䪌	dzreemh
 䪍	lan
-䪎	srue
 䪎	soj
+䪎	srue
 䪏	nop
 䪐	pyih
 䪒	tjuoh
@@ -3013,8 +3013,8 @@ sort: by_weight
 䪷	houh
 䪸	myin
 䪹	phyi
-䪻	byenh
 䪻	buonq
+䪻	byenh
 䪼	tjwiet
 䪾	tjinq
 䫀	keonq
@@ -3022,8 +3022,8 @@ sort: by_weight
 䫂	taq
 䫄	trhwaet
 䫅	somh
-䫆	gyaeng
 䫆	djiaeng
+䫆	gyaeng
 䫉	maewh
 䫌	phejq
 䫎	tjwiet
@@ -3043,24 +3043,24 @@ sort: by_weight
 䫟	unq
 䫠	byi
 䫠	phyi
+䫡	keemh
 䫡	khaemq
 䫡	kheemh
 䫡	kheemq
-䫡	keemh
 䫡	ngeem
 䫢	sie
 䫤	meng
-䫥	khy
 䫥	khojq
+䫥	khy
 䫥	ngojq
 䫦	kap
 䫧	ghaw
 䫨	ngaw
 䫨	ngawh
-䫩	tshomq
 䫩	somq
-䫪	tsrhyangq
+䫩	tshomq
 䫪	sryangq
+䫪	tsrhyangq
 䫬	tjimq
 䫲	homh
 䫲	homq
@@ -3076,8 +3076,8 @@ sort: by_weight
 䫾	phet
 䫾	pyik
 䫿	trhiew
-䬀	quq
 䬀	qiwq
+䬀	quq
 䬁	jie
 䬂	huot
 䬆	lih
@@ -3192,13 +3192,13 @@ sort: by_weight
 䮽	louk
 䮾	boung
 䮾	loeung
-䯂	sryin
 䯂	dzryip
-䯇	khweet
+䯂	sryin
 䯇	khot
+䯇	khweet
 䯈	ngwan
-䯉	qweet
 䯉	qot
+䯉	qweet
 䯊	kha
 䯋	bat
 䯋	khat
@@ -3230,27 +3230,27 @@ sort: by_weight
 䯽	bou
 䯽	phouq
 䯽	phuoq
-䯾	tjuh
 䯾	dew
 䯾	tew
+䯾	tjuh
 䰂	tsheojh
 䰂	tsheojq
 䰃	baeng
 䰃	pangq
 䰆	nju
-䰈	tshaq
 䰈	dza
+䰈	tshaq
 䰉	ban
 䰉	paen
-䰍	tshih
 䰍	hu
+䰍	tshih
 䰎	khuih
 䰏	tsejh
 䰐	lam
 䰒	moung
 䰓	men
-䰕	lyo
 䰕	lo
+䰕	lyo
 䰖	tsanh
 䰖	tsanq
 䰖	tsat
@@ -3266,17 +3266,17 @@ sort: by_weight
 䰥	ghweok
 䰧	ho
 䰩	tjhiaeq
-䰫	tsrhaew
 䰫	dzraewq
+䰫	tsrhaew
 䰯	ngyh
 䰰	njuo
 䰰	nou
 䰲	qeet
 䰴	kyt
 䰻	ngyo
-䰼	sjimq
 䰼	dzim
 䰼	dzomq
+䰼	sjimq
 䰽	pajh
 䱂	qew
 䱂	quq
@@ -3327,8 +3327,8 @@ sort: by_weight
 䲐	loq
 䲒	gheeq
 䲓	ngyemq
-䲔	gyang
 䲔	gyaeng
+䲔	gyang
 䲙	tset
 䲚	lajh
 䲚	that
@@ -3341,8 +3341,8 @@ sort: by_weight
 䲱	phuangq
 䲸	keejh
 䲹	byi
-䲽	tewq
 䲽	djiaek
+䲽	tewq
 䲾	khaewq
 䳀	det
 䳀	jit
@@ -3410,8 +3410,8 @@ sort: by_weight
 䴲	mat
 䴳	ghweet
 䴵	piaengq
-䴷	ghwaenq
 䴷	ghon
+䴷	ghwaenq
 䴹	ghwaeq
 䴹	kwaq
 䴺	bouq
@@ -3464,10 +3464,10 @@ sort: by_weight
 䵽	tshap
 䶀	khap
 䶀	thop
-䶂	tsyak
-䶂	tjyak
 䶂	paewh
 䶂	tek
+䶂	tjyak
+䶂	tsyak
 䶃	ghom
 䶃	kom
 䶄	beng
@@ -3491,18 +3491,18 @@ sort: by_weight
 䶜	kok
 䶞	gy
 䶞	khy
-䶢	kheep
 䶢	keep
+䶢	kheep
 䶣	keoj
+䶥	dzrae
 䶥	tsrae
 䶥	tsryo
-䶥	dzrae
 䶦	tsrheek
 䶩	dzejh
 䶬	ken
 䶬	ngyet
-䶱	tjung
 䶱	dong
+䶱	tjung
 䶲	njiem
 䶲	nom
 䶴	tjhwie
@@ -3543,6 +3543,7 @@ sort: by_weight
 丙	pyaengq
 丞	djyng
 丞	djyngh
+丟	tiw
 丠	khu
 両	lyangq
 丣	juq
@@ -3558,16 +3559,16 @@ sort: by_weight
 丯	keejh
 丰	phuong
 丱	kwaenh
-串	tjhwienh
 串	kwaenh
+串	tjhwienh
 丳	tsrheenq
 丵	dzroeuk
 丶	truoq
 丸	ghwan
 丹	tan
 主	tjuoq
-丼	tsiaengq
 丼	tomq
+丼	tsiaengq
 丽	lejh
 丿	jiejh
 丿	phet
@@ -3592,6 +3593,7 @@ sort: by_weight
 乘	zjyngh
 乙	qyit
 乚	qynq
+乜	miaeq
 九	kuq
 乞	khyt
 也	jiaeq
@@ -3607,8 +3609,8 @@ sort: by_weight
 了	lewq
 予	jyo
 予	jyoq
-事	tsryh	2%
 事	dzryh
+事	tsryh	2%
 二	njih
 亍	trhuok
 亍	truoh
@@ -3635,8 +3637,8 @@ sort: by_weight
 交	kaew
 亥	gheojq
 亦	jiaek
-亨	hyangq	2%
 亨	haeng
+亨	hyangq	2%
 亨	phaeng	2%
 享	hyangq
 京	kyaeng
@@ -3653,13 +3655,13 @@ sort: by_weight
 亾	muang
 什	djip
 仁	njin
-仂	lyk
 仂	leok
+仂	lyk
 仃	teng
 仄	tsryk
 仆	beok
-仆	phuh
 仆	phouh
+仆	phuh
 仆	phuoh
 仇	gu
 仉	tjyangq
@@ -3690,9 +3692,9 @@ sort: by_weight
 代	deojh
 令	leng
 令	lengh
-令	lien
 令	liaeng
 令	liaengh
+令	lien
 以	jyq
 仨	sam
 仨	sap
@@ -3702,8 +3704,8 @@ sort: by_weight
 仰	ngyangh
 仰	ngyangq
 仲	drungh
-仳	byiq
 仳	bi
+仳	byiq
 仳	phieq
 仵	ngoq
 件	gyenq
@@ -3729,9 +3731,9 @@ sort: by_weight
 伊	qi
 伋	kyip
 伍	ngoq
-伎	tjieh
-伎	gyeq
 伎	gie
+伎	gyeq
+伎	tjieh
 伏	buh	2%
 伏	buk
 伐	buot
@@ -3749,16 +3751,16 @@ sort: by_weight
 伶	leng
 伷	druh
 伸	sjin
-伹	tshyo
 伹	dzoq
+伹	tshyo
 伺	sy
 伺	syh
 伻	pheeng
 似	zyq
 伽	gya
 伾	phyi
-伿	tjieh
 伿	jieh
+伿	tjieh
 佀	zyq
 佁	jyojq
 佁	jyq
@@ -3789,14 +3791,14 @@ sort: by_weight
 佔	tem
 何	gha
 何	ghaq	1%
-佖	byit
 佖	bit
+佖	byit
 佗	da
 佗	tha
 佘	djiae
 佘	zjiae
-余	jyo
 余	djiae
+余	jyo
 佚	jit
 佛	but
 作	tsah
@@ -3817,15 +3819,15 @@ sort: by_weight
 佮	kop
 佮	qop
 佮	thop
-佯	jyang
 佯	dzyang
+佯	jyang
 佰	maek
 佰	paek
 佳	kee
 佴	neojh
 佴	njyh
-併	bengq
 併	beengq
+併	bengq
 併	piaengh
 併	piaengq
 佶	gyit
@@ -3850,8 +3852,8 @@ sort: by_weight
 侃	khanh
 侃	khanq
 侄	tjit
-侅	gheojq
 侅	gheejq
+侅	gheojq
 侅	keoj
 侅	kheoj
 來	leoj
@@ -3863,8 +3865,8 @@ sort: by_weight
 侍	djyh
 侎	mieq
 侏	tjuo
-侐	hwih
 侐	huik
+侐	hwih
 侑	uh
 侒	qan
 侔	mu
@@ -3886,8 +3888,8 @@ sort: by_weight
 侯	ghou
 侲	tjin
 侲	tjinh
-侳	tswah
 侳	tsua
+侳	tswah
 侴	trhuq
 侵	tshim
 侶	lyoq
@@ -3919,11 +3921,12 @@ sort: by_weight
 俒	ghon
 俒	ghonh
 俓	kengh
-俓	ngen
 俓	ngeeng
+俓	ngen
 俔	ghenq
 俔	khenh
 俕	somh
+俖	phojq
 俗	zuok
 俘	phuo
 俙	hyj
@@ -3946,20 +3949,20 @@ sort: by_weight
 俱	kuo
 俲	ghaewh
 俳	beej
-俴	tsienq
 俴	dzienq
+俴	tsienq
 俵	pyewh
 俶	tjhuk
 俸	buongh
 俸	poungq
 俹	qaeh
-俺	qyomh	2%
-俺	qyemh	2%
 俺	qomq
+俺	qyemh	2%
+俺	qyomh	2%
 俻	byih
 俾	pieq
-倀	trhyang
 倀	traengh
+倀	trhyang
 倂	piaengh
 倃	guq
 倃	kaw
@@ -3973,6 +3976,7 @@ sort: by_weight
 個	kah
 倌	kwaenh
 倌	kwan
+倍	bojq
 倏	sjuk
 倐	sjuk
 們	mon
@@ -4012,9 +4016,9 @@ sort: by_weight
 倪	ngej
 倫	lwin
 倬	troeuk
+倭	que
 倭	qwa
 倭	qwaq
-倭	que
 倮	lwaq
 倯	suong
 倰	leong
@@ -4039,6 +4043,7 @@ sort: by_weight
 偈	gyet
 偉	ujq
 偋	biaengh
+偌	njah
 偎	qoj
 偏	phien
 偏	phienh
@@ -4063,22 +4068,22 @@ sort: by_weight
 偤	ju
 健	gyonh
 偩	buq
-偪	pyik
 偪	puk
+偪	pyik
 偬	tsoungh
 偬	tsoungq
 偭	mienh
 偭	mienq
 偯	qyjq
 偰	set
-偲	tsheoj
 偲	sy
+偲	tsheoj
 偳	thwan
 偳	twan
 側	tsryk
+偵	traengh
 偵	trhiaeng
 偵	trhiaengh
-偵	traengh
 偶	ngouh
 偶	ngouq
 偷	thou
@@ -4107,8 +4112,8 @@ sort: by_weight
 傓	sjienh
 傔	khemh
 傕	koeuk
-傖	tshang
 傖	dzraeng
+傖	tshang
 傗	trhuk
 傘	sanq
 備	byih
@@ -4118,8 +4123,8 @@ sort: by_weight
 傜	jiew
 傝	thap
 傝	thomh
-傞	tsha
 傞	sa
+傞	tsha
 傡	beengh
 傡	beengq
 傢	kae
@@ -4167,9 +4172,9 @@ sort: by_weight
 僋	lomh
 僋	thom
 僋	thomh
-僎	tswin
 僎	dzruenh
 僎	dzruenq
+僎	tswin
 像	zyangq
 僐	djienh
 僐	djienq
@@ -4178,8 +4183,8 @@ sort: by_weight
 僓	ghojh
 僓	thojq
 僔	tsonq
-僕	bouk
 僕	bok
+僕	bouk
 僖	hy
 僗	lawh
 僘	tjhyangq
@@ -4204,12 +4209,12 @@ sort: by_weight
 僨	punh
 僩	ghaenq
 僩	keenq
+僬	dziew
 僬	tsiew
 僬	tsiewh
-僬	dziew
 僭	tsemh
-僮	droeungh	2%
 僮	doung
+僮	droeungh	2%
 僯	linq
 僰	beok
 僱	koh
@@ -4261,9 +4266,9 @@ sort: by_weight
 儘	tsinq
 儛	muoq
 儜	nreeng
-償	sjyangq
 償	djyang
 償	djyangh
+償	sjyangq
 儠	liep
 儡	loj
 儡	lojq
@@ -4281,9 +4286,9 @@ sort: by_weight
 儱	loungq
 儱	luongh
 儲	dryo
-儳	tsrhaemh
 儳	dzreem
 儳	dzreemh
+儳	tsrhaemh
 儴	njyang
 儵	sjuk
 儶	ghwejh
@@ -4345,8 +4350,8 @@ sort: by_weight
 其	ky
 具	guoh
 典	tenq
-兹	tsy
 兹	dzy	1%
+兹	tsy
 兼	kem
 兼	kemh
 兾	kyih
@@ -4391,9 +4396,9 @@ sort: by_weight
 决	kwet
 况	huangh
 冶	jiaeq
+冷	laengq
 冷	leng	5%
 冷	lengq	20%
-冷	laengq
 冸	phanh
 冹	puot
 冹	put
@@ -4421,8 +4426,8 @@ sort: by_weight
 凜	limq
 凝	ngyng
 凝	ngyngh
-几	kyiq
 几	djuo	1%
+几	kyiq
 凡	buom
 凭	bying
 凭	byingh
@@ -4430,16 +4435,16 @@ sort: by_weight
 凱	kheojq
 凳	teongh
 凶	huong
-凷	khweejh
-凷	khwajh
 凷	khojh
+凷	khwajh
+凷	khweejh
 凸	det
 凸	dot
 凹	qeep
 出	tjhwih	5%
 出	tjhwit
-函	ghom	20%
 函	gheem
+函	ghom	20%
 刀	taw
 刁	tew
 刂	taw
@@ -4453,17 +4458,17 @@ sort: by_weight
 刌	tshonq
 刎	munq
 刏	gyj
-刏	kyj
 刏	kojh
+刏	kyj
 刑	gheng
 划	ghwae
 划	kwah
 划	kwaq
 刓	ngwan
 刕	li
-刖	ngwaet
 刖	ngot
 刖	nguot
+刖	ngwaet
 列	liet
 列	truo	1%
 刜	but
@@ -4488,12 +4493,12 @@ sort: by_weight
 刴	twah
 刵	njyh
 制	tjiejh
-刷	srwaet
 刷	sruet
+刷	srwaet
 券	khuonh
 刹	tsrhaet
-刺	tshieh
 刺	tshiaek
+刺	tshieh
 刻	kheok
 刾	tshieh
 剁	twah
@@ -4525,8 +4530,8 @@ sort: by_weight
 剟	trwiet
 剟	twat
 剠	gyaeng
-剡	jiemq
 剡	djiemq
+剡	jiemq
 剢	touk
 剥	poeuk
 剨	hweek
@@ -4537,22 +4542,22 @@ sort: by_weight
 剬	twan
 剭	qouk
 剮	kwaeq
-副	phyik	5%
 副	phuh	5%
 副	phuk
+副	phyik	5%
 剰	zjyngh
 割	kat
 剴	keoj
 剴	ngeoj
 創	tsrhyang
 創	tsrhyangh
-剶	tswien
 剶	trhwien
+剶	tswien
 剷	tsrheenq
+剸	dwan
 剸	tjwien
 剸	tjwienh
 剸	tjwienq
-剸	dwan
 剹	luk
 剺	ly
 剻	pheongq
@@ -4578,14 +4583,14 @@ sort: by_weight
 劌	kuejh
 劍	kyomh
 劐	hwak
-劑	tswie	1%
 劑	dzejh
+劑	tswie	1%
 劒	kyomh
 劓	ngyih
 劔	kyomh
 劕	tjit
-劗	tswan
 劗	dzwan
+劗	tswan
 劘	ma
 劙	lejh
 劙	lejq
@@ -4645,8 +4650,8 @@ sort: by_weight
 勤	gyn
 勥	gyang
 勥	gyangq
-勦	tsiewq
 勦	dzraew
+勦	tsiewq
 勨	jyangq
 勨	zyangq
 勩	jiejh
@@ -4663,8 +4668,8 @@ sort: by_weight
 勷	njyang
 勸	khuonh
 勹	paew
-勺	tjyak	10%
 勺	djyak
+勺	tjyak	10%
 勻	jwin
 勼	ku
 勽	bawh
@@ -4684,8 +4689,8 @@ sort: by_weight
 匌	kop
 匍	bo
 匏	baew
-匐	buk
 匐	beok
+匐	buk
 匑	khung
 匑	kung
 匕	piq
@@ -4772,10 +4777,10 @@ sort: by_weight
 却	khyak
 卵	lwanq
 卵	lwaq
-卶	tjhieh
 卶	sjieh
-卷	guonq
+卶	tjhieh
 卷	guen
+卷	guonq
 卷	kuenh
 卷	kuenq
 卸	siaeh
@@ -4794,8 +4799,8 @@ sort: by_weight
 厊	ngaeq
 厎	tjiq
 厎	tjyq
-厏	tsraeq
 厏	dzraeq
+厏	tsraeq
 厓	ngee
 厖	moeung
 厗	dej
@@ -4816,8 +4821,8 @@ sort: by_weight
 厭	qiemh
 厭	qiemq
 厭	qiep
-厱	khyom
 厱	kheem
+厱	khyom
 厲	liejh
 厴	qiemq
 厵	nguon
@@ -4827,14 +4832,15 @@ sort: by_weight
 去	khyoh
 去	khyoq	3%
 厽	lwieq
-叀	tjwien
+厾	tiw
 叀	djwienh
+叀	tjwien
 叁	sam
+參	sam	10%
+參	sryim	10%
 參	tshom
 參	tshomh	10%
 參	tsrhyim	10%
-參	sam	10%
-參	sryim	10%
 又	uh
 叉	tsrhae
 叉	tsrhee
@@ -4866,8 +4872,8 @@ sort: by_weight
 只	tjie	4%
 只	tjieq
 叫	kewh
-召	driewh
 召	djiewh	5%
+召	driewh
 叭	pheet
 叮	teng
 可	khaq
@@ -4925,8 +4931,8 @@ sort: by_weight
 吣	tshimh
 否	byiq	30%
 否	puq
-吧	phae	2%
 吧	pae
+吧	phae	2%
 吨	thonq
 吩	pun
 吪	ngwa
@@ -4936,16 +4942,16 @@ sort: by_weight
 吭	ghang
 吭	ghangh
 吭	ghangq
-吮	zjwinq
 吮	dzwienq
+吮	zjwinq
 启	khejq
 吰	ghweeng
 吱	khieh
 吲	jinq
 吳	ngo
 吴	ngo
-吵	tsrhaewq
 吵	miewq
+吵	tsrhaewq
 吶	nop
 吸	hyip
 吹	tjhwie
@@ -4955,8 +4961,8 @@ sort: by_weight
 吼	houh
 吼	houq
 吽	houq
-吾	ngo
 吾	ngae
+吾	ngo
 吿	kawh
 吿	kok
 呀	hae
@@ -4989,8 +4995,8 @@ sort: by_weight
 呭	jiejh
 呰	tsieq
 呱	ko
-呲	tsie
 呲	dzie
+呲	tsie
 味	mujh
 呴	houq
 呴	huoh
@@ -5006,15 +5012,15 @@ sort: by_weight
 呾	qaet
 呾	tat
 呿	khya
-呿	khyop
 呿	khyoh
-咀	tsyoq
-咀	qaet
+呿	khyop
 咀	dzyoq
+咀	qaet
+咀	tsyoq
 咁	kam
 咂	tsop
-咄	twat
 咄	tot
+咄	twat
 咅	thouh
 咆	baew
 咇	bet
@@ -5024,9 +5030,9 @@ sort: by_weight
 咉	qang
 咉	qangq
 咊	ghwa
+咋	dzraek
 咋	tsraeh
 咋	tsreek
-咋	dzraek
 和	ghwa
 和	ghwah	5%
 咍	heoj
@@ -5053,6 +5059,7 @@ sort: by_weight
 咦	hi
 咧	liet
 咨	tsi
+咩	miae
 咩	mieq
 咪	mej
 咪	mieq
@@ -5091,13 +5098,13 @@ sort: by_weight
 哂	sjinq
 哃	doung
 哄	ghoungh
+哆	tah
+哆	taq
 哆	tjhiaeq
 哆	tjhieq
 哆	tjhyh
-哆	tah
-哆	taq
-哆	trhae
 哆	traeh
+哆	trhae
 哇	qee
 哇	qwae
 哈	hop
@@ -5117,10 +5124,10 @@ sort: by_weight
 哤	moeung
 哥	ka
 哦	nga
-哧	tjhiaek
 哧	sjiaek
-哨	tshiewh
+哧	tjhiaek
 哨	siew
+哨	tshiewh
 哩	lyq
 哪	naq
 哫	tsuok
@@ -5150,10 +5157,10 @@ sort: by_weight
 唅	hom
 唆	swa
 唇	tjin
-唈	qyip
 唈	qop
-唉	qeoj
+唈	qyip
 唉	qeejq
+唉	qeoj
 唊	kep
 唌	dan
 唏	hyjh
@@ -5163,8 +5170,8 @@ sort: by_weight
 唔	ngo
 唕	dzawq
 唚	tshimh
-唧	tsyk
 唧	tsit
+唧	tsyk
 唪	boungq
 唪	buongq
 唫	gyimq
@@ -5175,8 +5182,8 @@ sort: by_weight
 售	djuh
 唯	jwi
 唯	jwiq
-唰	srwaet
 唰	sruet
+唰	srwaet
 唱	tjhyangh
 唲	njie
 唳	lejh
@@ -5188,19 +5195,19 @@ sort: by_weight
 唸	temh
 唸	tenh
 唹	qyo
-唻	leojq
 唻	leej
+唻	leojq
+唼	sraep
 唼	tsiep
 唼	tsop
-唼	sraep
 唾	thwah
 啀	ngee
 啁	traew
 啁	tru
 啂	nouq
 啃	kheonq
-啄	troeuk
 啄	touk
+啄	troeuk
 啅	troeuk
 商	sjyang
 啇	tek
@@ -5210,9 +5217,9 @@ sort: by_weight
 啍	don
 啎	ngoh
 問	munh
+啐	sojh
 啐	tshojh
 啐	tswit
-啐	sojh
 啑	sraep
 啑	tejh
 啒	hot
@@ -5223,20 +5230,21 @@ sort: by_weight
 啖	damq
 啗	damh
 啗	damq
+啙	dzejq
 啙	tsej
 啙	tsieq
-啙	dzejq
 啚	do
 啚	pyiq
+啜	djwiejh
 啜	tjhwiet
 啜	trwiejh
 啜	trwiet
-啜	djwiejh
 啞	qaeh
 啞	qaek
 啞	qaeq
 啞	qeek
 啟	khejq
+啡	phojq
 啣	ghaem
 啤	bie
 啥	sjiaeq
@@ -5269,28 +5277,28 @@ sort: by_weight
 喌	tjuk
 喎	khwee
 喏	njiaeq
+喑	qom
 喑	qyim
 喑	qyimh
-喑	qom
 喓	qiew
 喔	qoeuk
 喗	ngunq
 喘	tjhwienq
 喙	huojh
 喚	hwanh
-喛	hwanh
 喛	huon
+喛	hwanh
 喜	hyq
 喝	hat
 喝	qaejh	2%
-喟	khweejh
 喟	khuih
+喟	khweejh
 喠	tjhuongq
 喠	tjuongq
-喢	tjhiep
-喢	tsrheep
 喢	sreep
 喢	sryep
+喢	tjhiep
+喢	tsrheep
 喣	huoq
 喤	ghwaeng
 喤	hwaeng
@@ -5305,12 +5313,12 @@ sort: by_weight
 喬	kyew
 喭	nganh
 喭	ngyenh
-單	tan
 單	djien	5%
 單	djienh	5%
 單	djienq	5%
-喰	tshan
+單	tan
 喰	son
+喰	tshan
 喱	ly
 喲	qyak
 喳	tsrae
@@ -5322,9 +5330,9 @@ sort: by_weight
 嗀	houk
 嗁	dej
 嗂	jiew
-嗃	hak
 嗃	haew
 嗃	haewh
+嗃	hak
 嗄	qaejh
 嗄	sraeh
 嗅	huh
@@ -5343,8 +5351,8 @@ sort: by_weight
 嗒	thap
 嗒	top
 嗓	sangq
-嗔	tjhin
 嗔	den
+嗔	tjhin
 嗕	njuok
 嗖	sruh
 嗖	sruk
@@ -5358,8 +5366,8 @@ sort: by_weight
 嗟	tsiae
 嗡	qoung
 嗡	qoungq
-嗢	qweet
 嗢	qot
+嗢	qweet
 嗣	zyh
 嗤	tjhy
 嗥	ghaw
@@ -5373,19 +5381,19 @@ sort: by_weight
 嗷	ngaw
 嗸	ngaw
 嗹	len
-嗺	tsoj
-嗺	tswiq
-嗺	tsuo
 嗺	soj
+嗺	tsoj
+嗺	tsuo
+嗺	tswiq
 嗻	tjiaeh
-嗼	mak
 嗼	maek
-嗽	sroeuk
+嗼	mak
 嗽	souh
 嗽	souk
-嗾	tshouh
+嗽	sroeuk
 嗾	souh
 嗾	souq
+嗾	tshouh
 嗿	thomq
 嘀	tek
 嘀	treek
@@ -5409,9 +5417,9 @@ sort: by_weight
 嘔	qou
 嘔	qouq
 嘕	hyen
+嘖	dzreek
 嘖	tsraek
 嘖	tsreek
-嘖	dzreek
 嘗	djyang
 嘘	hyoh
 嘛	mae
@@ -5430,8 +5438,8 @@ sort: by_weight
 嘯	sewh
 嘰	kyj
 嘲	traew
-嘳	khweejh
 嘳	khuih
+嘳	khweejh
 嘴	tswieq
 嘵	hew
 嘶	sej
@@ -5442,8 +5450,8 @@ sort: by_weight
 嘺	giew
 嘻	hy
 嘼	huh
-嘽	tjhienq
 嘽	than
+嘽	tjhienq
 嘾	domq
 嘿	heok
 噁	qoh
@@ -5459,8 +5467,8 @@ sort: by_weight
 噋	khwak
 噋	thon
 噌	tsrheeng
-噍	tsiew
 噍	dziewh
+噍	tsiew
 噎	qet
 噏	hyip
 噑	ghaw
@@ -5480,23 +5488,23 @@ sort: by_weight
 噢	quk
 噢	quoq
 噣	tjuok
-噣	truh
-噣	troeuk
 噣	touh
+噣	troeuk
+噣	truh
 噤	gyimh
 噤	gyimq
-噥	nroeung
 噥	nong
+噥	nroeung
 噦	hwajh
-噦	quot
 噦	quet
+噦	quot
 噧	heejh
 噧	that
 器	khyih
 噩	ngak
 噪	sawh
-噫	qy
 噫	qeejh
+噫	qy
 噬	djiejh
 噭	kewh
 噮	qwenh
@@ -5535,8 +5543,8 @@ sort: by_weight
 嚗	poeuk
 嚘	qu
 嚚	ngyin
-嚛	houk
 嚛	hok
+嚛	houk
 嚜	myih
 嚝	hwaeng
 嚞	triet
@@ -5554,17 +5562,17 @@ sort: by_weight
 嚲	taq
 嚳	khok
 嚴	ngyom
-嚵	tsrhaemh
 嚵	dziemq
 嚵	dzraem
+嚵	tsrhaemh
 嚶	qeeng
 嚷	njyangq
 嚻	hyew
 嚼	dzyak
 嚾	hwanh
 囀	trwienh
-囁	tjiep
 囁	njiep
+囁	tjiep
 囂	hyew
 囃	tshap
 囅	trhienq
@@ -5592,15 +5600,15 @@ sort: by_weight
 囦	qwen
 囧	kuaengq
 囩	uin
-囪	tsrhoeung
 囪	tshoung
+囪	tsrhoeung
 囫	hot
 园	ngwan
 囮	ju
 囮	ngwa
 困	khonh
-囱	tsrhoeung
 囱	tshoung
+囱	tsrhoeung
 囷	khuin
 囹	leng
 固	koh
@@ -5613,9 +5621,9 @@ sort: by_weight
 圄	ngyoq
 圅	ghom
 圇	lwin
+圈	guenq	1%
 圈	guonh	0%
 圈	guonq	5%
-圈	guenq	1%
 圈	khuen
 圉	ngyoq
 圊	tshiaeng
@@ -5648,8 +5656,8 @@ sort: by_weight
 在	dzeojq
 圩	khyo
 圩	uo
-圪	ngyt
 圪	ngyit
+圪	ngyt
 圬	qo
 圭	kwej
 圮	byiq
@@ -5658,8 +5666,8 @@ sort: by_weight
 圱	tshen
 圳	tjwinh
 圻	gyj
-圻	ngyn
 圻	ngeon
+圻	ngyn
 圼	net
 圾	sop
 圿	keet
@@ -5713,9 +5721,9 @@ sort: by_weight
 坹	hwet
 坺	bat
 坺	buot
-坻	tjieq	20%
 坻	dri	20%
 坻	tejq
+坻	tjieq	20%
 坼	trhaek
 坿	buo
 坿	buoh
@@ -5740,9 +5748,9 @@ sort: by_weight
 垛	dwaq
 垝	kueh
 垝	kueq
+垠	ngeon
 垠	ngyin
 垠	ngyn
-垠	ngeon
 垡	buot
 垢	kouq
 垣	uon
@@ -5774,8 +5782,8 @@ sort: by_weight
 城	djiaeng
 埏	jien
 埏	sjien
-埐	tsim
 埐	dzim
+埐	tsim
 埒	lwiet
 埔	phoq
 埕	driaeng
@@ -5783,14 +5791,14 @@ sort: by_weight
 埝	temh
 域	uik
 埠	boh
+埡	qaeh
 埡	qoh
 埡	qoq
-埡	qaeh
 埢	kuenq
 埤	bie
 埧	guoh
-埩	tsreeng
 埩	dzreeng
+埩	tsreeng
 埪	khoung
 埫	trhuongq
 埬	toung
@@ -5801,8 +5809,8 @@ sort: by_weight
 埱	tjhuk
 埲	boungq
 埳	khomq
-埴	tjhyh
 埴	djyk
+埴	tjhyh
 埵	twaq
 埶	ngiejh
 執	tjip
@@ -5810,9 +5818,9 @@ sort: by_weight
 培	boj
 培	bouq
 基	ky
-埻	tjwinq
-埻	kweek
 埻	kwak
+埻	kweek
+埻	tjwinq
 埼	gye
 埽	sawh
 埽	sawq
@@ -5822,8 +5830,8 @@ sort: by_weight
 埿	nejh
 堀	gut
 堀	khot
-堁	khwah
 堁	khojh
+堁	khwah
 堁	khwaq
 堂	dang
 堃	khon
@@ -5837,8 +5845,8 @@ sort: by_weight
 堉	juk
 堊	qak
 堋	beong
-堋	pheong
 堋	peongh
+堋	pheong
 堍	thoh
 堖	nawq
 堗	dot
@@ -5853,9 +5861,9 @@ sort: by_weight
 堡	pawq
 堢	pawq
 堣	nguo
+堤	djie
 堤	tej
 堤	tejq
-堤	djie
 堥	maw
 堥	mu
 堦	keej
@@ -5864,8 +5872,8 @@ sort: by_weight
 堨	qat
 堩	keongh
 堪	khom
-堫	tsrhoeung
 堫	tsoung
+堫	tsrhoeung
 堬	juo
 堭	ghwang
 堮	ngak
@@ -5873,9 +5881,9 @@ sort: by_weight
 堰	qyonh
 堰	qyonq
 報	pawh
-堲	tsyk
-堲	tsit
 堲	dzyk
+堲	tsit
+堲	tsyk
 場	dryang
 堵	tjiaeq	1%
 堵	toq	99%
@@ -5889,8 +5897,8 @@ sort: by_weight
 塈	gyih
 塈	hyjh
 塉	dziaek
-塊	khweejh
 塊	khojh
+塊	khweejh
 塋	jwiaeng
 塌	thap
 塍	zjyng
@@ -6041,17 +6049,17 @@ sort: by_weight
 夅	ghoeung
 夆	buong
 夆	ghajh
-夊	tsrhue
 夊	swi
+夊	tsrhue
 夋	tshwin
 夌	lyng
 复	buk
-夎	tswah
 夎	tsojh
+夎	tswah
 夏	ghaeh
 夏	ghaeq
-夐	hwiaengh
 夐	hwenh
+夐	hwiaengh
 夔	gui
 夕	ziaek
 外	ngwajh
@@ -6069,12 +6077,12 @@ sort: by_weight
 夢	mung	5%
 夢	mungh
 夤	jin
-夥	ghweeq
 夥	ghwaq
-大	dajh
+夥	ghweeq
 大	dah	5%
-夨	tsryk
+大	dajh
 夨	let
+夨	tsryk
 天	then
 太	thajh
 夫	buo	5%
@@ -6102,8 +6110,8 @@ sort: by_weight
 奅	phaewh
 奇	gye
 奇	kye
-奈	najh
 奈	nah
+奈	najh
 奉	buongq
 奊	ghet
 奎	khwej
@@ -6118,6 +6126,7 @@ sort: by_weight
 奔	pon
 奔	ponh
 奕	jiaek
+套	thawh
 奘	dzangh
 奘	dzangq
 奚	ghej
@@ -6142,29 +6151,29 @@ sort: by_weight
 奮	punh
 奯	hwat
 奰	byih
-奲	tjhiaeq
 奲	taq
+奲	tjhiaeq
 女	njyoq	1%
 女	nryoh	3%
 女	nryoq
 奴	no
 奵	tengq
 奶	nreeq
-奸	kan
 奸	kaen
+奸	kan
 她	tha
 奻	nrwaen
 奻	nrwaenh
-奼	trhaeq
 奼	toh
 奼	traeh
+奼	trhaeq
 好	hawh	30%
 好	hawq
 奾	sien
 奿	phuonh
 妀	kyq
-妁	tjyak
 妁	djyak
+妁	tjyak
 如	njyo
 如	njyoh
 妃	phojh	5%
@@ -6184,15 +6193,15 @@ sort: by_weight
 妓	gyeq
 妓	kye
 妖	qyew
-妗	tjhiem
 妗	gyimh
-妗	hem
 妗	heem
+妗	hem
+妗	tjhiem
 妘	un
 妙	miewh
 妛	tjhy
-妜	qwiet
 妜	qwet
+妜	qwiet
 妝	tsryang
 妠	nomh
 妠	nop
@@ -6231,8 +6240,8 @@ sort: by_weight
 姁	huoq
 姂	buop
 姂	phuomh
-姅	phanh
 姅	panh
+姅	phanh
 姆	mouh
 姆	mouq
 姇	phuo
@@ -6253,8 +6262,8 @@ sort: by_weight
 委	queq
 姕	tshie
 姕	tsie
-姘	pheng
 姘	pheeng
+姘	pheng
 姚	jiew
 姛	doungq
 姜	kyang
@@ -6288,9 +6297,9 @@ sort: by_weight
 姺	senq
 姺	sryin
 姻	qin
-姼	tjhieq
 姼	djie
 姼	djieq
+姼	tjhieq
 姽	kueq
 姽	ngueq
 姿	tsi
@@ -6306,8 +6315,8 @@ sort: by_weight
 娏	moeung
 娑	sa
 娑	saq
-娓	myih
 娓	mujq
+娓	myih
 娔	kheok
 娕	tsrhoeuk
 娖	tsrhoeuk
@@ -6322,8 +6331,8 @@ sort: by_weight
 娝	pyiq
 娞	nojq
 娟	qwien
-娠	tjinh
 娠	sjin
+娠	tjinh
 娡	tjyh
 娣	dejh
 娣	dejq
@@ -6331,17 +6340,17 @@ sort: by_weight
 娧	jwiet
 娧	thwajh
 娨	ghaenh
-娩	myenq
+娩	munh
 娩	muonh
 娩	muonq
-娩	munh
+娩	myenq
 娩	phuonh
 娪	ngo
 娬	muoq
 娭	hy
 娵	tsuo
-娶	tshuoh
 娶	suo
+娶	tshuoh
 娷	trwieh
 娸	khy
 娺	trweet
@@ -6379,17 +6388,17 @@ sort: by_weight
 婟	ghoh
 婟	ghoq
 婠	kwanh
-婠	qweet
 婠	qwan
+婠	qweet
 婢	bieq
 婣	qin
 婤	tju
 婤	trhu
 婥	tjhyak
 婦	buq
-婧	tsiaeng
 婧	dziaengh
 婧	dziaengq
+婧	tsiaeng
 婪	lom
 婬	jim
 婭	qaeh
@@ -6419,13 +6428,13 @@ sort: by_weight
 媐	jy
 媒	moj
 媓	ghwang
-媕	qyemq
 媕	qom
 媕	qop
+媕	qyemq
 媖	qyaeng
 媚	myih
-媛	uon
 媛	uenh
+媛	uon
 媞	dej
 媞	dejq
 媞	djieq
@@ -6458,19 +6467,19 @@ sort: by_weight
 媻	ba
 媻	ban
 媼	qawq
-媽	moq
 媽	mae
+媽	moq
 媾	kouh
 媿	kuih
 嫁	kaeh
 嫂	sawq
 嫄	nguon
+嫇	meeng
 嫇	meng
 嫇	mengq
-嫇	meeng
-嫈	qwiaeng
 嫈	qeeng
 嫈	qeengh
+嫈	qwiaeng
 嫉	dzih
 嫉	dzit
 嫋	newq
@@ -6488,18 +6497,18 @@ sort: by_weight
 嫠	ly
 嫡	tek
 嫡	traek
-嫢	tsie
 嫢	ghenq
 嫢	gwiq
+嫢	tsie
 嫣	hyen
-嫣	qyonh
 嫣	qyen
 嫣	qyenq
+嫣	qyonh
 嫥	tjwien
 嫦	djyang
 嫧	tshiaek
-嫧	tsrheek
 嫧	tsreek
+嫧	tsrheek
 嫩	nonh
 嫪	law
 嫪	lawh
@@ -6541,11 +6550,11 @@ sort: by_weight
 嬒	qwat
 嬔	phuonh
 嬖	pejh
+嬗	djienh
 嬗	tanq
 嬗	than
-嬗	djienh
-嬙	sryk
 嬙	dzyang
+嬙	sryk
 嬚	liemq
 嬛	gwiaeng
 嬛	hwien
@@ -6574,24 +6583,24 @@ sort: by_weight
 嬰	qiaeng
 嬱	tshiemh
 嬲	newq
-嬳	qwak
 嬳	quak
+嬳	qwak
 嬴	jiaeng
 嬸	sjimq
 嬹	hyngh
 嬻	douk
 嬼	luh
 嬼	luq
-嬽	qween
 嬽	quen
+嬽	qween
 嬾	lanq
 嬿	qenh
 嬿	qenq
 孀	sryang
 孁	leng
 孂	kemq
-孂	kyewq
 孂	keok
+孂	kyewq
 孃	njyang
 孃	nryang
 孅	siem
@@ -6607,15 +6616,15 @@ sort: by_weight
 孎	truok
 子	tsyq
 孑	kyet
+孒	kuongq
 孒	kuot
 孒	kut
-孒	kuongq
-孓	kuot
 孓	kuongq
+孓	kuot
 孔	khoungq
 孕	jyngh
-孖	tsy
 孖	dzyh
+孖	tsy
 字	dzyh
 存	dzon
 孚	phuo
@@ -6631,9 +6640,9 @@ sort: by_weight
 孤	ko
 孥	no
 孥	noq
+孨	nrip
 孨	tjwienq
 孨	tsruenh
-孨	nrip
 孩	gheoj
 孫	son
 孬	nraew
@@ -6642,8 +6651,8 @@ sort: by_weight
 孱	dzreen
 孱	dzreenq
 孱	dzryen
-孳	tsy
 孳	dzyh
+孳	tsy
 孴	jip
 孴	ngyq
 孵	phuo
@@ -6653,8 +6662,8 @@ sort: by_weight
 孼	ngyet
 孽	ngyet
 孿	lwien
-孿	srwaenh
 孿	sruenh
+孿	srwaenh
 宀	mien
 宁	dryo
 宁	dryoq
@@ -6672,8 +6681,8 @@ sort: by_weight
 宎	qew
 宏	ghweeng
 宐	ngye
-宓	myit
 宓	mit
+宓	myit
 宔	tjuoq
 宕	dangh
 宖	ghweeng
@@ -6711,8 +6720,8 @@ sort: by_weight
 宿	suh
 宿	suk
 寀	tsheojq
-寁	tsomq
 寁	dziep
+寁	tsomq
 寂	dzek
 寄	kyeh
 寅	ji
@@ -6741,8 +6750,8 @@ sort: by_weight
 寥	lew
 實	zjit
 寧	neng
-寨	seok
 寨	dzraejh
+寨	seok
 審	sjimq
 寪	ueq
 寫	siaeq
@@ -6794,8 +6803,8 @@ sort: by_weight
 尟	sienq
 尠	sienq
 尠	suoh
-尢	u
 尢	qwang
+尢	u
 尣	qwang
 尤	u
 尥	baew
@@ -6809,8 +6818,8 @@ sort: by_weight
 尲	keem
 尳	ghot
 尳	kot
-尵	drweej
 尵	doj
+尵	drweej
 尷	kaem
 尸	sji
 尹	jwinq
@@ -6821,6 +6830,7 @@ sort: by_weight
 尿	newh
 局	guok
 屁	phih
+屄	pi
 居	ky	1%
 居	kyo	99%
 屆	keejh
@@ -6838,8 +6848,8 @@ sort: by_weight
 屏	piaengq
 屐	gyaek
 屑	set
-屒	trinq
 屒	djin
+屒	trinq
 屓	hyih
 屔	nej
 展	trienq
@@ -6848,8 +6858,8 @@ sort: by_weight
 屚	louh
 屜	thejh
 屝	bujh
-属	tjuok
 属	djuok
+属	tjuok
 屟	sep
 屠	do
 屠	dryo	2%
@@ -6861,8 +6871,8 @@ sort: by_weight
 屧	sep
 屨	kuoh
 屩	kyak
-屬	tjuok
 屬	djuok
+屬	tjuok
 屮	trhiet
 屯	don
 屯	trwin
@@ -6879,8 +6889,8 @@ sort: by_weight
 屾	sryin
 岈	hae
 岉	mut
-岊	tset
 岊	dzet
+岊	tset
 岌	ngyip
 岍	khen
 岏	ngwan
@@ -6961,10 +6971,10 @@ sort: by_weight
 崐	kon
 崑	kon
 崒	dzwit
-崔	tshoj
 崔	dzoj	1%
-崖	ngye
+崔	tshoj
 崖	ngee
+崖	ngye
 崗	kang
 崘	lon
 崙	lon
@@ -6977,8 +6987,8 @@ sort: by_weight
 崠	toung
 崢	dzraeng
 崢	dzreeng
-崤	ghaw
 崤	ghaew
+崤	ghaw
 崥	bej
 崥	pieq
 崦	qyem
@@ -6997,24 +7007,24 @@ sort: by_weight
 崷	dzu
 崹	dej
 崺	jieq
-崽	sreej
 崽	sree
+崽	sreej
 崾	qiewq
 崿	ngak
 嵀	druoq
-嵁	khom
+嵁	dzreemq
 嵁	kheem
+嵁	khom
 嵁	ngom
 嵁	ngomq
-嵁	dzreemq
 嵃	ngyenq
 嵆	ghej
 嵇	ghej
 嵈	ghwanq
 嵊	zjyngh
 嵋	myi
-嵌	khaem
 嵌	dzamq
+嵌	khaem
 嵍	muoh
 嵎	nguo
 嵐	lom
@@ -7039,8 +7049,8 @@ sort: by_weight
 嵫	tsy
 嵬	ngoj
 嵬	ngojq
-嵯	tsrhye
 嵯	dza	2%
+嵯	tsrhye
 嵰	khyemq
 嵱	juong
 嵲	nget
@@ -7056,8 +7066,8 @@ sort: by_weight
 嶂	tjyangh
 嶃	dzraem
 嶃	dzreemq
-嶄	tsreemq
 嶄	dzreemq
+嶄	tsreemq
 嶅	ngaw
 嶇	khuo
 嶈	tshyang
@@ -7124,8 +7134,8 @@ sort: by_weight
 巓	ten
 巔	ten
 巖	ngaem
-巘	ngyonq
 巘	ngyenq
+巘	ngyonq
 巛	khon
 巜	kwajh
 川	tjhwien
@@ -7145,9 +7155,9 @@ sort: by_weight
 巩	kuongq
 巫	muo
 差	tsrhae
-差	tsrheej
 差	tsrhee
 差	tsrheeh
+差	tsrheej
 差	tsrhye
 巰	gu
 己	kyq
@@ -7186,8 +7196,8 @@ sort: by_weight
 帖	thep
 帗	pat
 帗	put
-帘	liem
 帘	dzryin
+帘	liem
 帙	drit
 帚	tjuq
 帛	baek
@@ -7199,19 +7209,19 @@ sort: by_weight
 帤	nryo
 帥	sruih
 帥	sruit
-帨	tshwiejh
 帨	sjwiejh
+帨	tshwiejh
 帩	tshiewh
 帪	tjin
 師	sryi
 帬	gun
 席	ziaek
 帳	tryangh
-帴	tsen
-帴	tsienq
+帴	dzan
 帴	sanh
 帴	sreet
-帴	dzan
+帴	tsen
+帴	tsienq
 帵	qwan
 帶	tajh
 帷	ui
@@ -7224,8 +7234,8 @@ sort: by_weight
 幀	traengh
 幃	uj
 幄	qoeuk
-幅	pyik
 幅	puk
+幅	pyik
 幋	ban
 幌	ghwangq
 幍	thaw
@@ -7238,14 +7248,14 @@ sort: by_weight
 幔	manh
 幕	mak
 幖	piew
-幗	kweek
 幗	kojh
+幗	kweek
 幘	tsreek
 幛	tjyangh
 幝	tjhienq
 幞	buok
-幟	tjhyh
 幟	sjyh
+幟	tjhyh
 幠	ho
 幡	phuon
 幢	droeung
@@ -7266,8 +7276,8 @@ sort: by_weight
 幰	hyonq
 幱	lan
 干	kan
-平	byaeng	99%
 平	bien	1%
+平	byaeng	99%
 年	nen
 幵	ken
 并	piaeng
@@ -7283,8 +7293,8 @@ sort: by_weight
 幾	gyjh	5%
 幾	kyj	20%
 幾	kyjq
-广	ngyomq
 广	ngyemq
+广	ngyomq
 庀	phieq
 庁	theng
 庄	beeng
@@ -7293,8 +7303,8 @@ sort: by_weight
 庉	don
 庉	donq
 床	dzryang
-庋	kyeq
 庋	kueq
+庋	kyeq
 庌	ngae
 庌	ngaeq
 庍	hynh
@@ -7329,8 +7339,8 @@ sort: by_weight
 庱	trhyngq
 庲	leoj
 庳	bieq
-庴	tsiaek
 庴	dziaek
+庴	tsiaek
 庵	qom
 庵	qop	0%
 庶	sjyoh
@@ -7350,8 +7360,8 @@ sort: by_weight
 廈	ghaeq
 廉	liem
 廊	lang
-廋	sru
 廋	souq
+廋	sru
 廌	dreeq
 廌	drieq
 廏	kuh
@@ -7391,9 +7401,9 @@ sort: by_weight
 廲	lej
 廳	theng
 廴	jinq
-延	tjiaeng	1%
 延	jien
 延	jienh	2%
+延	tjiaeng	1%
 廷	deng
 廷	dengh	10%
 建	kyonh
@@ -7550,15 +7560,15 @@ sort: by_weight
 徛	gyeq
 徛	kyeh
 徜	djyang
-從	tshuong	5%
 從	dzuong
+從	tshuong	5%
 徠	leoj
 徠	leojh
-御	ngyoh
 御	ngaeh	0%
+御	ngyoh
 徢	sep
-徥	drieq
 徥	djieq
+徥	drieq
 徧	penh
 徨	ghwang
 復	buh
@@ -7591,8 +7601,8 @@ sort: by_weight
 忓	kan
 忔	hyt
 忕	dajh
-忕	thajh
 忕	djiejh
+忕	thajh
 忖	tshonq
 志	tjyh
 忘	muang	3%
@@ -7611,14 +7621,14 @@ sort: by_weight
 忨	ngwan
 忨	ngwanh
 忩	tshoung
-忪	tjuong
 忪	soung
+忪	tjuong
 快	khwaejh
 忬	jyoh
 忭	byenh
 忮	tjieh
-忯	gie
 忯	djie
+忯	gie
 忱	djim
 忳	don
 念	nemh
@@ -7639,6 +7649,7 @@ sort: by_weight
 怋	mon
 怌	phyi
 怍	dzak
+怎	tsryimq
 怏	qyangh
 怏	qyangq
 怐	houh
@@ -7654,9 +7665,9 @@ sort: by_weight
 怖	phoh
 怗	thep
 怙	ghoq
+怚	dzyoq
 怚	tsiae
 怚	tsyoh
-怚	dzyoq
 怛	tat
 怜	len
 怜	leng
@@ -7677,9 +7688,9 @@ sort: by_weight
 怫	but
 怭	bit
 怮	qew
-怮	qu
 怮	qiw
 怮	qiwq
+怮	qu
 怯	khyop
 怱	tshoung
 怲	pyaengh
@@ -7687,9 +7698,9 @@ sort: by_weight
 怳	huangq
 怵	trhwit
 怹	tham
+恀	djieq
 恀	tjhieq
 恀	tjieq
-恀	djieq
 恁	njim
 恁	njimq
 恂	swin
@@ -7716,8 +7727,8 @@ sort: by_weight
 恙	jyangh
 恚	qwieh
 恜	trhyk
-恝	khejh
 恝	keet
+恝	khejh
 恞	ji
 恟	huong
 恠	kweejh
@@ -7725,8 +7736,8 @@ sort: by_weight
 恣	tsih
 恤	swit
 恥	trhyq
-恧	nryk
 恧	nruk
+恧	nryk
 恨	gheonh
 恩	qeon
 恪	khak
@@ -7753,8 +7764,8 @@ sort: by_weight
 悇	jyoh
 悇	tho
 悇	trhyoh
-悈	kyk
 悈	keejh
+悈	kyk
 悉	sit
 悊	triet
 悋	linh
@@ -7796,8 +7807,8 @@ sort: by_weight
 悹	kwanh
 悹	kwanq
 悺	kwanh
-悻	ghengq
 悻	gheengq
+悻	ghengq
 悼	dawh
 悽	tshej
 悾	khoeung
@@ -7836,16 +7847,16 @@ sort: by_weight
 惛	honh
 惛	honq
 惜	siaek
-惝	tjhyangq
 惝	thangq
+惝	tjhyangq
 惟	jwi
 惠	ghwejh
 惡	qak
 惡	qo	50%
 惡	qoh	50%
-惢	tsie
-惢	swaq
 惢	dzwieq
+惢	swaq
+惢	tsie
 惣	tsoungq
 惦	temh
 惪	teok
@@ -7859,14 +7870,14 @@ sort: by_weight
 惶	ghwang
 惷	tjhwinq
 惸	gwiaeng
-惹	njyak
 惹	njiaeq
+惹	njyak
 惺	seng
 惺	siaengq
 惻	tsrhyk
 惼	penq
-愀	tshiewq
 愀	dzuq
+愀	tshiewq
 愁	dzru
 愃	huonq
 愃	swien
@@ -7924,15 +7935,15 @@ sort: by_weight
 愾	hyjh
 愾	kheojh
 愿	nguonh
-慀	ghejh
 慀	ghee
+慀	ghejh
 慁	ghonh
 慂	juongq
 慃	qoeungq
 慄	lit
+慅	saw
 慅	tshawh
 慅	tshawq
-慅	saw
 慆	thaw
 慇	qyn
 慈	dzy
@@ -7943,15 +7954,15 @@ sort: by_weight
 慍	qunh
 慎	djinh
 慏	miaengq
-慒	zu
 慒	dzong
+慒	zu
 慓	biewq
 慓	phiew
 慓	phiewh
 慔	moh
 慕	moh
-慖	kweek
 慖	kojh
+慖	kweek
 慗	trhyk
 慘	tshomq
 慙	dzam
@@ -7978,18 +7989,18 @@ sort: by_weight
 慱	dwan
 慲	man
 慳	kheen
-慴	tjiep
 慴	dep
+慴	tjiep
 慵	djuong
 慶	khyaengh
 慷	khangq
 慸	dejh
 慸	trhaejh
 慸	trhiejh
+慹	dzip
+慹	nep
 慹	tjiep
 慹	tjip
-慹	nep
-慹	dzip
 慺	lou
 慺	luo
 慺	luoq
@@ -8034,8 +8045,8 @@ sort: by_weight
 憢	hew
 憤	bunq
 憥	law
-憧	tjhuong
 憧	droeungh
+憧	tjhuong
 憨	ghamh
 憨	ham
 憩	khyejh
@@ -8056,16 +8067,16 @@ sort: by_weight
 憵	phek
 憶	qyk
 憷	tsrhyoq
-憸	tshiem
-憸	tshiemq
 憸	hyemq
 憸	siem
+憸	tshiem
+憸	tshiemq
 憹	naw
 憹	nong
 憺	damh
 憺	damq
-憼	kyangq
 憼	kyaengq
+憼	kyangq
 憽	soung
 憾	ghomh
 憿	kew
@@ -8095,9 +8106,9 @@ sort: by_weight
 懘	tjhieq
 懚	qynh
 懛	teoj
-懜	mung
 懜	meongh
 懜	moung
+懜	mung
 懝	ngeojh
 懝	ngyk
 懟	drwih
@@ -8157,9 +8168,9 @@ sort: by_weight
 我	ngaq
 戒	keejh
 戔	dzan
-戕	tsang
-戕	ka
 戕	dzyang
+戕	ka
+戕	tsang
 或	ghweok
 戙	doungh
 戚	tshek
@@ -8182,9 +8193,9 @@ sort: by_weight
 戭	jinq
 戮	luk
 戰	tjienh
+戲	ho	1%
 戲	hye	2%
 戲	hyeh
-戲	ho	1%
 戳	trhoeuk
 戴	teojh
 戵	guo
@@ -8222,9 +8233,10 @@ sort: by_weight
 扏	gu
 扐	leok
 扑	phouk
-扒	pyet
 扒	peejh
 扒	peet
+扒	pyet
+打	taengq
 打	tengq	5%
 扔	njyng
 扔	njyngh
@@ -8242,8 +8254,8 @@ sort: by_weight
 扠	trhee
 扡	jieq
 扢	ghot
-扢	kyt
 扢	kot
+扢	kyt
 扣	khouh
 扣	khouq
 扤	ngot
@@ -8258,8 +8270,8 @@ sort: by_weight
 扮	punq	2%
 扯	tjhiaeq
 扱	tsrheep
-扳	phaen	2%
 扳	paen
+扳	phaen	2%
 扴	keet
 扵	qyo
 扶	buo
@@ -8286,15 +8298,15 @@ sort: by_weight
 抌	ju
 抌	juoq
 抌	tomq
-抍	tjyngq
 抍	sjyng
+抍	tjyngq
 抎	unq
 抏	ngwan
 抐	nonh
 抐	not
 抑	qyk
-抒	zyoq
 抒	zjyoq
+抒	zyoq
 抓	tsraew
 抓	tsraewh
 抓	tsraewq
@@ -8304,9 +8316,9 @@ sort: by_weight
 抖	touq
 抗	ghang	2%
 抗	khangh
-折	tjiet
 折	dej	10%
 折	djiet	50%
+折	tjiet
 抛	phaew
 抛	phaewh
 抧	tjieq
@@ -8337,8 +8349,8 @@ sort: by_weight
 抽	trhu
 抾	khy
 抾	khyop
-抿	myin
 抿	minq
+抿	myin
 拂	phut
 拃	tsraenq
 拄	truoq
@@ -8357,10 +8369,10 @@ sort: by_weight
 拐	geeq
 拑	gyem
 拒	gyoq
-拓	tjiaek
 拓	thak
-拔	beet
+拓	tjiaek
 拔	bat	5%
+拔	beet
 拔	buot	1%
 拕	daq
 拕	tha
@@ -8390,12 +8402,12 @@ sort: by_weight
 拷	khawq
 拸	jie
 拹	hyop
-拺	tsrheek
 拺	sreek
-拼	pheng
+拺	tsrheek
 拼	peeng
-拽	jiet
+拼	pheng
 拽	djiejh
+拽	jiet
 拾	djip
 拿	nrae
 持	dry
@@ -8419,8 +8431,8 @@ sort: by_weight
 挑	thew
 挒	liet
 挖	qweet
-挨	qeojq
 挨	qeejq
+挨	qeojq
 挩	dwat
 挩	thwat
 挪	na
@@ -8461,16 +8473,16 @@ sort: by_weight
 捋	lwat
 捌	paet
 捌	peet
-捍	ghanh
 捍	ghaenq	5%
+捍	ghanh
 捎	siew
 捎	sraew
 捏	net
 捐	jwien
-捒	sryoh
 捒	sruoh
-捔	koeuk
+捒	sryoh
 捔	dzroeuk
+捔	koeuk
 捕	boh
 捖	ghwan
 捘	tshwin
@@ -8497,8 +8509,8 @@ sort: by_weight
 捺	nat
 捻	nep
 捼	njwi
-捼	nwa
 捼	noj
+捼	nwa
 捽	dzot
 捽	dzwit
 捾	qwat
@@ -8518,9 +8530,9 @@ sort: by_weight
 掉	dewh
 掉	dewq
 掉	nroeuk	2%
-掊	bu
 掊	baew
 掊	bou
+掊	bu
 掊	pouq
 掌	tjyangq
 掍	ghonq
@@ -8532,8 +8544,8 @@ sort: by_weight
 掐	kheep
 排	beej
 掓	sjuk
-掔	khen
 掔	kheen
+掔	khen
 掕	lyng
 掖	jiaek
 掘	guot
@@ -8558,12 +8570,12 @@ sort: by_weight
 接	tsiep
 控	khoeung
 控	khoungh
-推	tjhwi
 推	thoj
+推	tjhwi
 掩	qyemq
 措	tshoh
-掫	tsruq
 掫	tsou
+掫	tsruq
 掫	tsuo
 掬	kuk
 掭	themh
@@ -8590,16 +8602,16 @@ sort: by_weight
 揌	seoj
 揍	tsouh
 揎	swien
-描	myew
 描	maew
+描	myew
 提	dej
 提	djie	1%
 揑	net
 插	tsrheep
 揔	tsoungq
 揕	trimh
-揖	tship	1%
 揖	qip
+揖	tship	1%
 揗	zjwinh
 揗	zjwinq
 揗	zwin
@@ -8609,16 +8621,16 @@ sort: by_weight
 換	ghwanh
 揜	qamq
 揜	qyemq
-揞	qomq
 揞	qeemh
+揞	qomq
 揟	syo
 揠	qeet
 握	qoeuk
 揢	khaek
 揣	tsrhueq
 揣	twaq
-揤	tsyk
 揤	dzit
+揤	tsyk
 揥	tej
 揥	trhiejh
 揧	lat
@@ -8628,12 +8640,12 @@ sort: by_weight
 揪	tsu
 揫	tsu
 揬	dot
-揭	gyot
 揭	gyet
+揭	gyot
 揭	khyejh
 揭	khyet
-揭	kyot
 揭	kyet
+揭	kyot
 揮	huj
 揯	keongh
 揱	siew
@@ -8643,8 +8655,8 @@ sort: by_weight
 揲	jiep
 揲	zjiet
 揳	set
-援	uon
 援	uenh
+援	uon
 揵	gyen
 揵	kyonq
 揶	jiae
@@ -8658,8 +8670,8 @@ sort: by_weight
 搉	khoeuk
 搉	koeuk
 搊	tsrhu
-搊	tsruq
 搊	tsruo
+搊	tsruq
 搋	trheej
 搌	trhienq
 搌	trienq
@@ -8679,9 +8691,9 @@ sort: by_weight
 搖	jiew
 搖	jiewh
 搗	tawq
-搙	nroeuk
-搙	nouh
 搙	nok
+搙	nouh
+搙	nroeuk
 搚	lap
 搚	lop
 搛	kemh
@@ -8730,8 +8742,8 @@ sort: by_weight
 摎	kaew
 摎	lu
 摏	sjuong
-摐	tsrhoeung
 摐	tshuong
+摐	tsrhoeung
 摑	kweek
 摒	piaengh
 摔	srui
@@ -8774,19 +8786,19 @@ sort: by_weight
 摳	khou
 摳	khuo
 摴	trhyo
-摵	tsuk
 摵	sreek
 摵	sruk
-摶	tjwien
+摵	tsuk
 摶	drwienq
 摶	dwan
-摷	tsraew
+摶	tjwien
 摷	lew
+摷	tsraew
 摸	mak
 摸	mo
 摹	mo
-摺	tjiep
 摺	lop
+摺	tjiep
 摻	sreem
 摻	sreemq
 摼	kheeng
@@ -8815,8 +8827,8 @@ sort: by_weight
 撓	nraewq
 撕	sej
 撖	ghaemq
-撖	khom
 撖	kheemq
+撖	khom
 撗	ghwang
 撘	top
 撙	tsonq
@@ -8841,8 +8853,8 @@ sort: by_weight
 撤	trhiet
 撥	pat
 撦	tjhiaeq
-撨	sew
 撨	dziew
+撨	sew
 撩	lew
 撩	lewq
 撫	phuoq
@@ -8850,8 +8862,8 @@ sort: by_weight
 播	pah
 撮	tshwat
 撮	tswat	20%
-撰	dzrwaenq
 撰	dzruenq
+撰	dzrwaenq
 撱	jwieq
 撲	phouk
 撻	that
@@ -8874,9 +8886,9 @@ sort: by_weight
 擋	tangh
 擋	tangq
 擌	sreek
+操	souq	2%
 操	tshaw
 操	tshawh
-操	souq	2%
 擎	gyaeng
 擐	ghwaenh
 擐	kwaen
@@ -8884,8 +8896,8 @@ sort: by_weight
 擔	tam
 擔	tamh
 擖	draep
-擖	kheet
 擖	kaet
+擖	kheet
 擗	biaek
 擘	peek
 據	kyoh
@@ -8901,9 +8913,9 @@ sort: by_weight
 擦	tsrheet
 擧	jyo
 擨	jiae
-擩	njwi
 擩	njuoh
 擩	njuoq
+擩	njwi
 擩	nouh
 擪	qiemq
 擪	qiep
@@ -8931,11 +8943,11 @@ sort: by_weight
 擿	driaek
 攀	phaen
 攂	lojh
-攃	tshat
 攃	sat
+攃	tshat
 攄	trhyo
-攅	tsanh	5%
 攅	dzwanh
+攅	tsanh	5%
 攆	lienq
 攇	hyonq
 攈	kunh
@@ -8954,15 +8966,15 @@ sort: by_weight
 攘	njyang
 攘	njyangh
 攘	njyangq
-攙	tsrhaem
 攙	dzreem
+攙	tsrhaem
 攜	ghwej
 攝	nep	5%
 攝	sjiep
 攡	lie
+攢	dzwan
 攢	tsanh
 攢	tsanq
-攢	dzwan
 攣	lwien
 攤	nanh
 攤	nanq
@@ -8992,14 +9004,14 @@ sort: by_weight
 改	keojq
 攺	jyq
 攺	zyq
-攻	koung
 攻	kong
+攻	koung
 攽	pyin
 放	puangh
 放	puangq	3%
 政	tjiaengh
-敀	phaek
 敀	paek
+敀	phaek
 敁	tem
 敂	kouq
 敃	myinq
@@ -9011,8 +9023,8 @@ sort: by_weight
 敊	trhuk
 敌	ghwaet
 敏	myinq
-敐	tjinq
 敐	djin
+敐	tjinq
 救	kuh
 敓	dwat
 敔	ngyoq
@@ -9106,8 +9118,8 @@ sort: by_weight
 斫	tjyak
 斬	tsreemq
 断	twanh
-斮	tsryak
 斮	tsroeuk
+斮	tsryak
 斯	sie
 新	sin
 斲	troeuk
@@ -9117,8 +9129,8 @@ sort: by_weight
 斸	truok
 方	buang	1%
 方	puang	99%
-於	qyo
 於	qo	1%
+於	qyo
 施	jieh	1%
 施	sjie
 施	sjieh	2%
@@ -9154,8 +9166,8 @@ sort: by_weight
 旟	jyo
 无	mo
 无	muo
-旡	tsryim
 旡	kyjh
+旡	tsryim
 既	kyjh
 旣	kyjh
 日	njit
@@ -9192,8 +9204,8 @@ sort: by_weight
 昏	hon
 昒	hot
 昒	mut
-易	jieh
 易	jiaek
+易	jieh
 昔	siaek
 昕	hyn
 昚	djinh
@@ -9230,12 +9242,12 @@ sort: by_weight
 晉	tsinh
 晊	tjit
 晌	sjyangq
-晏	qanh	3%
 晏	qaenh
+晏	qanh	3%
 晐	keoj
 晗	ghom
-晙	tswinh
 晙	swinh
+晙	tswinh
 晚	muonq
 晛	ghenq
 晛	nenh
@@ -9270,8 +9282,8 @@ sort: by_weight
 晷	kuiq
 晹	sjiaek
 智	trieh
-晻	qyemq
 晻	qomq
+晻	qyemq
 晼	quonq
 晾	lyangh
 暀	ghwangh
@@ -9324,9 +9336,9 @@ sort: by_weight
 暾	thon
 曀	qejh
 曁	gyih
+曁	kyit
 曁	kyjh
 曁	kyt
-曁	kyit
 曃	theojh
 曄	yep
 曄	yip
@@ -9378,12 +9390,12 @@ sort: by_weight
 曼	man
 曼	muonh
 曽	tseong
-曾	tseong	50%
 曾	dzeong
+曾	tseong	50%
 替	thejh
 最	tswajh
-朁	tshomq
 朁	dziem
+朁	tshomq
 會	ghwajh
 會	kwajh	2%
 朅	khyet
@@ -9396,6 +9408,7 @@ sort: by_weight
 朌	paen
 服	buk
 朏	phojh
+朏	phojq
 朏	phujq
 朐	guo
 朒	njuk
@@ -9409,8 +9422,8 @@ sort: by_weight
 朗	langq
 朘	tswien
 朙	myaeng
-朚	mang
 朚	maengh
+朚	mang
 朚	muang
 望	muang
 望	muangh
@@ -9440,15 +9453,15 @@ sort: by_weight
 朶	twaq
 朷	mouk
 朷	taw
-朸	lyk
 朸	leok
+朸	lyk
 朹	gu
 朹	kuiq
 机	kyi
 机	kyiq
-朻	ku
 朻	kiw
 朻	kiwq
+朻	ku
 朼	piq
 朽	huq
 朾	dreeng
@@ -9468,10 +9481,10 @@ sort: by_weight
 材	dzeoj
 村	tshon
 杒	njinh
+杓	djyak
 杓	phiew
 杓	piew
 杓	tek
-杓	djyak
 杔	traek
 杕	dejh
 杖	dryangq
@@ -9511,10 +9524,10 @@ sort: by_weight
 杽	trhuq
 松	zuong
 板	paenq
-极	gyop
 极	gyep
-枂	ngwat
+极	gyop
 枂	nguot
+枂	ngwat
 枃	tsinh
 枅	kej
 枆	maw
@@ -9535,9 +9548,9 @@ sort: by_weight
 枓	tjuoq
 枓	touq
 枔	zim
+枕	drim
 枕	tjimh
 枕	tjimq
-枕	drim
 枖	qyew
 林	lim
 枘	njwiejh
@@ -9550,8 +9563,8 @@ sort: by_weight
 枰	byaeng
 枰	byaengh
 枲	syq
-枳	tjieq
 枳	kieq
+枳	tjieq
 枴	kweeq
 枵	hyew
 架	kaeh
@@ -9596,8 +9609,8 @@ sort: by_weight
 柛	sjin
 柜	kyoq
 柝	thak
-柞	tsak
 柞	dzak
+柞	tsak
 柟	njiem
 柟	njiemq
 柟	nom
@@ -9605,17 +9618,17 @@ sort: by_weight
 柢	tej
 柢	tejh
 柢	tejq
-柣	tshet
 柣	drit
+柣	tshet
 柤	tsrae
-查	tsrae	5%
 查	dzrae
+查	tsrae	5%
 柧	ko
 柩	guh
 柫	put
 柬	keenq
-柮	tot
 柮	dzwat
+柮	tot
 柯	ka
 柰	najh
 柱	druoq
@@ -9626,17 +9639,17 @@ sort: by_weight
 柲	pyit
 柳	luq
 柴	dzree
+柵	sraenh
 柵	tsrheek
 柵	tsrhyaek
-柵	sraenh
 柶	sih
 柷	tjhuk
 柷	tjuk
 柹	dzryq
 柺	kweeq
-査	tsrae	5%
 査	dzrae
 査	dzree	5%
+査	tsrae	5%
 柼	traengh
 柿	dzryq
 栀	tjie
@@ -9649,8 +9662,8 @@ sort: by_weight
 栖	sej
 栖	sejh
 栗	lit
-栘	jie
 栘	djiej
+栘	jie
 栙	ghoeung
 栚	drimq
 栛	lejh
@@ -9669,8 +9682,8 @@ sort: by_weight
 栫	dzenh
 栫	dzonh
 栭	njy
-栯	uq
 栯	quk
+栯	uq
 栰	buot
 栱	kuongq
 栲	khawq
@@ -9678,21 +9691,21 @@ sort: by_weight
 栴	tjien
 栵	liejh
 栵	liet
-样	tsang
 样	jyang
+样	tsang
 核	gheek
 根	keon
-栺	tji
 栺	ngejh
+栺	tji
 栻	trhyk
-格	kak	2%
 格	kaek
-栽	tseoj
+格	kak	2%
 栽	dzeojh
+栽	tseoj
 栿	buk
 桀	gyet
-桁	ghang
 桁	ghaeng
+桁	ghang
 桂	kwejh
 桃	daw
 桄	kwang
@@ -9719,8 +9732,8 @@ sort: by_weight
 桘	drwi
 桫	sa
 桬	srae
-桭	tjin
 桭	djin
+桭	tjin
 桮	poj
 桯	gheng
 桯	theng
@@ -9739,9 +9752,9 @@ sort: by_weight
 桼	tshit
 桾	kun
 桿	kanq
-梀	tshouk
 梀	souk
 梀	trhuok
+梀	tshouk
 梁	lyang
 梂	gu
 梃	dengq
@@ -9765,8 +9778,8 @@ sort: by_weight
 梗	kaengq
 梘	kenh
 梘	kenq
-梜	kep
 梜	kaep
+梜	kep
 條	dew
 梞	gyh
 梟	kew
@@ -9784,8 +9797,8 @@ sort: by_weight
 梩	ly
 梪	douh
 梫	tshimq
-梫	tsrhyim
 梫	tsim
+梫	tsrhyim
 梬	jiaengq
 梭	swa
 梮	kuok
@@ -9793,15 +9806,15 @@ sort: by_weight
 械	gheejh
 梱	khonq
 梱	ngon
-梲	tjwiet
-梲	thwat
 梲	thot
+梲	thwat
+梲	tjwiet
 梳	sryo
 梴	trhien
 梵	bung
 梵	buomh	2%
-棁	thwat
 棁	thot
+棁	thwat
 棃	li
 棄	khih
 棅	pyaengh
@@ -9816,20 +9829,20 @@ sort: by_weight
 棏	deok
 棏	treek
 棐	pujq
-棑	beejh
 棑	bee
+棑	beejh
 棒	boeungq
-棓	bu
 棓	boeungq
 棓	boj
+棓	bu
 棔	hon
 棕	tsoung
 棖	draeng
 棗	tsawq
 棘	kyk
-棚	beong
 棚	baeng
 棚	beeng
+棚	beong
 棛	juk
 棜	qyoh
 棝	koh
@@ -9859,10 +9872,10 @@ sort: by_weight
 棵	khwanq
 棵	khwaq
 棶	leoj
-棷	tshouq
-棷	tsru
-棷	tsou
 棷	souq
+棷	tshouq
+棷	tsou
+棷	tsru
 棸	dru
 棸	druq
 棹	draewh
@@ -9879,8 +9892,8 @@ sort: by_weight
 椄	tsiep
 椅	qye	5%
 椅	qyeq	95%
-椆	tjuh
 椆	dru
+椆	tjuh
 椇	kuoq
 椈	kuk
 椉	zjyng
@@ -9888,11 +9901,11 @@ sort: by_weight
 椋	lyang
 椌	khoeung
 椌	khoung
-植	dryh
 植	djyk
+植	dryh
 椎	drwi
-椏	qaq
 椏	qae
+椏	qaq
 椐	khyo
 椐	kyo
 椐	kyoh
@@ -9922,13 +9935,13 @@ sort: by_weight
 楀	kuoq
 楀	uoq
 楁	ghaek
-楂	tsrae
 楂	dzrae
+楂	tsrae
 楃	qoeuk
 楄	ben
 楄	bien
-楅	pyik
 楅	puk
+楅	pyik
 楇	kwa
 楈	syo
 楈	syoq
@@ -9945,9 +9958,9 @@ sort: by_weight
 楓	pung
 楔	keet
 楔	set
-楖	tsyk
 楖	tsit
 楖	tsryit
+楖	tsyk
 楗	gyonq
 楘	mouk
 楙	maw
@@ -9959,8 +9972,8 @@ sort: by_weight
 楞	leong
 楟	deng
 楠	nom
-楢	tjhiewq
 楢	ju
+楢	tjhiewq
 楣	myi
 楤	tshoung
 楥	huonh
@@ -9971,25 +9984,25 @@ sort: by_weight
 楩	bienq
 楪	jiep
 楫	tsiep
-楬	gyot
 楬	gyet
+楬	gyot
 楬	khaet
 業	ngyop
-楮	trhyoq
 楮	toq
+楮	trhyoq
 楯	trhwin
 楯	zjwinq
 楯	zwin
 楰	juo
 楰	juoq
-楱	tshouh
 楱	dzouh
+楱	tshouh
 楲	quj
 楴	thejh
 極	gyk
 楶	tset
-楷	kheejq
 楷	keej
+楷	kheejq
 楸	tshu
 楹	jiaeng
 楺	njuq
@@ -10011,8 +10024,8 @@ sort: by_weight
 榙	ghop
 榛	tsryin
 榜	baeng	20%
-榜	pangq
 榜	paengh	20%
+榜	pangq
 榝	sreet
 榝	sryet
 榞	nguon
@@ -10041,8 +10054,8 @@ sort: by_weight
 榺	sjyngh
 榻	thap
 榼	khap
-榽	ghej
 榽	ghee
+榽	ghej
 榾	kot
 榿	khye
 榿	kyj
@@ -10053,21 +10066,21 @@ sort: by_weight
 槄	thawq
 槅	keek
 槆	swin
-槇	tjinq
 槇	ten
+槇	tjinq
 槈	nouh
 槉	dzit
 槊	sroeuk
 構	kouh
-槌	drwieh
 槌	drwi
+槌	drwieh
 槍	tshyang
 槍	tsrhaeng
 槎	dzrae
 槎	dzraeq
 槏	kheemq
-槐	ghweej
 槐	ghoj
+槐	ghweej
 槓	koeungh
 槔	kaw
 槙	ten
@@ -10076,18 +10089,18 @@ sort: by_weight
 槥	uejh
 槥	zwiejh
 槦	juong
-槧	tshiem
-槧	tshiemh
 槧	dzamq
 槧	dziemq
+槧	tshiem
+槧	tshiemh
 槨	kwak
 槩	keojh
 槪	keojh
 槭	tsuk
-槮	tsrhyim
 槮	somq
 槮	sryim
 槮	sryimq
+槮	tsrhyim
 槯	dzoj
 槱	juh
 槱	juq
@@ -10099,8 +10112,8 @@ sort: by_weight
 槹	kaw
 槺	khang
 槻	kwie
-槽	tsaw
 槽	dzaw
+槽	tsaw
 槾	man
 槿	kynq
 樀	dek
@@ -10119,8 +10132,8 @@ sort: by_weight
 樌	kwanh
 樍	tsek
 樎	sruk
-樏	lwieq
 樏	lwi
+樏	lwieq
 樐	loq
 樑	lyang
 樒	myit
@@ -10133,8 +10146,8 @@ sort: by_weight
 標	piew
 標	piewq
 樛	kiw
-樜	tjiaeh
 樜	sjyoh
+樜	tjiaeh
 樝	tsrae
 樞	tjhuo
 樟	tjyang
@@ -10148,8 +10161,8 @@ sort: by_weight
 樬	tshoung
 樲	njih
 樳	zim
-樴	tjyk
 樴	deok
+樴	tjyk
 樵	dziew
 樸	bo
 樸	bouk
@@ -10165,8 +10178,8 @@ sort: by_weight
 樽	tson
 樾	uot
 樿	tjienq
-橀	heojq
 橀	hej
+橀	heojq
 橃	buot
 橃	puojh
 橄	kamq
@@ -10202,11 +10215,11 @@ sort: by_weight
 橠	naq
 橡	zyangq
 橢	thwaq
-橦	tjuong
-橦	droeung
 橦	doung
-橧	tseong
+橦	droeung
+橦	tjuong
 橧	dzyng
+橧	tseong
 橨	bujq
 橨	bun
 橪	njienq
@@ -10225,9 +10238,9 @@ sort: by_weight
 檂	nruong
 檄	ghek
 檆	sreem
+檇	dzoj
 檇	tswi
 檇	tswih
-檇	dzoj
 檈	swin
 檈	zwien
 檉	trhiaeng
@@ -10247,8 +10260,8 @@ sort: by_weight
 檜	ghwajh
 檜	kwajh
 檜	kwat
-檝	tsiep
 檝	dzip
+檝	tsiep
 檞	keeq
 檟	kaeq
 檠	gyaeng
@@ -10276,8 +10289,8 @@ sort: by_weight
 檹	qye
 檻	ghaemq
 檼	qynh
-檾	khwiaengq
 檾	khwengq
+檾	khwiaengq
 檿	qiemq
 櫀	gy
 櫂	draewh
@@ -10307,8 +10320,8 @@ sort: by_weight
 櫟	jyak
 櫟	lek
 櫡	tryak
-櫥	dryo
 櫥	druo
+櫥	dryo
 櫧	tjyo
 櫨	lo
 櫩	jiem
@@ -10330,14 +10343,14 @@ sort: by_weight
 櫾	juh
 欀	njyangh
 欀	syang
-欂	byaek
 欂	beek
+欂	byaek
 欂	pak
 欃	dzraemh
 欃	dzreem
 欄	lan
-欇	sjiep
 欇	djiep
+欇	sjiep
 欈	jwie
 權	guen
 欋	guo
@@ -10350,8 +10363,8 @@ sort: by_weight
 欓	tangq
 欖	lamq
 欗	lan
-欘	truok
 欘	djuok
+欘	truok
 欙	lwi
 欚	lejq
 欛	paeh
@@ -10362,8 +10375,8 @@ sort: by_weight
 欣	hyn
 欥	jit
 欥	jwit
-欦	hem
 欦	heemq
+欦	hem
 欦	khyomq
 欨	huo
 欨	huoq
@@ -10376,13 +10389,13 @@ sort: by_weight
 欮	kuot
 欯	hit
 欰	swit
-欱	hop
 欱	heep	2%
+欱	hop
 欲	juok
 欴	lang
 欵	khwanq
-欶	sroeuk
 欶	souh
+欶	sroeuk
 欷	hyj
 欷	hyjh
 欸	heejh
@@ -10409,11 +10422,11 @@ sort: by_weight
 歇	hyot
 歈	dou
 歈	juo
-歉	khemq
 歉	kheemh
 歉	kheemq
-歊	hyew
+歉	khemq
 歊	hok
+歊	hyew
 歋	jie
 歌	ka
 歍	qo
@@ -10430,8 +10443,8 @@ sort: by_weight
 歙	hyip
 歙	sjiep
 歛	ham
-歜	tjhuok
 歜	dzomq
+歜	tjhuok
 歟	jyo
 歟	jyoh
 歟	jyoq
@@ -10486,20 +10499,20 @@ sort: by_weight
 殙	hon
 殛	kyk
 殜	driep
-殜	jyop
 殜	jiep
+殜	jyop
 殞	uinq
 殟	qon
 殟	qot
-殠	tjhuh
 殠	huq
+殠	tjhuh
 殢	hejh
 殢	thejh
 殣	gyinh
 殤	sjyang
+殧	dzuh
 殧	tshuk
 殧	tsuk
-殧	dzuh
 殨	ghojh
 殩	tshwanh
 殪	qejh
@@ -10512,11 +10525,11 @@ sort: by_weight
 殲	tsiem
 殳	djuo
 段	dwanh
+殷	qeen	4%
 殷	qyn
 殷	qynq	1%
-殷	qeen	4%
-殸	khengh
 殸	kheeng
+殸	khengh
 殹	qejh
 殺	sreejh
 殺	sreet
@@ -10571,12 +10584,12 @@ sort: by_weight
 毯	thamq
 毰	boj
 毱	guk
-毳	tsrhuejh
 毳	tshwiejh
+毳	tsrhuejh
 毸	soj
 毹	sruo
-毻	thwajh
 毻	thwah
+毻	thwajh
 毼	ghat
 毽	kyonh
 毾	thap
@@ -10591,9 +10604,9 @@ sort: by_weight
 氈	tjien
 氌	loq
 氍	guo
-氏	tsiaeng	1%
-氏	tjie	2%
 氏	djieq
+氏	tjie	2%
+氏	tsiaeng	1%
 氐	tej
 氐	tri	5%
 民	min
@@ -10670,11 +10683,11 @@ sort: by_weight
 池	da	2%
 池	drie
 污	qo
-汥	tjie
-汥	gyeh
 汥	gie
-汦	tjieq
+汥	gyeh
+汥	tjie
 汦	tji
+汦	tjieq
 汧	khen
 汧	khenh
 汨	kot
@@ -10682,21 +10695,21 @@ sort: by_weight
 汨	uit
 汩	kot
 汩	uit
+汪	quangq
 汪	qwang
 汪	qwangh
-汪	quangq
 汫	dzengq
 汭	njwiejh
-汮	kwin
 汮	kuin
+汮	kwin
 汰	thajh
 汱	kwenq
 汲	kyip
 汳	phuonh
 汴	byenh
-汶	myin
 汶	mun
 汶	munh
+汶	myin
 汸	puang
 決	hwet	2%
 決	kwet
@@ -10717,9 +10730,9 @@ sort: by_weight
 沈	sjimq
 沉	drim
 沋	u
-沌	drwienq
 沌	don
 沌	donq
+沌	drwienq
 沏	tshet
 沐	mouk
 沑	njuq
@@ -10727,8 +10740,8 @@ sort: by_weight
 沒	mot
 沓	dop
 沔	mienq
-沕	myit
 沕	mut
+沕	myit
 沖	drung
 沘	bi
 沘	piq
@@ -10745,11 +10758,11 @@ sort: by_weight
 沬	majh
 沬	mujh
 沭	zjwit
+沮	dzyoq
 沮	tshyo
+沮	tsryo
 沮	tsyo
 沮	tsyoh
-沮	tsryo
-沮	dzyoq
 沰	thak
 沱	da
 沱	daq
@@ -10762,9 +10775,9 @@ sort: by_weight
 油	ju
 油	juh
 沺	den
+治	drih	2%
 治	dry
 治	dryh
-治	drih	2%
 沼	tjiewq
 沽	ko
 沽	koh
@@ -10790,8 +10803,8 @@ sort: by_weight
 泎	dzraek
 泏	khot
 泏	trwit
-泐	lyk
 泐	leok
+泐	lyk
 泑	qiw
 泑	qiwq
 泒	ko
@@ -10816,8 +10829,8 @@ sort: by_weight
 泥	nej
 泥	nejh
 泦	kuk
-泧	hwat
 泧	huot
+泧	hwat
 泧	uot
 注	tjuoh
 泫	ghwenq
@@ -10832,8 +10845,8 @@ sort: by_weight
 泱	qyang
 泳	uaengh
 泵	peongh
-泿	ngyin
 泿	ngeon
+泿	ngyin
 洁	kit
 洄	ghoj
 洅	tsojq
@@ -10855,16 +10868,16 @@ sort: by_weight
 洒	sejq
 洒	sreeh
 洓	tshiaek
-洔	tjyq
 洔	dryq
+洔	tjyq
 洕	jinh
-洗	senq
 洗	sejq
+洗	senq
 洘	khawq
 洙	djuo
 洚	ghoeung
-洚	ghoung
 洚	ghong
+洚	ghoung
 洚	koeungh
 洛	lak
 洝	qanh
@@ -10926,9 +10939,9 @@ sort: by_weight
 浢	douh
 浣	ghwanq
 浤	ghweeng
-浥	qyop
-浥	qyip
 浥	qeep
+浥	qyip
+浥	qyop
 浦	phoq
 浧	jiaengq
 浨	lomq
@@ -10964,8 +10977,8 @@ sort: by_weight
 涇	giaengq
 涇	keng
 消	siew
-涉	tep
 涉	djiep
+涉	tep
 涊	nenq
 涊	njinq
 涌	juongq
@@ -10993,8 +11006,8 @@ sort: by_weight
 涫	kwanh
 涬	ghengq
 涮	srwaenh
-涯	ngye
 涯	ngee
+涯	ngye
 液	jiaek
 涳	khoeung
 涳	khoung
@@ -11037,9 +11050,9 @@ sort: by_weight
 淕	luk
 淖	nraewh
 淘	daw
-淙	sroeungh	5%
-淙	dzroeung	5%
 淙	dzong
+淙	dzroeung	5%
+淙	sroeungh	5%
 淚	lwih
 淛	tjiejh
 淜	bying
@@ -11081,12 +11094,13 @@ sort: by_weight
 淶	leoj
 混	ghonq
 淸	tshiaeng
-淹	qyomh
 淹	qyem
+淹	qyomh
 淺	tsen
 淺	tshienq
 添	them
 淼	miewq
+渃	njah
 清	tshiaeng
 渌	louk
 渌	luok
@@ -11113,8 +11127,8 @@ sort: by_weight
 渨	qoj
 温	qon
 渫	dep
-渫	siet
 渫	dzreep
+渫	siet
 測	tsrhyk
 渭	ujh
 港	ghoungh	2%
@@ -11151,8 +11165,8 @@ sort: by_weight
 湊	tshouh
 湋	uj
 湌	tshan
-湍	tjwien
 湍	thwan
+湍	tjwien
 湎	mienq
 湐	paek
 湑	syo
@@ -11161,10 +11175,10 @@ sort: by_weight
 湓	bon
 湓	phonh
 湓	phunh
+湔	dzen
 湔	tsen
 湔	tsien
 湔	tsienh
-湔	dzen
 湕	kyonq
 湖	gho
 湘	syang
@@ -11183,14 +11197,14 @@ sort: by_weight
 湣	myinq
 湧	juongq
 湨	kwek
-湩	truongh
-湩	toungh
 湩	tongq
+湩	toungh
+湩	truongh
 湪	thwanh
+湫	dzuq
 湫	tsewq
 湫	tshu
 湫	tsu
-湫	dzuq
 湮	qen
 湮	qin
 湯	sjyang	2%
@@ -11283,8 +11297,8 @@ sort: by_weight
 滎	ghweng
 滏	buoq
 滐	gyet
-滑	ghweet
 滑	ghot	5%
+滑	ghweet
 滑	kot	5%
 滒	ka
 滓	tsryq
@@ -11303,9 +11317,9 @@ sort: by_weight
 滴	tek
 滵	myit
 滶	ngaw
-滷	tjhiaek
 滷	dek
 滷	loq
+滷	tjhiaek
 滸	hoq
 滹	ho
 滻	sreenq
@@ -11355,8 +11369,8 @@ sort: by_weight
 漯	lwah
 漯	thop
 漰	pheong
-漱	sruh
 漱	souh
+漱	sruh
 漲	tryang
 漲	tryangh
 漳	tjyang
@@ -11365,12 +11379,12 @@ sort: by_weight
 漶	ghwanh
 漷	hwaek
 漷	khwak
-漸	tsiem
 漸	dziemq
-漹	yen
+漸	tsiem
 漹	qyonh
-漺	tsrhyangq
+漹	yen
 漺	sryangq
+漺	tsrhyangq
 漻	lew
 漼	tshojq
 漾	jyangh
@@ -11402,22 +11416,22 @@ sort: by_weight
 潠	sonh
 潢	ghwang
 潢	ghwangh
-潣	myinq
 潣	mojq
+潣	myinq
 潤	njwinh
 潦	lawh
 潦	lawq
 潧	tsryin
-潨	tjung
-潨	dzoung
 潨	dzong
+潨	dzoung
+潨	tjung
 潩	jyh
 潩	jyk
 潪	driaek
 潪	trieh
-潫	qwien
-潫	qwaen
 潫	quen
+潫	qwaen
+潫	qwien
 潬	danq
 潭	dom
 潭	jimq
@@ -11432,11 +11446,11 @@ sort: by_weight
 潸	sraenq
 潺	dzreen
 潺	dzryen
-潼	tjhuong
 潼	doung
+潼	tjhuong
 潽	pho
-潾	lin
 潾	leen
+潾	lin
 潿	uj
 澀	sryip
 澁	sryip
@@ -11454,8 +11468,8 @@ sort: by_weight
 澉	thamh
 澋	ghwaengq
 澌	sieh
-澍	tjuoh
 澍	djuoh
+澍	tjuoh
 澎	baeng
 澎	phaeng
 澐	un
@@ -11473,13 +11487,13 @@ sort: by_weight
 澦	jyoh
 澧	lejq
 澨	djiejh
+澩	dzroeuk
 澩	ghaewq
 澩	ghoeuk
-澩	dzroeuk
 澪	leng
 澫	muonh
-澬	tsi
 澬	dzi
+澬	tsi
 澭	quong
 澮	kwajh
 澰	liemq
@@ -11509,14 +11523,14 @@ sort: by_weight
 濅	tsimh
 濆	bun
 濆	phon
-濇	sryk
 濇	sryip
+濇	sryk
 濈	tsryip
 濉	swi
 濊	hwajh
 濊	hwat
-濊	qwajh
 濊	quojh
+濊	qwajh
 濋	tsrhyoq
 濌	thop
 濎	tengq
@@ -11531,9 +11545,9 @@ sort: by_weight
 濙	qwengq
 濛	moung
 濛	moungq
-濜	tsin
 濜	dzinq
 濜	dzryinq
+濜	tsin
 濜	zinh
 濞	phejh
 濞	phyih
@@ -11566,8 +11580,8 @@ sort: by_weight
 濺	tsienh
 濼	lak
 濼	lek
-濼	louk
 濼	lok
+濼	louk
 濼	phak
 濼	phouk
 濽	tsanh
@@ -11587,8 +11601,8 @@ sort: by_weight
 瀌	byiw
 瀌	pyew
 瀍	drien
-瀎	met
 瀎	mat
+瀎	met
 瀏	lu
 瀏	luq
 瀑	bawh
@@ -11611,8 +11625,8 @@ sort: by_weight
 瀡	swieh
 瀢	dojq
 瀢	jwiq
-瀣	gheojh
 瀣	gheejh
+瀣	gheojh
 瀤	ghweej
 瀤	qweej
 瀥	hoeuk
@@ -11627,16 +11641,16 @@ sort: by_weight
 瀱	kyejh
 瀲	liemh
 瀲	liemq
-瀳	tsen
 瀳	dzenh
+瀳	tsen
 瀴	mengq
-瀴	qengq
 瀴	qaengh
+瀴	qengq
 瀵	phunh
 瀵	punh
 瀶	lim
-瀷	tjhyk
 瀷	jyk
+瀷	tjhyk
 瀸	tsiem
 瀹	jyak
 瀺	dzreemq
@@ -11744,8 +11758,8 @@ sort: by_weight
 為	ue
 炻	djiaek
 烀	ho
-烄	kawh
 烄	kaewq
+烄	kawh
 烈	liet
 烊	jyang
 烋	hiw
@@ -11763,8 +11777,8 @@ sort: by_weight
 烘	houngh	2%
 烙	lak
 烚	gheep
-烜	huonq
 烜	hueq
+烜	huonq
 烝	tjyng
 烝	tjyngh
 烟	qen
@@ -11782,18 +11796,18 @@ sort: by_weight
 烽	phuong
 烾	tjhiaek
 焀	ghouk
-焁	hye
 焁	hie
+焁	hye
 焃	hweek
 焄	hun
 焅	khok
 焆	kwen
-焆	qyet
 焆	qwet
+焆	qyet
 焇	siew
-焉	yen
-焉	qyon
 焉	qyen
+焉	qyon
+焉	yen
 焊	hanq
 焌	tshwit
 焌	tsonh
@@ -11852,14 +11866,14 @@ sort: by_weight
 煙	qen
 煚	kuaengq
 煛	kwengq
-煜	yip
 煜	juk
+煜	yip
 煝	myih
 煞	sreet
 煟	ujh
+煠	dzreep
 煠	jiep
 煠	trhiep
-煠	dzreep
 煢	gwiaeng
 煣	njuh
 煣	njuq
@@ -11888,8 +11902,8 @@ sort: by_weight
 熄	syk
 熆	ghap
 熇	hak
-熇	houk
 熇	hok
+熇	houk
 熇	khawh
 熊	ung
 熏	hun
@@ -11903,16 +11917,16 @@ sort: by_weight
 熜	tshoung
 熝	qaw
 熟	djuk
-熠	yip
 熠	jip
+熠	yip
 熧	tsuong
 熨	qujh
 熨	qut
 熩	ghoq
 熪	jie
 熬	ngaw
-熭	uot
 熭	uejh
+熭	uot
 熮	lew
 熮	liewh
 熮	luq
@@ -11944,8 +11958,8 @@ sort: by_weight
 燉	don
 燉	thon
 燊	sryin
-燋	tsyak
 燋	tsiew
+燋	tsyak
 燌	bun
 燍	sie
 燎	liew
@@ -11998,8 +12012,8 @@ sort: by_weight
 爁	lamq
 爁	liemh
 爂	piew
-爆	pak
 爆	paewh
+爆	pak
 爆	poeuk
 爇	njwiet
 爈	lyo
@@ -12017,11 +12031,11 @@ sort: by_weight
 爚	jyak
 爚	sjyak
 爛	lanh
-爝	tsyak
-爝	tsiewh
 爝	dzyak
-爞	drung
+爝	tsiewh
+爝	tsyak
 爞	dong
+爞	drung
 爟	kwanh
 爣	thangq
 爤	lanh
@@ -12038,8 +12052,7 @@ sort: by_weight
 爵	tsyak
 父	buoq
 父	puoq	10%
-爸	baq	10%
-爸	paeh	10%
+爸	baq
 爹	daq	50%
 爹	tiae
 爺	jiae
@@ -12056,11 +12069,11 @@ sort: by_weight
 版	paenq
 牉	phanh
 牋	tsen
-牌	beej
 牌	bee
+牌	beej
 牎	tsrhoeung
-牏	druoh
 牏	dou
+牏	druoh
 牏	juo
 牐	dzreep
 牑	pen
@@ -12071,8 +12084,8 @@ sort: by_weight
 牙	ngae
 牚	trhaengh
 牛	ngu
-牝	biq
 牝	binq
+牝	biq
 牟	mu
 牠	tha
 牡	mouq
@@ -12140,8 +12153,8 @@ sort: by_weight
 犡	liejh
 犢	douk
 犣	liep
-犤	bye
 犤	bee
+犤	bye
 犥	phiew
 犥	phiewq
 犦	boeuk
@@ -12156,8 +12169,8 @@ sort: by_weight
 犮	bat
 犯	buomq
 犰	gu
-犳	tjyak
 犳	qew
+犳	tjyak
 犴	ngan
 犴	nganh
 犺	khangh
@@ -12207,8 +12220,8 @@ sort: by_weight
 狴	pej
 狵	moeung
 狶	hyjq
-狷	kwienh
 狷	kwenh
+狷	kwienh
 狸	ly
 狹	gheep
 狺	ngyin
@@ -12240,8 +12253,8 @@ sort: by_weight
 猗	qye
 猗	qyeq
 猘	kyejh
-猙	tsreeng
 猙	dziaengq
+猙	tsreeng
 猚	lwiq
 猚	ngee
 猛	maengq
@@ -12261,8 +12274,8 @@ sort: by_weight
 猫	myew
 猭	trhwien
 猭	trhwienh
-猰	khet
 猰	kaet
+猰	khet
 猰	qeet
 猱	naw
 猱	nruh
@@ -12340,8 +12353,8 @@ sort: by_weight
 獳	nou
 獵	liep
 獶	qu
-獷	kwaengq
 獷	kuangq
+獷	kwaengq
 獸	sjuh
 獹	lo
 獺	that
@@ -12382,8 +12395,8 @@ sort: by_weight
 玗	uo
 玘	khyq
 玞	puo
-玟	myin
 玟	moj
+玟	myin
 玠	keejh
 玢	pyin
 玤	boeungq
@@ -12404,9 +12417,9 @@ sort: by_weight
 玹	ghwen
 玹	ghwenh
 玻	pha
+玼	dzie
 玼	tshejq
 玼	tshieq
-玼	dzie
 玽	kouq
 玾	kaep
 玿	djiew
@@ -12489,12 +12502,12 @@ sort: by_weight
 琩	tjhyang
 琪	gy
 琫	poungq
-琬	qwanh
 琬	quonq
+琬	qwanh
 琭	louk
 琮	dzong
-琯	kwanq
 琯	konh
+琯	kwanq
 琰	jiemq
 琱	tew
 琲	bojq
@@ -12517,8 +12530,8 @@ sort: by_weight
 瑇	dok
 瑈	nju
 瑉	myin
-瑊	tjim
 瑊	keem
+瑊	tjim
 瑋	ujq
 瑌	njwien
 瑌	njwienq
@@ -12575,16 +12588,16 @@ sort: by_weight
 璃	lie
 璄	qyaengq
 璅	tsawq
-璆	gu
 璆	giw
+璆	gu
 璇	zwien
 璈	ngaw
 璉	lienq
 璊	mon
 璋	tjyang
 璏	driejh
-璏	uot
 璏	uejh
+璏	uot
 璐	loh
 璑	muo
 璒	teong
@@ -12679,8 +12692,8 @@ sort: by_weight
 甀	drwieh
 甂	pen
 甃	tsruh
-甄	tjin
 甄	kien
+甄	tjin
 甈	khyejh
 甈	ngejh
 甉	ghaem
@@ -12700,9 +12713,9 @@ sort: by_weight
 甔	tom
 甕	qoungh
 甖	qeeng
-甗	ngyon
 甗	ngyenh
 甗	ngyenq
+甗	ngyon
 甘	kam
 甙	deojh
 甚	djimh
@@ -12715,12 +12728,13 @@ sort: by_weight
 甡	sryin
 產	sreenq
 産	sreenq
-甤	njwieq
 甤	njwi
+甤	njwieq
 甤	njwiq
 甥	sryaeng
 甦	so
 用	juongh
+甩	srueq
 甪	louk
 甫	puoq
 甬	juongq
@@ -12775,17 +12789,17 @@ sort: by_weight
 畟	tsyk
 畢	pit
 畣	top
-畤	tjyq
-畤	dryq
 畤	djyq
+畤	dryq
+畤	tjyq
 略	lyak
 畦	ghwej
 畧	lyak
 番	buon	30%
-番	phan	2%
-番	phuon
 番	pa	30%
 番	pah	10%
+番	phan	2%
+番	phuon
 畫	ghweeh
 畫	ghweek	5%
 畬	jyo
@@ -12826,12 +12840,12 @@ sort: by_weight
 疐	tejh
 疐	trih
 疑	ngy
-疒	nreek
 疒	dzryang
+疒	nreek
 疓	njyojq
 疔	teng
-疕	phyiq
 疕	phieq
+疕	phyiq
 疕	piq
 疘	koung
 疙	ngyt
@@ -12862,8 +12876,8 @@ sort: by_weight
 疸	tanh
 疸	tanq
 疹	tjinq
-疻	tjie
 疻	tji
+疻	tjie
 疼	dong
 疽	tshyo
 疾	dzit
@@ -12900,8 +12914,8 @@ sort: by_weight
 痛	thoungh
 痝	moeung
 痞	byiq
-痞	pyiq
 痞	puq
+痞	pyiq
 痟	siew
 痠	swan
 痡	pho
@@ -12957,9 +12971,9 @@ sort: by_weight
 瘖	qyim
 瘙	sawh
 瘚	kuot
+瘛	ghejh
 瘛	tjhiejh
 瘛	tjhiet
-瘛	ghejh
 瘜	syk
 瘝	kween
 瘞	qyejh
@@ -12970,9 +12984,9 @@ sort: by_weight
 瘣	ghojq
 瘤	lu
 瘤	luh
-瘥	tsrheeh
-瘥	tsiae
 瘥	dza
+瘥	tsiae
+瘥	tsrheeh
 瘦	sruh
 瘧	ngyak
 瘨	ten
@@ -13024,10 +13038,10 @@ sort: by_weight
 癜	tenh
 癟	bet
 癟	phiet
-癠	tsejq
 癠	dzej
 癠	dzejh
 癠	dzejq
+癠	tsejq
 癡	trhy
 癢	jyangq
 癤	tset
@@ -13084,15 +13098,15 @@ sort: by_weight
 皦	kewq
 皪	lek
 皫	phiewq
-皭	tsiewh
 皭	dzyak
+皭	tsiewh
 皮	bye
 皯	kanq
 皰	baewh
 皰	phaewh
 皴	tshwin
-皵	tshyak
 皵	tshiaek
+皵	tshyak
 皷	koq
 皸	kun
 皸	kunh
@@ -13126,12 +13140,12 @@ sort: by_weight
 盜	dawh
 盝	louk
 盞	tsreenq
-盟	myaeng
 盟	maengh
+盟	myaeng
 盠	lej
 盠	lejq
-盡	tsinq
 盡	dzinq
+盡	tsinq
 監	kaem
 監	kaemh	10%
 盤	ban
@@ -13207,13 +13221,13 @@ sort: by_weight
 眞	tjin
 真	tjin
 眠	men
-眡	tej
 眡	djiq
-眢	qwan
+眡	tej
 眢	quon
+眢	qwan
 眣	det
-眣	trhit
 眣	traet
+眣	trhit
 眥	dzejh
 眥	dzieh
 眦	dzreeh
@@ -13223,8 +13237,8 @@ sort: by_weight
 眩	ghwenh
 眫	phanh
 眭	ghwej
-眭	hwie
 眭	hwi
+眭	hwie
 眭	swie
 眮	doung
 眮	doungh
@@ -13274,9 +13288,9 @@ sort: by_weight
 睔	ghonq
 睔	konh
 睔	lonq
+睕	quonq
 睕	qwanh
 睕	qwat
-睕	quonq
 睖	trhyng
 睗	sjiaek
 睘	gwiaeng
@@ -13288,8 +13302,8 @@ sort: by_weight
 睟	swih
 睠	kuenh
 睡	djwieh
-睢	hwie
 睢	hwi
+睢	hwie
 睢	hwih
 睢	swi
 督	tok
@@ -13318,8 +13332,8 @@ sort: by_weight
 睿	jwiejh
 瞀	moeuk
 瞀	mouh
-瞁	hwiaek
 瞁	hwek
+瞁	hwiaek
 瞂	buot
 瞄	myew
 瞅	tsrhuq
@@ -13350,9 +13364,9 @@ sort: by_weight
 瞠	trhaeng
 瞡	kwieh
 瞡	kwih
+瞢	meong
 瞢	mung
 瞢	mungh
-瞢	meong
 瞤	njwin
 瞥	phet
 瞥	phiet
@@ -13384,8 +13398,8 @@ sort: by_weight
 瞽	koq
 瞿	guo
 瞿	kuoh
-矀	myi
 矀	muj
+矀	myi
 矅	jiewh
 矆	huak
 矇	moung
@@ -13393,8 +13407,8 @@ sort: by_weight
 矊	mien
 矌	khwangh
 矍	kuak
-矎	hwiaengh
 矎	hwen
+矎	hwiaengh
 矏	men
 矏	mien
 矐	hak
@@ -13406,16 +13420,16 @@ sort: by_weight
 矕	maenq
 矖	lie
 矖	sryeq
-矗	tsrhuk
 矗	trhuk
+矗	tsrhuk
 矘	thangq
 矚	tjuok
 矛	mu
 矜	kyng
 矞	jwit
 矟	sroeuk
-矠	tsrheek
 矠	dzreek
+矠	tsrheek
 矢	sjiq
 矣	yq
 矤	sjinq
@@ -13448,15 +13462,15 @@ sort: by_weight
 砈	qeek
 砉	hwaek
 砉	hwek
-砊	khangh
 砊	khaeng
+砊	khangh
 砌	tshejh
 砍	khomq
 砎	ghaet
 砎	keejh
 砎	keet
-砏	phyin
 砏	phun
+砏	phyin
 砏	pyin
 砐	ngop
 砑	ngaeh
@@ -13471,8 +13485,8 @@ sort: by_weight
 砡	nguk
 砢	laq
 砣	da
-砥	tjieq
 砥	tji
+砥	tjieq
 砥	tjiq
 砦	dzraejh
 砧	trim
@@ -13512,8 +13526,8 @@ sort: by_weight
 硝	siew
 硞	khoeuk
 硞	khok
-硟	tjhienh
 硟	sien
+硟	tjhienh
 硠	lang
 硤	gheep
 硦	lwak
@@ -13527,10 +13541,10 @@ sort: by_weight
 硭	muang
 确	ghoeuk
 硯	ngenh
-硰	tshaq
 硰	srae
-硱	khying
+硰	tshaq
 硱	khonq
+硱	khying
 硹	sung
 硻	kheeng
 硼	beong
@@ -13557,20 +13571,21 @@ sort: by_weight
 碖	lonq
 碗	qwanq
 碘	tenq
+碚	bojq
 碝	njwienq
-碞	ngyim
 碞	ngeem
+碞	ngyim
 碟	dep
-碡	druk
-碡	douk
 碡	dok
+碡	douk
+碡	druk
 碢	dwa
-碣	gyot
 碣	gyet
+碣	gyot
 碥	penq
 碧	pyaek
-碨	qweej
 碨	qojq
+碨	qweej
 碩	djiaek
 碪	jim
 碪	trim
@@ -13583,8 +13598,8 @@ sort: by_weight
 碱	keemq
 碲	tejh
 碳	thanh
-碴	tsrae
 碴	dzrae
+碴	tsrae
 碸	pung
 確	khoeuk
 碻	khoeuk
@@ -13595,8 +13610,8 @@ sort: by_weight
 磁	dzy
 磃	sie
 磄	dang
-磅	phang
 磅	phaeng
+磅	phang
 磆	ghweet
 磇	phej
 磈	khojq
@@ -13605,10 +13620,10 @@ sort: by_weight
 磊	lojq
 磋	tsha
 磋	tshwah
-磌	tjin
 磌	den
-磍	khaet
+磌	tjin
 磍	keet
+磍	khaet
 磎	khej
 磐	ban
 磑	ngoj
@@ -13622,8 +13637,8 @@ sort: by_weight
 磖	lop
 磚	tjwien
 磝	ngaew
-磟	luk
 磟	louk
+磟	luk
 磡	khomh
 磢	tsrhyangq
 磣	tsrhyimq
@@ -13635,14 +13650,14 @@ sort: by_weight
 磩	tshek
 磫	tsuong
 磬	khengh
-磭	tjhyak
 磭	ngyak
 磭	ngyinq
+磭	tjhyak
 磯	kyj
 磰	djienq
 磲	gyo
-磳	tseong
 磳	dzryng
+磳	tseong
 磴	teongh
 磶	siaek
 磷	lin
@@ -13651,8 +13666,8 @@ sort: by_weight
 磺	ghwang
 磻	ban
 磼	dzop
-磽	khewq
 磽	khaew
+磽	khewq
 磽	ngaewh
 磾	tej
 磿	lek
@@ -13666,8 +13681,8 @@ sort: by_weight
 礊	kheek
 礎	tsrhyoq
 礏	ngop
-礐	ghouk
 礐	ghok
+礐	ghouk
 礐	khoeuk
 礐	leek
 礒	ngyeq
@@ -13695,8 +13710,8 @@ sort: by_weight
 礱	loung
 礱	loungh
 礴	bak
-礹	ngyomq
 礹	ngaem
+礹	ngyomq
 示	gie	2%
 示	zjih
 礻	zjih
@@ -13705,7 +13720,8 @@ sort: by_weight
 社	djiaeq
 礿	jyak
 祀	zyq
-祁	tjiq
+祁	gi
+祁	tjiq	0%
 祂	tha
 祅	hen
 祅	qyew
@@ -13756,8 +13772,8 @@ sort: by_weight
 祺	gy
 祼	kwanh
 祽	tsojh
-祾	lyng
 祾	leong
+祾	lyng
 祿	louk
 禁	kyim	5%
 禁	kyimh
@@ -13770,9 +13786,9 @@ sort: by_weight
 福	puk
 禓	jyang
 禓	sjyang
-禔	tjie
 禔	dej
 禔	djie
+禔	tjie
 禕	qye
 禖	moj
 禗	sy
@@ -13843,10 +13859,10 @@ sort: by_weight
 秝	lek
 秞	ju
 租	tso
-秠	phyi
-秠	phyiq
 秠	phu
 秠	phuq
+秠	phyi
+秠	phyiq
 秢	leng
 秣	mat
 秤	tjhyngh
@@ -13860,8 +13876,8 @@ sort: by_weight
 秫	zjwit
 秬	gyoq
 秭	tsiq
-秲	dryq
 秲	djyh
+秲	dryq
 秳	ghwat
 秷	trit
 秸	keet
@@ -13881,9 +13897,9 @@ sort: by_weight
 稉	kaeng
 稊	dej
 程	driaeng
+稌	djyo
 稌	tho
 稌	thoq
-稌	djyo
 稍	sraewh
 稍	sraewq
 稏	qaeh
@@ -13916,12 +13932,12 @@ sort: by_weight
 稰	syoq
 稱	tjhyng
 稱	tjhyngh
-稴	ghem
 稴	gheem
+稴	ghem
 稴	lemh
 稴	lemq
-稵	tsy
 稵	tsiw
+稵	tsy
 稶	quk
 稷	tsyk
 稸	huk
@@ -13946,8 +13962,8 @@ sort: by_weight
 穊	kyih
 穋	luk
 穌	so
-積	tsieh	5%
 積	tsiaek
+積	tsieh	5%
 穎	jwiaengq
 穕	tshiep
 穖	kyjq
@@ -13956,8 +13972,8 @@ sort: by_weight
 穙	bouk
 穚	kyew
 穛	tsroeuk
-穜	druong
 穜	doung
+穜	druong
 穟	zwih
 穠	njuong
 穠	nruong
@@ -13965,9 +13981,9 @@ sort: by_weight
 穢	quojh
 穤	nwah
 穥	jyoh
+穧	dzejh
 穧	tsejh
 穧	tsiejh
-穧	dzejh
 穨	doj
 穩	qonq
 穫	ghwak
@@ -13997,8 +14013,8 @@ sort: by_weight
 突	dot
 窂	law
 窄	tsraek
-窅	qewq
 窅	qaew
+窅	qewq
 窆	pyemh
 窇	boeuk
 窈	qewq
@@ -14006,8 +14022,8 @@ sort: by_weight
 窊	qwae
 窊	qwaeh
 窋	trwit
-窌	luh
 窌	laew
+窌	luh
 窌	phaewh
 窐	ghwej
 窐	kwej
@@ -14053,8 +14069,8 @@ sort: by_weight
 竀	trhaeng
 竀	trhiaeng
 竁	tjhwienh
-竁	tsrhuejh
 竁	tshwiejh
+竁	tsrhuejh
 竂	lew
 竄	tshwanh
 竅	khewh
@@ -14082,15 +14098,15 @@ sort: by_weight
 竩	ngyeh
 竪	djuoq
 竫	dziaengq
-竭	gyot
 竭	gyet
+竭	gyot
 竮	beng
 竮	pheng
 端	twan
 竱	tjwienq
 竱	twan
-竲	tseong
 竲	dzyng
+竲	tseong
 竳	teong
 竴	tshwin
 竵	hwee
@@ -14098,9 +14114,9 @@ sort: by_weight
 竷	khomh
 竷	khomq
 竹	truk
-竺	truk
-竺	touk
 竺	tok
+竺	touk
+竺	truk
 竻	leok
 竽	uo
 竿	kan
@@ -14109,10 +14125,10 @@ sort: by_weight
 笆	baeq
 笆	pae
 笇	swanh
-笈	tsrheep
-笈	gyop
 笈	gyep
 笈	gyip
+笈	gyop
+笈	tsrheep
 笉	tshinq
 笊	tsraewh
 笊	tsraewq
@@ -14123,8 +14139,8 @@ sort: by_weight
 笐	ghangh
 笐	kang
 笑	siewh
-笒	gyimh
 笒	dzryim
+笒	gyimh
 笓	bej
 笗	tong
 笘	tep
@@ -14136,8 +14152,8 @@ sort: by_weight
 笞	trhy
 笠	lip
 笡	tshiaeh
-笢	myin
 笢	minq
+笢	myin
 笤	dew
 笥	syh
 符	buo
@@ -14151,17 +14167,17 @@ sort: by_weight
 第	dejh
 笭	leng
 笭	lengq
+笮	dzak
 笮	tsraeh
 笮	tsraek
-笮	dzak
 笯	no
 笯	noh
 笯	nrae
 笰	put
 笱	kouq
-笲	byenh
 笲	buon
 笲	buonq
+笲	byenh
 笳	kae
 笴	kanq
 笴	kaq
@@ -14190,8 +14206,8 @@ sort: by_weight
 筒	doung
 筒	doungh
 答	top
-筕	ghang
 筕	ghaeng
+筕	ghang
 策	tsrheek
 筘	khouh
 筟	phuo
@@ -14215,9 +14231,9 @@ sort: by_weight
 筱	sewq
 筲	sraew
 筳	deng
-筴	tsrheek
-筴	kep
 筴	keep
+筴	kep
+筴	tsrheek
 筵	jien
 筷	khwaejh
 筻	kaengh
@@ -14306,13 +14322,13 @@ sort: by_weight
 篠	sewq
 篡	tsrhwaenh
 篢	koung
-篣	bang
 篣	baeng
+篣	bang
 篤	tok
 篥	lit
 篦	pej
-篧	tsroeuk
 篧	dzroeuk
+篧	tsroeuk
 篨	dryo
 篩	sree
 篩	srye
@@ -14334,8 +14350,8 @@ sort: by_weight
 篼	tou
 篽	ngyoq
 篾	met
-篿	tjwien
 篿	dwan
+篿	tjwien
 簀	tsreek
 簁	srye
 簁	sryeq
@@ -14352,9 +14368,9 @@ sort: by_weight
 簍	lou
 簍	louq
 簍	luoq
-簎	tsrhyaek
 簎	dziaek
 簎	dzroeuk
+簎	tsrhyaek
 簏	louk
 簙	pak
 簜	dangq
@@ -14396,8 +14412,8 @@ sort: by_weight
 簿	boq
 籀	druh
 籃	lam
-籈	tjin
 籈	kien
+籈	tjin
 籉	deoj
 籊	dek
 籊	thek
@@ -14408,8 +14424,8 @@ sort: by_weight
 籐	deong
 籑	dzruenh
 籓	puon
-籔	sruoq
 籔	souq
+籔	sruoq
 籗	khwak
 籙	luok
 籚	lo
@@ -14453,18 +14469,18 @@ sort: by_weight
 粒	lip
 粔	gyoq
 粕	phak
-粖	met
 粖	mat
+粖	met
 粗	dzoq
 粘	nriem
 粜	thewh
-粞	seoj
 粞	sej
+粞	seoj
 粟	suok
 粢	tsi
 粤	uot
-粥	tjuk	97%
 粥	juk	3%
+粥	tjuk	97%
 粦	lin
 粦	linh
 粧	tsryang
@@ -14487,8 +14503,8 @@ sort: by_weight
 糄	penq
 糅	nruh
 糇	ghou
-糈	syoq
 糈	sryoq
+糈	syoq
 糉	tsoungh
 糊	gho
 糌	tsom
@@ -14513,8 +14529,8 @@ sort: by_weight
 糦	tjhyh
 糧	lyang
 糨	gyangh
-糪	pheek
 糪	peek
+糪	pheek
 糫	ghwaen
 糬	djyoh
 糯	nwah
@@ -14534,12 +14550,12 @@ sort: by_weight
 紂	druq
 紃	zjwin
 紃	zwin
-約	qyak
 約	qiewh	2%
+約	qyak
 紅	ghoung
 紆	quo
-紇	ghet	5%
 紇	gheot
+紇	ghet	5%
 紈	ghwan
 紉	nrin
 紊	munh
@@ -14551,12 +14567,12 @@ sort: by_weight
 紑	pu
 紓	sjyo
 紓	zjyoq
-純	tjwinq	1%
-純	don	0%
 純	djwin	99%
+純	don	0%
+純	tjwinq	1%
 紕	bie
-紕	tjhyq
 紕	phi
+紕	tjhyq
 紖	drinq
 紗	srae
 紘	ghweeng
@@ -14585,8 +14601,8 @@ sort: by_weight
 紱	put
 紲	siet
 紳	sjin
-紴	phyeq
 紴	pa
+紴	phyeq
 紵	dryoq
 紷	leng
 紹	djiewq
@@ -14630,8 +14646,8 @@ sort: by_weight
 絡	lak
 絢	hwenh
 絣	peeng
-絥	byih
 絥	buk
+絥	byih
 給	kyip
 絧	doung
 絧	doungh
@@ -14640,11 +14656,11 @@ sort: by_weight
 絪	qin
 絫	lwieq
 絬	siet
-絭	khuonh
 絭	khuenh
-絭	kuonh
+絭	khuonh
 絭	kuenh
 絭	kuok
+絭	kuonh
 絮	nraeh
 絮	nryoh
 絮	syoh
@@ -14658,9 +14674,9 @@ sort: by_weight
 絸	kenq
 絹	kwienh
 絺	trhi
-絻	myenq
 絻	man
 絻	munh
+絻	myenq
 絽	lyoq
 絿	gu
 綀	sryo
@@ -14669,9 +14685,9 @@ sort: by_weight
 綃	sraew
 綄	ghwan
 綄	ghwanq
+綅	siem
 綅	tshim
 綅	tsim
-綅	siem
 綆	kaengq
 綈	dej
 綊	ghep
@@ -14729,12 +14745,12 @@ sort: by_weight
 緀	tshej
 緀	tshejq
 緁	tshiep
-緂	tjhiem
 緂	tham
 緂	thamq
+緂	tjhiem
 緄	konq
-緅	tsru
 緅	tsou
+緅	tsru
 緅	tsuoh
 緆	sek
 緇	tsry
@@ -14763,9 +14779,9 @@ sort: by_weight
 締	dej
 締	dejh
 緡	myin
-緢	myew
 緢	maewh
 緢	maewq
+緢	myew
 緣	jwien
 緣	jwienh
 緤	siet
@@ -14794,9 +14810,9 @@ sort: by_weight
 緷	unh
 緹	dej
 緹	thejq
+緺	kwa
 緺	kwae
 緺	kwee
-緺	kwa
 緻	drih
 緼	qon
 緼	qun
@@ -14819,9 +14835,9 @@ sort: by_weight
 縐	tsrhaewh
 縐	tsruh
 縑	kem
+縒	saq
 縒	tshak
 縒	tsrhye
-縒	saq
 縓	tshwien
 縓	tshwienh
 縕	qon
@@ -14849,8 +14865,8 @@ sort: by_weight
 縪	pit
 縫	buong
 縫	buongh
-縬	tsuk
 縬	tsruk
+縬	tsuk
 縭	lie
 縮	sruk
 縯	jienq
@@ -14879,8 +14895,8 @@ sort: by_weight
 繃	peeng
 繄	qej
 繄	qejh
-繅	tsawq
 繅	saw
+繅	tsawq
 繆	mu
 繆	muk
 繆	myiw
@@ -14914,8 +14930,8 @@ sort: by_weight
 繜	tson
 繞	njiewh
 繞	njiewq
-繟	tjhienq
 繟	dan
+繟	tjhienq
 繠	njwieq
 繠	njwiq
 繡	suh
@@ -14933,18 +14949,18 @@ sort: by_weight
 繮	kyang
 繯	ghwaenh
 繯	ghwenq
-繰	tsawq
 繰	saw
+繰	tsawq
 繱	tshoung
 繲	keeh
-繳	tjyak
 繳	gheek
 繳	kewq
+繳	tjyak
 繴	beek
 繴	pek
 繵	danq
-繶	qyk
 繶	qyj
+繶	qyk
 繹	jiaek
 繻	njuo
 繻	suo
@@ -14969,15 +14985,15 @@ sort: by_weight
 纏	drienh
 纑	lo
 纓	qiaeng
-纔	sraem	2%
 纔	dzeoj
 纔	dzeojh	2%
+纔	sraem	2%
 纕	syang
 纖	siem
-纗	tsie
 纗	ghweeh
 纗	ghwej
 纗	jwieh
+纗	tsie
 纘	tswanq
 纚	sryeq
 纛	dawh
@@ -14990,8 +15006,8 @@ sort: by_weight
 缸	ghoeung
 缸	kang
 缹	puq
-缺	khwiet
 缺	khwet
+缺	khwiet
 缻	ghoeung
 缽	pat
 缾	beng
@@ -15001,8 +15017,8 @@ sort: by_weight
 罅	haeh
 罇	tson
 罈	dom
-罊	khejh
 罊	kheek
+罊	khejh
 罋	qoungh
 罋	quong
 罌	qeeng
@@ -15015,8 +15031,8 @@ sort: by_weight
 罕	hanq
 罘	bu
 罛	ko
-罜	tjuoh
 罜	douk
+罜	tjuoh
 罝	tsiae
 罞	maew
 罞	moung
@@ -15033,9 +15049,9 @@ sort: by_weight
 罦	phuo
 罧	simq
 罧	sryimh
-罨	qyop
-罨	qyemq
 罨	qop
+罨	qyemq
+罨	qyop
 罩	traewh
 罪	dzojq
 罬	kuet
@@ -15051,18 +15067,18 @@ sort: by_weight
 罵	maeh
 罵	maeq	2%
 罶	luq
+罷	beeq
 罷	bye	10%
 罷	byeq	10%
-罷	beeq
 罹	lie
-罺	tsrhaewh
 罺	tsraew
+罺	tsrhaewh
 罻	qujh
 罼	pit
 罽	kyejh
 罾	tseong
-罿	tjhuong
 罿	doung
+罿	tjhuong
 羂	kwenq
 羃	mek
 羅	la
@@ -15096,8 +15112,8 @@ sort: by_weight
 羥	kheen
 羥	kheeng
 羧	swa
-羨	jienh
 羨	ji
+羨	jienh
 羨	zienh
 義	ngyeh
 羫	khoeung
@@ -15106,8 +15122,8 @@ sort: by_weight
 羭	juo
 羯	kyot
 羰	thang
-羱	ngwan
 羱	nguon
+羱	ngwan
 羲	hye
 羳	buon
 羴	heen
@@ -15225,8 +15241,8 @@ sort: by_weight
 耤	dziaek
 耥	thangq
 耦	ngouq
-耨	nouh
 耨	nok
+耨	nouh
 耩	koeungq
 耪	phangq
 耫	dzraet
@@ -15251,8 +15267,8 @@ sort: by_weight
 聅	dan
 聅	trhiet
 聆	leng
-聉	ngyit
 聉	ngweet
+聉	ngyit
 聉	thojq
 聉	trweet
 聊	lew
@@ -15277,8 +15293,8 @@ sort: by_weight
 聮	lien
 聯	lien
 聰	tshoung
-聱	ngaw
 聱	ngaew
+聱	ngaw
 聱	ngiw
 聲	sjiaeng
 聳	suongq
@@ -15333,17 +15349,17 @@ sort: by_weight
 肥	buj
 肦	bun
 肦	paen
-肧	phu
 肧	phoj
+肧	phu
 肨	phoeungh
 肩	ken
 肪	buang
 肪	puang
 肫	tjwin
 肬	u
+肭	not
 肭	nruk
 肭	nrweet
-肭	not
 肮	ghang
 肯	kheongq
 肰	njien
@@ -15351,8 +15367,8 @@ sort: by_weight
 育	juk
 肴	ghaew
 肶	bi
-肸	hyt
 肸	hyit
+肸	hyt
 肺	phuojh
 肼	tsiaengq
 肽	thajh
@@ -15374,15 +15390,15 @@ sort: by_weight
 胐	phojh
 胑	tjie
 胓	byaeng
-胔	tshie
 胔	dzie
 胔	dzieh
+胔	tshie
 胕	buoh
 胖	ban
-胖	phoeungh
 胖	phanh
-胗	tjinq
+胖	phoeungh
 胗	kinq
+胗	tjinq
 胘	ghen
 胘	ghwen
 胙	dzoh
@@ -15390,18 +15406,18 @@ sort: by_weight
 胛	kaep
 胜	seng
 胝	tri
-胞	phaew
 胞	paew
+胞	phaew
 胟	mouq
-胠	khyop
 胠	khyo
 胠	khyoh
+胠	khyop
 胡	gho
 胤	jinh
 胥	syo
 胥	syoq
-胦	qyang
 胦	qoeung
+胦	qyang
 胩	khaeq
 胬	noq
 胭	qen
@@ -15422,9 +15438,9 @@ sort: by_weight
 胹	njy
 胺	qanh
 胺	qat	0%
-胻	ghang
 胻	ghaeng
 胻	ghaengh
+胻	ghang
 胼	ben
 能	neoj	2%
 能	neojh	2%
@@ -15447,9 +15463,9 @@ sort: by_weight
 脊	tsiaek
 脎	sreet
 脒	mejq
+脕	munh
 脕	muonh
 脕	muonq
-脕	munh
 脖	bot
 脘	kwanq
 脙	gu
@@ -15458,8 +15474,8 @@ sort: by_weight
 脛	ghengh
 脛	ghengq
 脝	haeng
-脞	tshwaq
 脞	tshua
+脞	tshwaq
 脟	lwienq
 脟	lwiet
 脠	sjien
@@ -15490,16 +15506,16 @@ sort: by_weight
 脾	bie
 腃	khuih
 腄	drwieh
-腄	u
 腄	trwie
+腄	u
 腅	damh
 腆	thenq
 腈	tsiaeng
 腊	siaek
 腋	jiaek
+腌	qyep
 腌	qyom
 腌	qyop
-腌	qyep
 腍	njimq
 腎	djinq
 腏	trwiejh
@@ -15573,21 +15589,21 @@ sort: by_weight
 膕	kweok
 膗	dzrweej
 膘	biewq
-膘	tsiewq
 膘	phiewq
+膘	tsiewq
 膙	kyangq
 膚	puo
 膛	dang
 膜	mak
 膜	mo
 膝	sit
+膞	djwienq
 膞	tjwien
 膞	tjwienq
-膞	djwienq
 膟	lwit
-膠	khaew	1%
 膠	kaew	98%
 膠	kaewh	1%
+膠	khaew	1%
 膡	jyngh
 膡	sjyngh
 膢	lou
@@ -15633,9 +15649,9 @@ sort: by_weight
 臇	tswie
 臇	tswienq
 臈	lap
-臉	tshiem
 臉	kyemq
 臉	leemq
+臉	tshiem
 臊	saw
 臌	koq
 臍	dzej
@@ -15646,8 +15662,8 @@ sort: by_weight
 臐	hunh
 臑	naw
 臑	njuo
-臒	qwak
 臒	quak
+臒	qwak
 臔	ghenq
 臕	pyew
 臖	hyngh
@@ -15666,19 +15682,19 @@ sort: by_weight
 臣	djin
 臤	ghen
 臤	khan
-臤	khinh
 臤	kheen
+臤	khinh
 臥	ngwah
 臦	kuangh
 臧	tsang
 臨	lim
 臨	limh
-臩	kuangq
 臩	kuaengq
+臩	kuangq
 自	dzih
 臬	nget
-臭	tjhuh
 臭	huh
+臭	tjhuh
 臮	gyih
 臯	kaw
 臱	mien
@@ -15687,8 +15703,8 @@ sort: by_weight
 致	trih
 臶	dzenh
 臶	dzonh
-臸	tjy
 臸	njit
+臸	tjy
 臺	deoj
 臻	tsryin
 臼	guq
@@ -15703,8 +15719,8 @@ sort: by_weight
 舀	juo
 舁	jyo
 舂	sjuong
-舄	tshyak
 舄	siaek
+舄	tshyak
 舅	guq
 與	jyo	4%
 與	jyoh	4%
@@ -15752,8 +15768,8 @@ sort: by_weight
 舯	trung
 舲	leng
 舳	druk
-舴	tsraek
 舴	traek
+舴	tsraek
 舵	daq
 舶	baek
 舷	ghen
@@ -15764,8 +15780,8 @@ sort: by_weight
 舽	boeung
 舾	sej
 艀	bu
-艁	tshawh
 艁	dzawq
+艁	tshawh
 艃	ly
 艄	sraew
 艅	jyo
@@ -15775,16 +15791,16 @@ sort: by_weight
 艋	maengq
 艎	ghwang
 艏	sjuq
-艐	tsoung
-艐	khah
 艐	keejh
+艐	khah
+艐	tsoung
 艑	benq
 艒	meok
-艒	mouk
 艒	mok
+艒	mouk
 艓	dep
-艖	tsrhae
 艖	dza
+艖	tsrhae
 艗	ngek
 艘	saw
 艘	sew
@@ -15793,8 +15809,8 @@ sort: by_weight
 艛	lou
 艜	tajh
 艞	jiewh
-艟	tjhuong
 艟	droeungh
+艟	tjhuong
 艣	loq
 艤	ngyeq
 艦	ghaemq
@@ -15826,28 +15842,28 @@ sort: by_weight
 艿	njyng
 芀	dew
 芁	kaew
-芃	bung
 芃	boung
+芃	bung
 芄	ghwan
 芅	jyk
 芆	tsrhee
+芇	man
 芇	menq
 芇	mien
-芇	man
 芈	mieq
 芊	tshen
 芊	tshenh
 芋	uo
 芋	uoh
-芍	tshyak	10%
+芍	djyak
 芍	ghewq	10%
 芍	tek	10%
 芍	tryak	10%
-芍	djyak
+芍	tshyak	10%
 芎	khung
 芏	thoq
-芐	ghoq
 芐	ghaeh
+芐	ghoq
 芑	khyq
 芒	mang
 芒	muang	2%
@@ -15904,13 +15920,13 @@ sort: by_weight
 苖	dek
 苖	trhuk
 苗	myew
-苘	khwiaengq
 苘	khwengq
+苘	khwiaengq
 苙	gyip
 苙	lip
 苛	gha
-苜	muk
 苜	mat
+苜	muk
 苝	bojh
 苞	paew
 苟	kouq
@@ -15920,8 +15936,8 @@ sort: by_weight
 苣	gyoq
 苤	phyi
 若	njiae
-若	njyak
 若	njiaeq
+若	njyak
 苦	khoh
 苦	khoq
 苧	dryoq
@@ -15936,10 +15952,10 @@ sort: by_weight
 苰	ghweong
 英	qyaeng
 苳	tong
+苴	dzrae
 苴	tshyo
 苴	tsyo
 苴	tsyoq
-苴	dzrae
 苵	det
 苶	nep
 苶	net
@@ -15954,9 +15970,9 @@ sort: by_weight
 苾	bit
 茀	phut
 茀	pujh
-茁	tsrweet
-茁	tsruet
 茁	trwit
+茁	tsruet
+茁	tsrweet
 茂	mouh
 范	buomq
 茄	gya
@@ -15967,9 +15983,9 @@ sort: by_weight
 茆	maewq
 茇	bat
 茇	pat
-茈	tsieq
 茈	dzie
 茈	dzree
+茈	tsieq
 茉	mat
 茋	tjiq
 茌	dzry
@@ -15993,15 +16009,15 @@ sort: by_weight
 茩	kouq
 茪	kwang
 茫	mang
-茬	tsry
 茬	dzry
+茬	tsry
 茭	kaew
 茮	tsiew
 茯	buk
 茰	juo
 茱	djuo
-茲	tsy
 茲	dzy	1%
+茲	tsy
 茳	koeung
 茴	ghoj
 茵	qin
@@ -16022,8 +16038,8 @@ sort: by_weight
 荂	huo
 荂	phuo
 荃	tshwien
-荄	keoj
 荄	keej
+荄	keoj
 荅	top
 荆	kyaeng
 荇	ghaengq
@@ -16046,8 +16062,8 @@ sort: by_weight
 荖	lawq
 荰	doq
 荲	huk
-荲	trhyk
 荲	trhuk
+荲	trhyk
 荳	douh
 荵	njinq
 荶	ngyim
@@ -16070,8 +16086,8 @@ sort: by_weight
 莅	lih
 莆	puoq
 莈	mot
-莉	dry
 莉	dri
+莉	dry
 莉	lej
 莊	tsryang
 莋	dzak
@@ -16083,9 +16099,9 @@ sort: by_weight
 莐	drim
 莑	phuong
 莒	kyoq
-莓	muh
 莓	moj
 莓	mojh
+莓	muh
 莔	hyt
 莔	maeng
 莕	ghaengq
@@ -16132,16 +16148,16 @@ sort: by_weight
 菁	tsiaeng
 菄	toung
 菅	kaen
+菆	dzwan
 菆	tsrhuoh
 菆	tsru
-菆	dzwan
 菇	ko
 菈	lop
 菉	luok
 菊	kuk
 菋	mujh
-菌	guonq
 菌	guinq
+菌	guonq
 菍	nep
 菍	net
 菎	kon
@@ -16152,16 +16168,16 @@ sort: by_weight
 菑	tsry
 菒	kawq
 菓	kwaq
-菔	buk
 菔	beok
+菔	buk
 菕	lon
 菖	tjhyang
 菗	dru
 菘	sung
 菙	djwieq
 菜	tsheojh
-菝	beet
 菝	bat
+菝	beet
 菟	do
 菟	thoh
 菠	pa
@@ -16174,12 +16190,13 @@ sort: by_weight
 菥	sie
 菦	kynq
 菨	tsiep
-菩	buq
-菩	bo
 菩	beok
+菩	bo
+菩	bojq
+菩	buq
 菪	dangh
-菬	tjiewq
 菬	dziew
+菬	tjiewq
 菭	deoj
 菭	dri
 華	ghwae
@@ -16191,8 +16208,8 @@ sort: by_weight
 菲	phuj
 菲	phujq	5%
 菳	khyim
-菴	qyem
 菴	qom
+菴	qyem
 菵	muangq
 菶	boungq
 菶	poungq
@@ -16226,8 +16243,8 @@ sort: by_weight
 萏	domq
 萐	sreep
 萐	sryep
-萑	tjwi
 萑	ghwan
+萑	tjwi
 萒	guenq
 萒	jwienq
 萘	najh
@@ -16244,15 +16261,15 @@ sort: by_weight
 萰	lenh
 萱	huon
 萳	nomq
-萴	tsryk
 萴	dzryk
+萴	tsryk
 萵	qwa
 萸	juo
 萹	pen
 萹	penq
 萹	phien
-萺	muk
 萺	mok
+萺	muk
 萼	ngak
 落	lak
 萿	kwat
@@ -16288,8 +16305,8 @@ sort: by_weight
 葚	zjimq
 葛	kat
 葜	kheet
-葝	gyaeng
 葝	giaeng
+葝	gyaeng
 葞	mieq
 葟	ghwang
 葡	bo
@@ -16303,8 +16320,8 @@ sort: by_weight
 葫	ho
 葬	tsangh
 葭	kae
-葯	qyak
 葯	qoeuk
+葯	qyak
 葰	srwaeq
 葰	swaq
 葰	swi
@@ -16362,9 +16379,9 @@ sort: by_weight
 蒩	tso
 蒩	tsoq
 蒪	phak
-蒫	tsiae
-蒫	tsi
 蒫	dza
+蒫	tsi
+蒫	tsiae
 蒬	quon
 蒮	juk
 蒯	khweejh
@@ -16401,9 +16418,10 @@ sort: by_weight
 蓎	dang
 蓏	lwaq
 蓐	njuok
-蓑	swa
 蓑	soj
+蓑	swa
 蓒	hyon
+蓓	bojq
 蓖	pej
 蓘	konq
 蓧	dek
@@ -16429,8 +16447,8 @@ sort: by_weight
 蓴	djwin
 蓶	jwi
 蓶	jwiq
-蓷	tjhwi
 蓷	thoj
+蓷	tjhwi
 蓸	dzaw
 蓺	ngiejh
 蓻	tsip
@@ -16458,8 +16476,8 @@ sort: by_weight
 蔓	muonh
 蔔	beok
 蔕	tejh
-蔖	tshoq
 蔖	dza
+蔖	tshoq
 蔗	tjiaeh
 蔘	som
 蔘	sryim
@@ -16485,12 +16503,12 @@ sort: by_weight
 蔧	zwih
 蔨	guenq
 蔨	guinq
-蔩	jienq
 蔩	ji
+蔩	jienq
 蔩	jin
 蔪	dziemq
-蔫	qyon
 蔫	qyen
+蔫	qyon
 蔬	sryo
 蔭	qyimh
 蔮	kojh
@@ -16508,8 +16526,8 @@ sort: by_weight
 蕂	sjyngh
 蕃	buon
 蕃	puon
-蕄	meong
 蕄	meeng
+蕄	meong
 蕅	ngouq
 蕆	trhienq
 蕇	tenq
@@ -16570,8 +16588,8 @@ sort: by_weight
 薄	bak
 薅	haw
 薆	qeojh
-薇	myi
 薇	muj
+薇	myi
 薈	qwajh
 薉	quojh
 薊	kejh
@@ -16582,8 +16600,8 @@ sort: by_weight
 薑	kyang
 薒	tshanh
 薓	sryim
-薔	sryk
 薔	dzyang
+薔	sryk
 薕	lem
 薕	liem
 薖	khwa
@@ -16600,8 +16618,8 @@ sort: by_weight
 薟	liemq
 薠	buon
 薡	tengq
-薢	keej
 薢	keeh
+薢	keej
 薢	keeq
 薤	gheejh
 薦	tsenh
@@ -16629,16 +16647,16 @@ sort: by_weight
 薺	dzejq
 薺	dzi
 薻	tsawq
-薽	tjin
 薽	kien
+薽	tjin
 薾	nejq
 薿	ngyk
 薿	ngyq
 藁	kawq
 藂	dzoung
+藃	haew
 藃	hawh
 藃	hyew
-藃	haew
 藄	gy
 藅	buot
 藆	kyenq
@@ -16693,8 +16711,8 @@ sort: by_weight
 藴	qunh
 藴	qunq
 藶	lek
-藷	tjyo
 藷	djyoh
+藷	tjyo
 藸	dryo
 藸	tryo
 藹	qajh
@@ -16708,8 +16726,8 @@ sort: by_weight
 蘄	gyn
 蘄	kyj
 蘅	ghaeng
-蘆	lyo
 蘆	lo
+蘆	lyo
 蘇	so
 蘈	doj
 蘉	mang
@@ -16737,8 +16755,8 @@ sort: by_weight
 蘤	ueq
 蘥	jyak
 蘦	leng
-蘧	gyo
 蘧	guo
+蘧	gyo
 蘨	jiew
 蘨	ju
 蘩	buon
@@ -16771,8 +16789,8 @@ sort: by_weight
 虇	khuonh
 虇	khuonq
 虈	hyew
-虉	ngek
 虉	ngeek
+虉	ngek
 虋	mon
 虌	piet
 虍	ho
@@ -16802,9 +16820,9 @@ sort: by_weight
 虥	dzraenh
 虥	dzreenq
 虧	khue
+虨	peen
 虨	phyin
 虨	pyin
-虨	peen
 虩	hyaek
 虩	sreek
 虪	sjuk
@@ -16825,14 +16843,14 @@ sort: by_weight
 虹	ghoung
 虹	koeungh
 虹	koungh
-虺	hweej
 虺	hoj
 虺	hujq
+虺	hweej
 虻	maeng
 蚄	puang
 蚅	qeek
-蚆	phae
 蚆	pae
+蚆	phae
 蚇	tjhiaek
 蚈	khen
 蚊	mun
@@ -16845,8 +16863,8 @@ sort: by_weight
 蚑	khieh
 蚓	jinq
 蚕	thenq
-蚖	ngwan
 蚖	nguon
+蚖	ngwan
 蚗	kwet
 蚘	ghoj
 蚚	ghojh
@@ -16861,8 +16879,8 @@ sort: by_weight
 蚢	ghang
 蚢	ghangq
 蚢	khangh
-蚣	tjuong
 蚣	koung
+蚣	tjuong
 蚤	tsawq
 蚥	buoq
 蚥	puoq
@@ -16932,8 +16950,8 @@ sort: by_weight
 蛫	kueq
 蛬	guong
 蛬	kuongq
-蛭	tjit
 蛭	tet
+蛭	tjit
 蛭	trit
 蛵	heng
 蛶	lwat
@@ -16945,8 +16963,8 @@ sort: by_weight
 蛺	kep
 蛻	jwiet
 蛻	sjwiejh
-蛻	thwajh
 蛻	thwah
+蛻	thwajh
 蛾	nga
 蛾	ngyeq
 蜀	djuok
@@ -16967,11 +16985,11 @@ sort: by_weight
 蜊	li
 蜋	lang
 蜋	lyang
-蜍	jyo
 蜍	djyo
+蜍	jyo
 蜎	gwienq
-蜎	qwien
 蜎	qwen
+蜎	qwien
 蜏	juh
 蜏	juq
 蜏	suh
@@ -16993,8 +17011,8 @@ sort: by_weight
 蜟	juk
 蜠	guinq
 蜠	khuin
-蜡	tshyoh
 蜡	dzraeh
+蜡	tshyoh
 蜢	maengq
 蜣	khyang
 蜤	sie
@@ -17035,21 +17053,21 @@ sort: by_weight
 蜼	lwiq
 蜽	lyangq
 蜾	kwaq
-蜿	qwan
 蜿	quon
 蜿	quonq
+蜿	qwan
 蝀	toung
 蝀	toungq
 蝁	qak
 蝂	paenq
-蝃	tjwiet
 蝃	tejh
+蝃	tjwiet
 蝆	jyangq
 蝆	mieq
 蝌	khwa
 蝍	tset
-蝍	tsyk
 蝍	tsit
+蝍	tsyk
 蝎	ghat
 蝑	siaeh
 蝑	syo
@@ -17075,10 +17093,10 @@ sort: by_weight
 蝡	njwienq
 蝡	njwinq
 蝣	ju
-蝤	tsu
 蝤	dzu
-蝥	mu
+蝤	tsu
 蝥	maew
+蝥	mu
 蝥	muo
 蝥	muoh
 蝦	ghae
@@ -17098,9 +17116,9 @@ sort: by_weight
 蝶	dep
 蝶	thep
 蝷	lek
+蝸	kwa
 蝸	kwae
 蝸	kwee
-蝸	kwa
 蝹	qawq
 蝹	quin
 蝹	qun
@@ -17158,8 +17176,8 @@ sort: by_weight
 螵	biew
 螵	phiew
 螶	gyo
-螷	bie
 螷	beengq
+螷	bie
 螸	juo
 螹	dziem
 螹	dziemq
@@ -17235,11 +17253,11 @@ sort: by_weight
 蟹	gheeq
 蟺	djienq
 蟻	ngyeq
+蟼	kae
 蟼	kyaeng
 蟼	kyaengq
-蟼	kae
-蟾	tjiem	5%
 蟾	djiem
+蟾	tjiem	5%
 蟿	khejh
 蟿	khih
 蠀	tshi
@@ -17254,8 +17272,8 @@ sort: by_weight
 蠉	hwien
 蠉	hwienq
 蠊	liem
-蠋	tjuok
 蠋	druok
+蠋	tjuok
 蠌	draek
 蠍	hyot
 蠎	mangq
@@ -17265,8 +17283,8 @@ sort: by_weight
 蠓	moung
 蠓	moungq
 蠔	ghaw
-蠕	njwienq
 蠕	njuo
+蠕	njwienq
 蠖	qwak
 蠗	droeuk
 蠙	ben
@@ -17289,9 +17307,9 @@ sort: by_weight
 蠪	loung
 蠭	phuong
 蠮	qet
-蠯	bie
 蠯	bee
 蠯	beengq
+蠯	bie
 蠰	nang
 蠰	njyangq
 蠰	sjyangh
@@ -17308,13 +17326,13 @@ sort: by_weight
 蠼	guo
 蠼	kuak
 蠽	tsiet
-蠾	tjuok
-蠾	druok
 蠾	djuok
+蠾	druok
+蠾	tjuok
 血	hwet
 衁	hwang
-衃	phu
 衃	phoj
+衃	phu
 衄	njuk
 衄	nruk
 衅	hyinh
@@ -17324,10 +17342,10 @@ sort: by_weight
 衈	njyh
 衊	met
 衋	hyk
-行	ghang
-行	ghangh	5%
 行	ghaeng
 行	ghaengh	20%
+行	ghang
+行	ghangh	5%
 衍	jienh	3%
 衍	jienq
 衎	khanh
@@ -17337,11 +17355,11 @@ sort: by_weight
 衕	doung
 衕	doungh
 衖	ghoeungh
-街	keej
 街	kee
+街	keej
+衙	ngae
 衙	ngyo
 衙	ngyoq
-衙	ngae
 衚	gho
 衛	uejh
 衝	tjhuong
@@ -17361,8 +17379,8 @@ sort: by_weight
 衭	puo
 衮	konq
 衯	phun
-衰	tsrhue
 衰	srui
+衰	tsrhue
 衱	gyep
 衱	kyop
 衲	nop
@@ -17374,8 +17392,8 @@ sort: by_weight
 衷	trungh
 衸	gheejh
 衸	keejh
-衹	tjie
 衹	gie
+衹	tjie
 衺	ziae
 衼	tjie
 衽	njimh
@@ -17398,8 +17416,8 @@ sort: by_weight
 袑	djiewq
 袒	danq
 袒	dreenh
-袓	tsiae
 袓	dzyoq
+袓	tsiae
 袔	ghah
 袕	ghwet
 袕	zjwit
@@ -17424,19 +17442,19 @@ sort: by_weight
 被	byeh
 被	byeq
 袱	buk
-袲	tjhieq
 袲	jie
 袲	naq
+袲	tjhieq
 袳	tjhieq
 袴	khoh
 袵	njimq
-袷	kyop
 袷	keep
+袷	kyop
 袸	dzenh
 袸	dzon
 袹	maek
-袺	ket
 袺	keet
+袺	ket
 袼	kak
 袼	lak
 袽	nryo
@@ -17462,9 +17480,9 @@ sort: by_weight
 裗	lu
 裘	gu
 裙	gun
-裛	qyop
 裛	qyep
 裛	qyip
+裛	qyop
 補	poq
 裝	tsryang
 裝	tsryangh
@@ -17473,9 +17491,9 @@ sort: by_weight
 裟	srae
 裠	gun
 裡	lyq
+裧	thamq
 裧	tjhiem
 裧	tjhiemh
-裧	thamq
 裨	bie
 裨	pie
 裪	daw
@@ -17497,8 +17515,8 @@ sort: by_weight
 裸	lwaq
 裹	kwah
 裹	kwaq
-裺	qyomh
 裺	qyemq
+裺	qyomh
 裻	sok
 裻	tok
 裼	sek
@@ -17506,12 +17524,12 @@ sort: by_weight
 裾	kyo
 褂	kweeh
 褆	dej
-褆	drieq
 褆	djieq
+褆	drieq
 複	buh	10%
 複	puk
-褈	tjhuong
 褈	druong
+褈	tjhuong
 褉	het
 褊	pienq
 褋	dep
@@ -17550,8 +17568,8 @@ sort: by_weight
 褫	trhyq
 褭	newq
 褮	ghweng
-褮	qwiaeng
 褮	qeeng
+褮	qwiaeng
 褯	dziaeh
 褰	khyen
 褱	ghweej
@@ -17578,8 +17596,8 @@ sort: by_weight
 襆	buok
 襆	pouk
 襇	keenh
-襈	guenh
 襈	dzruenh
+襈	guenh
 襉	keenh
 襊	tshwajh
 襊	tshwat
@@ -17606,11 +17624,11 @@ sort: by_weight
 襞	piaek
 襟	kyim
 襠	tang
+襡	djuok
 襡	douk
 襡	douq
 襡	touh
 襡	touq
-襡	djuok
 襢	danq
 襢	trienh
 襢	trienq
@@ -17635,8 +17653,8 @@ sort: by_weight
 襳	sryim
 襵	tjiep
 襵	triep
-襸	tsanh
 襸	dzwan
+襸	tsanh
 襹	srye
 襹	sryeh
 襺	kenq
@@ -17653,12 +17671,12 @@ sort: by_weight
 覃	zim
 覅	miewh
 覆	buh	5%
+覆	pheok	1%
 覆	phuh
 覆	phuk
-覆	pheok	1%
 覇	paeh
-覈	ghet	5%
 覈	gheek
+覈	ghet	5%
 見	ghenh	5%
 見	kenh
 覎	qyomh
@@ -17673,8 +17691,8 @@ sort: by_weight
 覗	syh
 覘	trhiem
 覘	trhiemh
-覛	mek
 覛	meek
+覛	mek
 覜	thewh
 覝	liem
 覞	jiewh
@@ -17714,9 +17732,9 @@ sort: by_weight
 角	louk	1%
 觓	giw
 觔	kyn
+觕	dzoq
 觕	tjhuok
 觕	tsho
-觕	dzoq
 觖	khwieh
 觖	kwet
 觘	tsrhaewh
@@ -17786,9 +17804,9 @@ sort: by_weight
 訍	tsrheeh
 討	thawq
 訏	huo
-訐	kyot
 訐	kyejh
 訐	kyet
+訐	kyot
 訒	njinh
 訓	hunh
 訔	ngyin
@@ -17813,8 +17831,8 @@ sort: by_weight
 訧	u
 訩	huong
 訪	phuangh
-訬	tsrhaew
 訬	miewq
+訬	tsrhaew
 設	sjiet
 訮	hen
 訰	tjwin
@@ -17826,8 +17844,8 @@ sort: by_weight
 訶	ha
 訷	sjin
 訹	swit
-診	tjinq
 診	drinh
+診	tjinq
 註	tjuoh
 註	truoh
 証	tjiaengh
@@ -17836,9 +17854,9 @@ sort: by_weight
 訾	tsie
 訾	tsieq
 訿	tsieq
-詀	tjhiep
 詀	dreemh
 詀	tem
+詀	tjhiep
 詀	treem
 詁	koq
 詃	kwenq
@@ -17848,9 +17866,9 @@ sort: by_weight
 詆	dej
 詆	tejq
 詆	thek
+詇	qyaengh
 詇	qyangh
 詇	qyangq
-詇	qyaengh
 詈	lieh
 詉	nrae
 詍	jiejh
@@ -17869,8 +17887,8 @@ sort: by_weight
 評	byaengh
 詖	pye
 詖	pyeh
-詗	hwiaengh
 詗	hwengq
+詗	hwiaengh
 詘	khut
 詛	tsryoh
 詜	thaw
@@ -17880,8 +17898,8 @@ sort: by_weight
 詡	huoq
 詢	swin
 詣	ngejh
-詤	hwangq
 詤	huangq
+詤	hwangq
 詥	ghop
 試	sjyh
 詧	tshet
@@ -17925,16 +17943,16 @@ sort: by_weight
 誀	njy
 誀	njyh
 誂	dewq
-誃	tjhieq
 誃	drie
+誃	tjhieq
 誄	lwiq
 誅	truo
 誆	guangh
 誇	khwae
 誋	gyh
 誌	tjyh
-認	njyngh
 認	njinh
+認	njyngh
 誎	tshuok
 誏	langq
 誐	nga
@@ -17964,8 +17982,8 @@ sort: by_weight
 誧	phoq
 誧	po
 誨	hojh
-誩	gyangq
 誩	gyaengh
+誩	gyangq
 誩	thomh
 說	jwiet	3%
 說	sjwiejh	3%
@@ -17975,16 +17993,16 @@ sort: by_weight
 課	khwa
 課	khwah
 誴	dzong
+誶	dzwit
 誶	sojh
 誶	swih
-誶	dzwit
 誷	muangq
 誹	puj
 誹	pujh
 誺	leojh
 誺	trhie
-誺	trhyh
 誺	trhih
+誺	trhyh
 誻	dop
 誼	ngyeh
 誽	nree
@@ -18003,9 +18021,9 @@ sort: by_weight
 諈	trwieh
 諉	nrwieh
 諊	kuk
-請	tshiaengq
 請	dziaeng	1%
 請	dziaengh	3%
+請	tshiaengq
 諍	tsreengh
 諎	tshwah
 諎	tsraek
@@ -18024,9 +18042,9 @@ sort: by_weight
 諜	dep
 諝	syo
 諝	syoq
-諞	byenq
 諞	bien
 諞	bienq
+諞	byenq
 諟	djieq
 諠	huon
 諡	zjih
@@ -18040,12 +18058,12 @@ sort: by_weight
 諫	kaenh
 諭	juoh
 諮	tsi
-諯	tjhwienh
-諯	tshwienh
-諯	tjwien
 諯	djwien
-諰	syq
+諯	tjhwienh
+諯	tjwien
+諯	tshwienh
 諰	sree
+諰	syq
 諱	hujh
 諲	qin
 諳	qom
@@ -18062,8 +18080,8 @@ sort: by_weight
 諻	hwaeng
 諼	huon
 諼	huonq
-諽	kheek
 諽	keek
+諽	kheek
 諾	nak
 諿	tship
 謀	mu
@@ -18078,8 +18096,8 @@ sort: by_weight
 謈	phoeuk
 謉	kuih
 謉	tojq
-謊	hwangq
 謊	huangq
+謊	hwangq
 謋	hwaek
 謌	ka
 謍	hwaeng
@@ -18087,9 +18105,9 @@ sort: by_weight
 謍	qweeng
 謎	mejh
 謏	sewq
-謏	sruk
 謏	souh
 謏	souq
+謏	sruk
 謐	mit
 謑	haeh
 謑	heeh
@@ -18107,12 +18125,13 @@ sort: by_weight
 謚	qiaek
 謚	zjih
 講	koeungq
-謜	tshwien
 謜	nguon
+謜	tshwien
 謝	ziaeh
 謞	hak
 謞	hoeuk
 謟	thaw
+謟	thawh
 謠	jiew
 謡	jiew
 謣	uo
@@ -18134,19 +18153,19 @@ sort: by_weight
 謴	konh
 謵	tjhiep
 謶	tjyak
+謷	ngaew
 謷	ngaw
 謷	ngawh
-謷	ngaew
 謹	kynq
 謺	tjiep
 謻	jie
 謼	ho
 謼	hoh
-謾	mien
 謾	maen
 謾	maenh
 謾	man
 謾	manh
+謾	mien
 譀	ghamh
 譀	haemh
 譀	haep
@@ -18166,13 +18185,13 @@ sort: by_weight
 譑	kyewq
 譒	pah
 譓	ghwejh
-譔	tshwien
 譔	dzruenh
 譔	dzruenq
+譔	tshwien
 譕	muo
 譖	tsryimh
-識	tjyh	4%
 識	sjyk
+識	tjyh	4%
 譙	dziew
 譚	dom
 譚	domq
@@ -18184,8 +18203,8 @@ sort: by_weight
 譠	treen
 譡	tangh
 譢	swih
-譣	tshiem
 譣	hyemq
+譣	tshiem
 譥	kewh
 警	kyaengq
 譧	dreemh
@@ -18193,8 +18212,8 @@ sort: by_weight
 譩	qy
 譩	qyj
 譩	qyq
-譫	tjap
 譫	dap
+譫	tjap
 譬	phieh
 譭	hueq
 譮	heejh
@@ -18207,9 +18226,9 @@ sort: by_weight
 譶	drip
 護	ghoh
 譸	tru
+譺	ngeejh
 譺	ngyh
 譺	ngyq
-譺	ngeejh
 譻	qeeng
 譽	jyo
 譽	jyoh
@@ -18238,8 +18257,8 @@ sort: by_weight
 讗	ghwej
 讗	kweek
 讘	njiep
-讙	hwan
 讙	huon
+讙	hwan
 讚	tsanh
 讜	tangq
 讞	ngyenq
@@ -18338,8 +18357,8 @@ sort: by_weight
 貂	tew
 貅	hu
 貆	ghwan
-貆	hwan
 貆	huon
+貆	hwan
 貈	ghak
 貉	ghak
 貉	maek
@@ -18351,8 +18370,8 @@ sort: by_weight
 貑	kae
 貒	thwan
 貒	thwanh
-貓	myew
 貓	maew
+貓	myew
 貔	bi
 貕	ghej
 貖	qeek
@@ -18407,21 +18426,21 @@ sort: by_weight
 賀	ghah
 賁	buj
 賁	bun
-賁	pyeh
 賁	pon
+賁	pyeh
 賂	loh
 賃	nrimh
 賄	hojq
 賅	keoj
 賆	ben
 資	tsi
-賈	koq	10%
 賈	kaeh	10%
 賈	kaeq
+賈	koq	10%
 賉	swit
 賊	dzeok
-賏	qyaengh
 賏	qiaeng
+賏	qyaengh
 賑	tjinh
 賑	tjinq
 賒	sjiae
@@ -18509,8 +18528,8 @@ sort: by_weight
 走	tsouq
 赳	kiwq
 赴	phuoh
-赶	gyon
 赶	guot
+赶	gyon
 起	khyq
 赹	gwiaeng
 赽	kwet
@@ -18529,10 +18548,10 @@ sort: by_weight
 越	uot	99%
 趌	gyit
 趌	khit
-趌	kyet
 趌	kit
-趍	tshuo
+趌	kyet
 趍	drie
+趍	tshuo
 趎	druo
 趏	khaet
 趏	kwaet
@@ -18555,9 +18574,9 @@ sort: by_weight
 趟	traengh
 趠	trhaewh
 趠	trhoeuk
+趡	dziewh
 趡	tshwiq
 趡	tsiewh
-趡	dziewh
 趢	louk
 趢	luok
 趣	tshouq
@@ -18570,16 +18589,16 @@ sort: by_weight
 趪	ghwang
 趫	gyew
 趫	khyew
-趬	khyewh
 趬	khiew
-趭	tsiewh
-趭	jiewh
+趬	khyewh
 趭	dziewh
+趭	jiewh
+趭	tsiewh
 趮	tsawh
 趯	thek
+趲	dzanq
 趲	tsanh
 趲	tsanq
-趲	dzanq
 足	tsuoh	2%
 足	tsuok
 趴	pheet
@@ -18627,20 +18646,20 @@ sort: by_weight
 跗	puo
 跙	dzyoq
 跚	san
-跛	pyeh
 跛	paq
+跛	pyeh
 跜	nri
 距	gyoq
 跟	keon
 跠	ji
 跡	tsiaek
-跢	tajh
 跢	tah
+跢	tajh
 跣	senq
 跤	khaew
 跦	truo
-跧	tsrwaen
 跧	tsruen
+跧	tsrwaen
 跧	tswin
 跨	khoh
 跨	khwae
@@ -18658,8 +18677,8 @@ sort: by_weight
 跰	paengh
 跱	dryq
 跲	gyop
-跲	kyop
 跲	keep
+跲	kyop
 跳	dew
 跺	twah
 跼	guok
@@ -18682,14 +18701,14 @@ sort: by_weight
 踐	dzienq
 踑	gy
 踒	qwa
-踓	tshwiq
 踓	jwiq
+踓	tshwiq
 踔	trhaewh
 踔	trhoeuk
 踕	dziep
+踖	dziaek
 踖	tshyak
 踖	tsiaek
-踖	dziaek
 踘	guk
 踘	kuk
 踚	lwin
@@ -18707,8 +18726,8 @@ sort: by_weight
 踥	tshiep
 踦	khye
 踦	kyeq
-踧	tsuk
 踧	dek
+踧	tsuk
 踩	tsheojq
 踮	temq
 踰	juo
@@ -18719,8 +18738,8 @@ sort: by_weight
 踶	dejh
 踶	drieq
 踸	trhimq
-踹	twanh
 踹	djwienq
+踹	twanh
 踺	gyonh
 踼	dang
 踼	dangh
@@ -18740,8 +18759,8 @@ sort: by_weight
 蹃	nraek
 蹃	nryak
 蹄	dej
-蹇	kyonq
 蹇	kyenq
+蹇	kyonq
 蹈	dawh
 蹉	tsha
 蹊	ghej
@@ -18783,9 +18802,9 @@ sort: by_weight
 蹲	dzon
 蹴	tshuk
 蹴	tsuk
-蹶	kuot
 蹶	kuejh
 蹶	kuet
+蹶	kuot
 蹷	guot
 蹹	dop
 蹺	khiew
@@ -18852,8 +18871,8 @@ sort: by_weight
 軀	khuo
 軄	tjyk
 軆	thejq
-車	tjhiae
 車	kyo	50%
+車	tjhiae
 軋	qeet
 軌	kuiq
 軍	kun
@@ -18897,8 +18916,8 @@ sort: by_weight
 軷	bat
 軸	druk
 軹	tjieq
-軺	jiew
 軺	djiew
+軺	jiew
 軻	kha
 軻	khah
 軻	khaq
@@ -18916,12 +18935,12 @@ sort: by_weight
 輄	kwang
 輅	loh
 輆	kheojq
-輇	tshwien
 輇	djwien
+輇	tshwien
 輈	tru
+載	dzeojh
 載	tseojh
 載	tseojq
-載	dzeojh
 輊	trih
 輍	juok
 輎	sraew
@@ -18945,8 +18964,8 @@ sort: by_weight
 輞	muangq
 輟	trwiejh
 輟	trwiet
-輠	ghwaeq
 輠	ghojq
+輠	ghwaeq
 輠	ghwaq
 輠	kwaq
 輡	khomq
@@ -19025,8 +19044,8 @@ sort: by_weight
 轙	ngyeq
 轚	kejh
 轚	kek
-轛	trwih
 轛	tojh
+轛	trwih
 轞	ghaemq
 轟	hweeng
 轟	hweengh
@@ -19052,8 +19071,8 @@ sort: by_weight
 辤	zy
 辥	siet
 辦	beenh
-辨	byenq
 辨	beenh
+辨	byenq
 辬	paen
 辭	zy
 辮	benq
@@ -19098,8 +19117,8 @@ sort: by_weight
 迤	jie
 迤	jieq
 迥	ghwengq
-迦	kya
 迦	kae
+迦	kya
 迨	deojq
 迩	njieq
 迪	dek
@@ -19139,20 +19158,20 @@ sort: by_weight
 途	do
 逕	kengh
 逖	thek
-逗	druoh	5%
 逗	douh
-這	tjiaeq	1%
-這	tjiaek	98%
+逗	druoh	5%
 這	ngyenh	1%
+這	tjiaek	98%
+這	tjiaeq	1%
 通	thoung
 逛	kuangq
 逜	ngoh
 逝	djiejh
 逞	trhiaengq
-速	tsiaek	0%
 速	souk
-造	tshawh	10%
+速	tsiaek	0%
 造	dzawq
+造	tshawh	10%
 逡	tshwin
 逢	buong
 連	lien
@@ -19162,14 +19181,14 @@ sort: by_weight
 逪	tshak
 逫	trwit
 逭	ghwanh
-逮	deojh
 逮	dejh
+逮	deojh
 逯	luok
 週	tju
 進	tsinh
 逳	juk
-逴	trhyak
 逴	trhoeuk
+逴	trhyak
 逵	gui
 逶	que
 逷	thek
@@ -19197,8 +19216,8 @@ sort: by_weight
 遏	qat
 遐	ghae
 遑	ghwang
-遒	tsu
 遒	dzu
+遒	tsu
 道	dawq
 達	dat
 達	that	2%
@@ -19222,9 +19241,9 @@ sort: by_weight
 遥	jiew
 遦	kwanh
 遨	ngaw
-適	tjiaek	4%
 適	sjiaek	92%
 適	tek	4%
+適	tjiaek	4%
 遪	tshop
 遫	trhyk
 遬	souk
@@ -19307,8 +19326,8 @@ sort: by_weight
 邯	ghan
 邰	theoj
 邱	khu
-邲	byit
 邲	bit
+邲	byit
 邲	pyih
 邳	byi
 邴	pyaengh
@@ -19349,9 +19368,9 @@ sort: by_weight
 郛	phuo
 郜	kawh
 郜	kok	20%
-郝	tjhiaek	1%
 郝	hak
 郝	sjiaek	1%
+郝	tjhiaek	1%
 郟	keep
 郠	kaengq
 郡	gunh
@@ -19363,9 +19382,9 @@ sort: by_weight
 郩	qawq
 郪	tshej
 郪	tshi
-郫	bye
-郫	bie
 郫	bee
+郫	bie
+郫	bye
 郭	kwak
 郮	tju
 郯	dam
@@ -19408,9 +19427,9 @@ sort: by_weight
 鄑	tsie
 鄒	tsru
 鄓	qyop
-鄔	qyoh
 鄔	qo
 鄔	qoq
+鄔	qyoh
 鄖	un
 鄗	ghawq
 鄗	hak
@@ -19424,14 +19443,14 @@ sort: by_weight
 鄝	lewq
 鄞	ngyin
 鄞	ngyn
-鄟	tjwien
-鄟	dwan
 鄟	djwienq
+鄟	dwan
+鄟	tjwien
 鄠	ghoq
 鄡	khew
+鄢	qyen
 鄢	qyonh
 鄢	qyonq
-鄢	qyen
 鄣	tjyang
 鄦	hyoq
 鄧	deongh
@@ -19455,15 +19474,15 @@ sort: by_weight
 鄵	tshawh
 鄶	kwajh
 鄸	mungh
+鄹	dzuoq
 鄹	tsru
 鄹	zwanq
-鄹	dzuoq
 鄺	hwang
 鄺	kwangq
 鄻	lienq
+鄼	dzwan
 鄼	tsanh
 鄼	tswanq
-鄼	dzwan
 鄽	drien
 鄾	qu
 酀	qenh
@@ -19496,8 +19515,8 @@ sort: by_weight
 酚	phun
 酞	thajh
 酡	da
-酢	tshoh
 酢	dzak
+酢	tshoh
 酣	gham
 酤	ghoq
 酤	ko
@@ -19520,15 +19539,15 @@ sort: by_weight
 酶	moj
 酷	khok
 酸	swan
-酹	lwajh
 酹	lojh
+酹	lwajh
 酺	bo
 醁	luok
 醂	lomq
-醃	qyom
 醃	qyem
-醅	phu
+醃	qyom
 醅	phoj
+醅	phu
 醆	tjienq
 醆	tsreenq
 醇	djwin
@@ -19540,8 +19559,8 @@ sort: by_weight
 醍	dej
 醍	thejq
 醎	gheem
-醏	to
 醏	djih
+醏	to
 醐	gho
 醑	syoq
 醒	seng
@@ -19551,11 +19570,11 @@ sort: by_weight
 醔	tsrhu
 醖	qunh
 醖	qunq
-醙	suq
 醙	sru
+醙	suq
 醚	mej
-醛	tsrhuet
 醛	dzwien
+醛	tsrhuet
 醜	tjhuq
 醝	dza
 醞	qunh
@@ -19567,10 +19586,10 @@ sort: by_weight
 醢	heojq
 醣	dang
 醥	phiewq
-醦	tsrhyimq
 醦	sreemq
-醧	qyoh
+醦	tsrhyimq
 醧	qou
+醧	qyoh
 醨	lie
 醩	tsaw
 醪	law
@@ -19588,8 +19607,8 @@ sort: by_weight
 醵	gyak
 醵	gyo
 醵	gyoh
-醶	tsrhaemq
 醶	leemq
+醶	tsrhaemq
 醷	qyk
 醷	qyq
 醹	njuo
@@ -19614,8 +19633,8 @@ sort: by_weight
 重	druong
 重	druongh	10%
 重	druongq
-野	jiaeq
 野	djyoq	5%
+野	jiaeq
 量	lyang
 量	lyangh
 釐	ly
@@ -19624,8 +19643,8 @@ sort: by_weight
 釓	keet
 釔	qyit
 釕	tewq
-釗	tjiew
 釗	kew
+釗	tjiew
 釘	teng
 釘	tengh
 釙	phoeuk
@@ -19645,8 +19664,8 @@ sort: by_weight
 釫	qo
 釬	ghanh
 釭	koeung
-釭	koung
 釭	kong
+釭	koung
 釱	dajh
 釱	dejh
 釳	hyt
@@ -19658,16 +19677,16 @@ sort: by_weight
 釾	jiae
 釿	kyn
 釿	ngyinq
-鈀	phae
 鈀	pae
+鈀	phae
 鈁	puang
 鈂	drim
 鈂	dzim
 鈃	gheng
 鈄	thouq
 鈅	nguot
-鈆	tjuong
 鈆	jwien
+鈆	tjuong
 鈇	puo
 鈈	put
 鈉	njwiejh
@@ -19715,13 +19734,13 @@ sort: by_weight
 鈾	ju
 鈿	den
 鈿	denh
-鉀	kap
 鉀	kaep
+鉀	kap
 鉅	gyoq
 鉆	gyem
 鉆	thep
-鉈	sjie
 鉈	djiae
+鉈	sjie
 鉉	ghwenq
 鉊	tjiew
 鉋	baew
@@ -19745,8 +19764,8 @@ sort: by_weight
 鉞	uot
 鉟	byi
 鉟	phyi
-鉠	qyang
 鉠	qyaeng
+鉠	qyang
 鉢	pat
 鉣	kyop
 鉤	kou
@@ -19760,8 +19779,8 @@ sort: by_weight
 鉸	kaew
 鉸	kaewh
 鉸	kaewq
-鉹	tjhieq
 鉹	jie
+鉹	tjhieq
 鉺	njyq
 鉻	kaek
 鉻	lak
@@ -19781,8 +19800,8 @@ sort: by_weight
 銍	trit
 銎	huong
 銎	khuong
-銐	tjhiejh
 銐	driejh
+銐	tjhiejh
 銑	senq
 銓	tshwien
 銕	dej
@@ -19802,6 +19821,7 @@ sort: by_weight
 銣	njyo
 銥	qyj
 銦	qin
+銩	tiw
 銪	uq
 銫	sryk
 銬	khawh
@@ -19809,16 +19829,16 @@ sort: by_weight
 銲	ghanh
 銳	dwajh
 銳	jwiejh
-銴	jwiejh
 銴	djiejh
+銴	jwiejh
 銵	kheeng
 銶	gu
 銷	siew
 銹	suh
 銻	dej
-銼	tshwah
-銼	dzwa
 銼	dzouk
+銼	dzwa
+銼	tshwah
 銿	juong
 鋀	thou
 鋁	lyoq
@@ -19828,8 +19848,8 @@ sort: by_weight
 鋇	pajh
 鋈	qok
 鋊	juok
-鋋	jien
 鋋	djien
+鋋	jien
 鋌	dengq
 鋏	kep
 鋑	tswien
@@ -19881,8 +19901,8 @@ sort: by_weight
 錈	kuenq
 錊	tsok
 錍	phej
-錍	pye
 錍	pie
+錍	pye
 錎	gheemh
 錎	khomq
 錏	qae
@@ -19900,17 +19920,17 @@ sort: by_weight
 錛	pon
 錜	nep
 錝	tsongh
+錞	djwin
 錞	dojh
 錞	dojq
-錞	djwin
 錟	dam
 錠	dengh
 錠	tengh
 錡	gye
 錡	gyeq
 錡	ngyeq
-錢	tsienq	1%
 錢	dzien	99%
+錢	tsienq	1%
 錣	trwaet
 錣	trwiejh
 錤	gy
@@ -19938,8 +19958,8 @@ sort: by_weight
 鍁	hyon
 鍃	hot
 鍆	mon
-鍇	kheejq
 鍇	keej
+鍇	kheejq
 鍉	tej
 鍊	lenh
 鍋	kwa
@@ -19961,13 +19981,13 @@ sort: by_weight
 鍝	nguo
 鍠	ghwaeng
 鍡	qojq
-鍤	tsrheep
 鍤	trhiep
+鍤	tsrheep
 鍥	ket
 鍥	khet
+鍦	djiae
 鍦	sjie
 鍦	sjieh
-鍦	djiae
 鍧	hweeng
 鍨	gui
 鍩	nak
@@ -19982,15 +20002,15 @@ sort: by_weight
 鍱	jiep
 鍲	myin
 鍴	twan
-鍵	gyonq
 鍵	gyen
 鍵	gyenq
+鍵	gyonq
 鍶	sy
 鍺	twaq
 鍻	kyot
-鍼	tjim
-鍼	gyem
 鍼	giem
+鍼	gyem
+鍼	tjim
 鍾	tjuong
 鍿	tsry
 鎁	jiae
@@ -20025,8 +20045,8 @@ sort: by_weight
 鎩	sreejh
 鎩	sreet
 鎩	sryejh
-鎪	sru
 鎪	sou
+鎪	sru
 鎬	ghawq
 鎭	trin
 鎭	trinh
@@ -20043,9 +20063,9 @@ sort: by_weight
 鏇	zwienh
 鏈	lien
 鏈	trhien
-鏉	sruh
 鏉	sou
 鏉	souh
+鏉	sruh
 鏊	ngaw
 鏊	ngawh
 鏋	manq
@@ -20053,12 +20073,12 @@ sort: by_weight
 鏍	lwa
 鏎	pit
 鏏	zwiejh
-鏐	lu
 鏐	liw
+鏐	lu
 鏑	tek
 鏓	tshoung
-鏔	jy
 鏔	ji
+鏔	jy
 鏕	louk
 鏖	qaw
 鏗	kheeng
@@ -20074,8 +20094,8 @@ sort: by_weight
 鏢	phiew
 鏤	louh
 鏤	luo
-鏦	tsrhoeung
 鏦	tshuong
+鏦	tsrhoeung
 鏨	dzam
 鏨	dzamh
 鏨	dzamq
@@ -20084,8 +20104,8 @@ sort: by_weight
 鏰	peongh
 鏳	dzreeng
 鏵	ghwae
-鏶	tshiep
 鏶	dzip
+鏶	tshiep
 鏷	bok
 鏸	ghwejh
 鏹	kyangq
@@ -20095,8 +20115,8 @@ sort: by_weight
 鏻	linh
 鏽	suh
 鏾	sanq
-鐁	sie
 鐁	si
+鐁	sie
 鐃	nraew
 鐄	ghwaeng
 鐅	phet
@@ -20107,8 +20127,8 @@ sort: by_weight
 鐉	tshwien
 鐋	thangh
 鐍	kwet
-鐎	tsiew
 鐎	dziew
+鐎	tsiew
 鐏	dzonh
 鐐	lew
 鐐	lewh
@@ -20131,10 +20151,10 @@ sort: by_weight
 鐬	hwajh
 鐮	liem
 鐯	tryak
-鐰	tshiew
 鐰	dzaw
-鐲	droeuk
+鐰	tshiew
 鐲	djuok
+鐲	droeuk
 鐳	loj
 鐴	piaek
 鐵	thet
@@ -20142,8 +20162,8 @@ sort: by_weight
 鐸	dak
 鐹	kwah
 鐹	kwaq
-鐺	tsrhaeng
 鐺	tang
+鐺	tsrhaeng
 鐻	gyo
 鐻	gyoq
 鐻	kyoh
@@ -20154,8 +20174,8 @@ sort: by_weight
 鐾	bieh
 鐿	qyh
 鑄	tjuoh
-鑈	nep
 鑈	nejq
+鑈	nep
 鑊	ghwak
 鑋	khengh
 鑋	khiaeng
@@ -20164,8 +20184,8 @@ sort: by_weight
 鑐	suo
 鑑	kaem
 鑑	kaemh
-鑒	ken
 鑒	kaemh
+鑒	ken
 鑔	tsrheet
 鑕	tjit
 鑗	li
@@ -20203,12 +20223,12 @@ sort: by_weight
 鑽	tswan
 鑽	tswanh
 鑾	lwan
-鑿	tsak
-鑿	tshawh
 鑿	dzak
 鑿	dzouk
-钀	ngyot
+鑿	tsak
+鑿	tshawh
 钀	ngyet
+钀	ngyot
 钁	kuak
 钃	truok
 锸	trhiep
@@ -20248,8 +20268,8 @@ sort: by_weight
 閛	pheeng
 閜	haeq
 閝	leng
-閞	byenh
 閞	buonh
+閞	byenh
 閟	pyih
 閠	njwinh
 閡	ngeojh
@@ -20260,8 +20280,8 @@ sort: by_weight
 閧	ghoeungh
 閧	ghoungh
 閨	kwej
-閩	myin
 閩	mun
+閩	myin
 閪	hej
 閫	khonq
 閬	lang
@@ -20277,16 +20297,16 @@ sort: by_weight
 閻	jiem
 閼	qat
 閼	qen
-閼	qyot
 閼	qyen
+閼	qyot
 閽	hon
 閾	huik
 閿	mun
 闃	khwek
 闄	qiewq
-闅	myin
 闅	min
 闅	mun
+闅	myin
 闆	paenq
 闇	qomh
 闈	uj
@@ -20294,8 +20314,8 @@ sort: by_weight
 闊	khwat
 闋	khwet
 闌	lan
-闍	to
 闍	djiae
+闍	to
 闐	den
 闐	denh
 闑	nget
@@ -20305,8 +20325,8 @@ sort: by_weight
 闓	kheojq
 闔	ghap
 闕	khuot
-闖	tsrhyangq
 闖	trhimh
+闖	tsrhyangq
 闘	touh
 闙	khejq
 闚	khwie
@@ -20338,8 +20358,8 @@ sort: by_weight
 阨	qeek
 阪	baenq
 阪	puonq
-阬	khangh
 阬	khaeng
+阬	khangh
 阮	nguon
 阮	nguonq
 阯	tjyq
@@ -20394,8 +20414,8 @@ sort: by_weight
 除	dryoh
 陪	boj
 陫	bujq
-陬	tsru
 陬	tsou
+陬	tsru
 陬	tsuo
 陭	qye
 陭	qyeh
@@ -20433,8 +20453,8 @@ sort: by_weight
 隊	dojh
 隋	thwaq
 隋	zwie
-隌	qyim
 隌	qomq
+隌	qyim
 隍	ghwang
 階	keej
 隑	ngeoj
@@ -20532,19 +20552,19 @@ sort: by_weight
 零	lengh
 雷	loj
 雹	boeuk
-雺	mu
+雺	mongh
 雺	mouh
 雺	moung
-雺	mongh
+雺	mu
 電	denh
 需	suo
 霂	mouk
 霃	drim
 霄	siew
-霅	tjiep
 霅	draep
 霅	ghaep
 霅	sop
+霅	tjiep
 霆	deng
 霆	dengq
 震	tjinh
@@ -20561,8 +20581,8 @@ sort: by_weight
 霓	nget
 霔	tjuoh
 霖	lim
-霙	qyang
 霙	qyaeng
+霙	qyang
 霚	moung
 霚	muoh
 霛	leng
@@ -20584,8 +20604,8 @@ sort: by_weight
 霱	jwit
 露	loh
 霳	lung
-霵	tsryip
 霵	dzryip
+霵	tsryip
 霶	phang
 霸	paeh
 霹	phek
@@ -20630,10 +20650,10 @@ sort: by_weight
 靪	tengq
 靫	tsrhae
 靫	tsrhee
+靬	keen
 靬	khan
 靬	khanh
 靬	kyon
-靬	keen
 靮	tek
 靯	doq
 靲	gyim
@@ -20646,8 +20666,8 @@ sort: by_weight
 靸	sop
 靺	mat
 靻	tsoq
-靼	tjiet	5%
 靼	tat
+靼	tjiet	5%
 靽	panh
 靾	jiejh
 靿	qaewh
@@ -20661,11 +20681,11 @@ sort: by_weight
 鞄	phoeuk
 鞅	qyangq
 鞇	qin
-鞈	kop
 鞈	keep
+鞈	kop
 鞉	daw
-鞋	gheej
 鞋	ghee
+鞋	gheej
 鞌	qan
 鞍	qan
 鞎	gheon
@@ -20697,17 +20717,17 @@ sort: by_weight
 鞧	tshu
 鞨	ghat
 鞨	zjiet
-鞪	mu
 鞪	mouk
+鞪	mu
 鞫	kuk
 鞬	kyon
 鞭	pien
 鞮	tej
 鞲	kou
 鞳	thap
-鞴	byih
-鞴	buk
 鞴	boh
+鞴	buk
+鞴	byih
 鞵	ghee
 鞶	ban
 鞹	khwak
@@ -20731,13 +20751,13 @@ sort: by_weight
 韌	njinh
 韍	byih
 韍	put
-韎	meejh
 韎	mat
+韎	meejh
 韏	guenh
 韏	khuonh
 韏	kuenq
-韐	kop
 韐	keep
+韐	kop
 韒	siewh
 韓	ghan
 韔	trhyangh
@@ -20749,6 +20769,7 @@ sort: by_weight
 韙	ujq
 韛	beejh
 韜	thaw
+韜	thawh
 韝	beejh
 韝	khou
 韝	kou
@@ -20757,9 +20778,9 @@ sort: by_weight
 韠	pit
 韡	ujq
 韢	tshwiejh
-韣	tjuok
-韣	douk
 韣	djuok
+韣	douk
+韣	tjuok
 韤	muot
 韭	kuq
 韰	gheejh
@@ -20773,8 +20794,8 @@ sort: by_weight
 韹	ghwang
 韺	qyaeng
 韻	unh
-韽	qom
 韽	qeemh
+韽	qom
 韾	qim
 響	hyangq
 頀	ghoh
@@ -20899,8 +20920,8 @@ sort: by_weight
 顟	laew
 顠	biewq
 顠	phiewq
-顡	ngyjh
 顡	ngojq
+顡	ngyjh
 顢	man
 顣	tsuk
 顤	haew
@@ -20963,8 +20984,8 @@ sort: by_weight
 飛	puj
 飜	phuon
 食	jyh	2%
-食	zyh	3%
 食	zjyk
+食	zyh	3%
 飡	tshan
 飢	kyi
 飣	tengh
@@ -21044,9 +21065,9 @@ sort: by_weight
 餯	huojh
 餱	ghou
 餲	ghat
+餲	qaejh
 餲	qat
 餲	qyejh
-餲	qaejh
 餳	dang
 餳	ziaeng
 餴	pun
@@ -21070,8 +21091,8 @@ sort: by_weight
 饉	gyinh
 饊	sanq
 饋	guih
-饌	dzrwaenq
 饌	dzruenh
+饌	dzrwaenq
 饍	djienh
 饎	tjhyh
 饐	qyih
@@ -21113,8 +21134,8 @@ sort: by_weight
 馡	puj
 馣	qom
 馤	qajh
-馥	byik
 馥	buk
+馥	byik
 馦	hem
 馧	qot
 馧	qun
@@ -21122,8 +21143,8 @@ sort: by_weight
 馩	bun
 馬	maeq
 馭	ngyoh
-馮	bying	10%
 馮	bung
+馮	bying	10%
 馯	ghanh
 馯	khaen
 馰	tek
@@ -21135,10 +21156,10 @@ sort: by_weight
 馳	drie
 馴	zwin
 馵	tjuoh
-馶	tjie
 馶	gie
 馶	kieh
 馶	sjieh
+馶	tjie
 馹	njit
 馺	sop
 馻	jwienq
@@ -21151,20 +21172,20 @@ sort: by_weight
 駃	kwet
 駄	dah
 駉	kweng
-駊	phaq
 駊	paq
+駊	phaq
 駎	druh
 駏	gyoq
 駐	truoh
 駑	no
 駒	kuo
 駓	phyi
-駔	tsangq
 駔	dzoq
+駔	tsangq
 駕	kaeh
 駖	leng
-駗	tjinq
 駗	lin
+駗	tjinq
 駘	deoj
 駘	deojq
 駙	buoh
@@ -21172,8 +21193,8 @@ sort: by_weight
 駚	qyangq
 駛	sryh
 駛	sryq
-駜	byit
 駜	bit
+駜	byit
 駝	da
 駞	da
 駟	sih
@@ -21192,8 +21213,8 @@ sort: by_weight
 駬	njyq
 駭	gheejq
 駮	poeuk
-駰	qyin
 駰	qin
+駰	qyin
 駱	lak
 駴	gheejq
 駵	lu
@@ -21256,8 +21277,8 @@ sort: by_weight
 騬	zjyng
 騭	tjit
 騮	lu
-騯	bang
 騯	baeng
+騯	bang
 騯	paeng
 騰	deong
 騱	ghej
@@ -21309,8 +21330,8 @@ sort: by_weight
 驟	dzruh
 驠	qen
 驠	qenh
-驡	tsangq
 驡	luong
+驡	tsangq
 驢	lyo
 驤	syang
 驥	kyih
@@ -21342,8 +21363,8 @@ sort: by_weight
 骶	tejh
 骷	kho
 骸	gheej
-骹	khat
 骹	khaew
+骹	khat
 骺	ghou
 骻	khwaeq
 骼	kaek
@@ -21353,8 +21374,8 @@ sort: by_weight
 髀	bejq
 髀	pieq
 髀	piq
-髁	khwaeq
 髁	khwa
+髁	khwaeq
 髁	khwah
 髂	khaeh
 髃	ngouq
@@ -21373,8 +21394,8 @@ sort: by_weight
 髓	swieq
 體	thejq
 髕	binq
-髖	khwan
 髖	khon
+髖	khwan
 髗	lo
 高	kaw
 髙	kaw
@@ -21418,15 +21439,15 @@ sort: by_weight
 鬀	dejh
 鬀	thejh
 鬁	lih
-鬃	tsoung
-鬃	dzroeung
 鬃	dzong
+鬃	dzroeung
+鬃	tsoung
 鬄	siaek
 鬅	beong
-鬆	tshuong
-鬆	soungh
 鬆	song
+鬆	soungh
 鬆	suong
+鬆	tshuong
 鬇	dzraeng
 鬇	dzreeng
 鬈	guen
@@ -21474,8 +21495,8 @@ sort: by_weight
 鬩	hek
 鬬	touh
 鬭	touh
-鬮	ku
 鬮	kiwq
+鬮	ku
 鬯	trhyangh
 鬱	qut
 鬲	keek
@@ -21509,8 +21530,8 @@ sort: by_weight
 魑	trhie
 魔	ma
 魖	hyo
-魗	tjhuq
 魗	dju
+魗	tjhuq
 魘	qiemq
 魘	qiep
 魚	ngyo
@@ -21563,9 +21584,9 @@ sort: by_weight
 鮇	mujh
 鮈	kuo
 鮊	baek
+鮋	dju
 鮋	dru
 鮋	ju
-鮋	dju
 鮍	phye
 鮎	nem
 鮏	seng
@@ -21576,8 +21597,8 @@ sort: by_weight
 鮚	gyit
 鮛	sjuk
 鮜	ghouh
-鮞	njy
 鮞	njuk
+鮞	njy
 鮟	qan
 鮠	ngoj
 鮡	dew
@@ -21587,14 +21608,14 @@ sort: by_weight
 鮤	liejh
 鮤	liet
 鮥	lak
-鮦	druq
-鮦	druongq
 鮦	doung
+鮦	druongq
+鮦	druq
 鮧	dej
 鮧	ji
+鮩	baengq
 鮩	bengq
 鮩	bit
-鮩	baengq
 鮪	uiq
 鮫	kaew
 鮬	boh
@@ -21629,8 +21650,8 @@ sort: by_weight
 鯊	srae
 鯔	tsry
 鯕	gy
-鯖	tsheng
 鯖	tjiaeng
+鯖	tsheng
 鯗	syangq
 鯛	tew
 鯜	tshiep
@@ -21647,8 +21668,8 @@ sort: by_weight
 鯨	gyaeng
 鯩	lwin
 鯪	lyng
-鯫	tshuo
 鯫	dzou
+鯫	tshuo
 鯬	lej
 鯬	li
 鯰	nem
@@ -21664,8 +21685,8 @@ sort: by_weight
 鯽	tsiaek
 鯽	tsyk
 鯾	pien
-鯿	pien
 鯿	paen
+鯿	pien
 鰀	ghwanq
 鰂	dzeok
 鰃	qoj
@@ -21678,8 +21699,8 @@ sort: by_weight
 鰉	ghwang
 鰊	lenh
 鰋	qyonq
-鰌	tshu
 鰌	dzu
+鰌	tshu
 鰍	tshu
 鰐	ngak
 鰑	jyang
@@ -21719,16 +21740,16 @@ sort: by_weight
 鰻	muonh
 鰼	zip
 鰾	biewq
-鰿	tsiaek
 鰿	dzreek
+鰿	tsiaek
 鱀	gyh
 鱀	gyih
 鱁	druk
 鱂	tsyang
 鱄	tjwien
 鱄	tjwienq
-鱅	juong
 鱅	djuong
+鱅	juong
 鱇	khang
 鱈	swiet
 鱉	piet
@@ -21736,8 +21757,8 @@ sort: by_weight
 鱊	kweet
 鱊	zjwit
 鱌	zyangq
-鱍	phat
 鱍	pat
+鱍	phat
 鱎	kyewq
 鱏	jim
 鱏	zim
@@ -21749,9 +21770,9 @@ sort: by_weight
 鱔	djienq
 鱕	puon
 鱖	guot
-鱖	kuot
 鱖	kuejh
 鱖	kui
+鱖	kuot
 鱗	lin
 鱘	zim
 鱚	hyq
@@ -21804,8 +21825,8 @@ sort: by_weight
 鳼	mun
 鳽	ken
 鳽	kheeng
-鳽	ngen
 鳽	ngeek
+鳽	ngen
 鳿	nguok
 鴀	pu
 鴀	puq
@@ -21831,15 +21852,15 @@ sort: by_weight
 鴚	ka
 鴛	qon
 鴛	quon
-鴜	tsie
 鴜	dzie
+鴜	tsie
 鴝	guo
 鴝	kou
 鴞	yew
 鴟	tjhi
 鴠	tanh
-鴢	qewq
 鴢	qaewq
+鴢	qewq
 鴣	ko
 鴤	tjung
 鴦	qang
@@ -21872,8 +21893,8 @@ sort: by_weight
 鵀	nrim
 鵁	kaew
 鵂	hu
-鵃	tjiew
 鵃	tewq
+鵃	tjiew
 鵃	traew
 鵄	tjhi
 鵅	kaek
@@ -21927,8 +21948,8 @@ sort: by_weight
 鵸	gye
 鵹	lie
 鵺	jiaeh
-鵻	tjwi
 鵻	swinq
+鵻	tjwi
 鵼	khoung
 鵽	trwaet
 鵽	trweet
@@ -21983,15 +22004,15 @@ sort: by_weight
 鶷	ghaet
 鶹	lu
 鶺	tsiaek
-鶻	ghweet	5%
 鶻	ghot
+鶻	ghweet	5%
 鶻	kot	5%
 鶼	kem
 鶾	ghan
-鶿	tsy
 鶿	dzy
-鷀	tsy
+鶿	tsy
 鷀	dzy
+鷀	tsy
 鷁	ngek
 鷂	jiew
 鷂	jiewh
@@ -22004,8 +22025,8 @@ sort: by_weight
 鷌	maeq
 鷏	den
 鷐	djin
-鷒	tjwien
 鷒	dwan
+鷒	tjwien
 鷓	tjiaeh
 鷔	ngaw
 鷔	ngawh
@@ -22052,8 +22073,8 @@ sort: by_weight
 鷴	gheen
 鷵	do
 鷶	meeq
-鷷	tswin
 鷷	dzwin
+鷷	tswin
 鷸	jwit
 鷹	qyng
 鷺	loh
@@ -22061,8 +22082,8 @@ sort: by_weight
 鷽	qoeuk
 鷾	qyh
 鷿	bek
-鸀	tjuok
 鸀	droeuk
+鸀	tjuok
 鸁	lwa
 鸂	khej
 鸃	ngye
@@ -22104,8 +22125,8 @@ sort: by_weight
 鹹	gheem
 鹺	dza
 鹻	keemq
-鹼	tshiem
 鹼	keemq
+鹼	tshiem
 鹽	jiem
 鹽	jiemh
 鹿	louk
@@ -22145,9 +22166,9 @@ sort: by_weight
 麞	tjyang
 麟	lin
 麠	kyaeng
-麡	tsej
 麡	dzej
 麡	dzreej
+麡	tsej
 麢	leng
 麤	tsho
 麥	meek
@@ -22209,12 +22230,12 @@ sort: by_weight
 黟	qi
 黠	gheet
 黢	tshwit
-黤	qomq
 黤	qaemq
+黤	qomq
 黥	gyaeng
-黦	qyot
 黦	quot
 黦	qut
+黦	qyot
 黧	lej
 黨	tangq
 黫	qeen
@@ -22225,14 +22246,14 @@ sort: by_weight
 黮	thomq
 黯	qeem	5%
 黯	qeemq
-黰	tjinq
 黰	qeen
+黰	tjinq
 黱	deojh
 黲	tshamq
 黲	tshomq
 黳	qej
-黴	myi
 黴	mojh
+黴	myi
 黵	tamq
 黶	qiemq
 黷	douk
@@ -22241,11 +22262,11 @@ sort: by_weight
 黺	punq
 黻	put
 黼	puoq
+黽	meengq
 黽	mienq
 黽	minq
-黽	meengq
-黿	ngwan
 黿	nguon
+黿	ngwan
 鼀	tshuk
 鼁	khyoh
 鼂	driew
@@ -22262,15 +22283,15 @@ sort: by_weight
 鼏	mek
 鼐	neojh
 鼐	neojq
-鼒	tsy
 鼒	dzeoj
+鼒	tsy
 鼓	koq
 鼔	koq
 鼕	dong
 鼖	bun
 鼗	daw
-鼘	qyin
 鼘	qwen
+鼘	qyin
 鼙	bej
 鼚	trhyang
 鼛	kaw
@@ -22313,29 +22334,29 @@ sort: by_weight
 鼿	hoj
 鼿	ngot
 齁	hou
-齂	hyih
 齂	heejh
+齂	hyih
 齂	meet
 齃	qat
 齄	tsrae
 齅	huh
 齇	tsrae
 齈	noungh
-齊	tsreej	0%
 齊	dzej
 齊	dzejh	2%
+齊	tsreej	0%
 齋	tsreej
+齌	dzejh
 齌	tsej
 齌	tshej
-齌	dzejh
 齍	tsi
 齎	tsej
 齎	tsi
 齏	tsej
 齒	tjhyq
 齔	tsrhyinh
-齕	ghet
 齕	gheot
+齕	ghet
 齖	ngae
 齖	ngaeh
 齗	ngyinq
@@ -22344,8 +22365,8 @@ sort: by_weight
 齙	baew
 齚	dzraek
 齛	siet
-齜	tsrye
 齜	dzree
+齜	tsrye
 齝	sjy
 齝	trhy
 齞	ngenq
@@ -22354,8 +22375,8 @@ sort: by_weight
 齡	leng
 齣	tjhwit
 齤	guen
-齦	kheonq
 齦	kheenq
+齦	kheonq
 齦	ngyn
 齧	nget
 齨	guq
@@ -22363,11 +22384,11 @@ sort: by_weight
 齪	tsrhoeuk
 齫	khonq
 齫	ngunq
+齬	ngo
 齬	ngyo
 齬	ngyoq
-齬	ngo
-齭	tsrhyoq
 齭	sryoq
+齭	tsrhyoq
 齮	ngyeq
 齯	ngej
 齰	dzraeh
@@ -22389,8 +22410,8 @@ sort: by_weight
 齻	ten
 齼	tsrhyoq
 齽	gyimh
-齾	ngat
 齾	ngaet
+齾	ngat
 龍	luong
 龏	kuongh
 龏	qoeuk
@@ -22454,8 +22475,8 @@ sort: by_weight
 𠇗	khwae
 𠇱	mat
 𠈇	suk
-𠈈	tshieq
 𠈈	sieq
+𠈈	tshieq
 𠈋	njung
 𠈱	sa
 𠈵	moeung
@@ -22473,8 +22494,8 @@ sort: by_weight
 𠊯	souq
 𠊰	kwaeq
 𠊷	drih
-𠊾	gwih
 𠊾	gui
+𠊾	gwih
 𠋢	souq
 𠋧	khya
 𠋩	puk
@@ -22541,9 +22562,9 @@ sort: by_weight
 𠖶	tshimh
 𠖷	kwengq
 𠗂	ghak
-𠗉	tsep
-𠗉	ghep
 𠗉	ghaep
+𠗉	ghep
+𠗉	tsep
 𠗨	dep
 𠗨	draep
 𠗲	lyng
@@ -22564,8 +22585,8 @@ sort: by_weight
 𠛐	tjiejh
 𠛑	ghen
 𠛮	tshwien
-𠛱	tsat
 𠛱	liet
+𠛱	tsat
 𠛺	phuoq
 𠜂	sraen
 𠜓	thek
@@ -22588,8 +22609,8 @@ sort: by_weight
 𠞉	lit
 𠞊	tsrhae
 𠞊	tsrhee
-𠞩	tsrhyit
 𠞩	sruit
+𠞩	tsrhyit
 𠞭	lou
 𠞭	louh
 𠞮	tsrhyangq
@@ -22601,8 +22622,8 @@ sort: by_weight
 𠟌	phuoq
 𠟍	tjhuong
 𠟎	ngak
-𠟪	tshiep
 𠟪	ngyop
+𠟪	tshiep
 𠟭	tseok
 𠟯	tsiewq
 𠟴	tsrhyq
@@ -22663,14 +22684,14 @@ sort: by_weight
 𠦃	sop
 𠦄	sop
 𠦎	thaw
-𠦒	pit
 𠦒	pan
+𠦒	pit
 𠦪	hut
 𠦫	dzip
 𠦬	kweej
-𠧙	tjiewh
 𠧙	djiew
 𠧙	djiewh
+𠧙	tjiewh
 𠧚	tjhiaek
 𠧞	driewq
 𠧧	sej
@@ -22706,15 +22727,15 @@ sort: by_weight
 𠫓	thot
 𠬈	pieq
 𠬛	mot
-𠬝	tset
 𠬝	nrienq
+𠬝	tset
 𠬢	thaw
 𠬨	tset
 𠬪	byewq
 𠭇	mouq
 𠭖	kamq
-𠭥	tjwiejh
 𠭥	swih
+𠭥	tjwiejh
 𠭰	ly
 𠭴	tjwiet
 𠭴	tsruit
@@ -22748,8 +22769,8 @@ sort: by_weight
 𠴦	tjuoh
 𠴨	kwaen
 𠴪	sruet
-𠴫	tsuk
 𠴫	dzek
+𠴫	tsuk
 𠴱	gho
 𠴺	qee
 𠵭	qyet
@@ -22906,11 +22927,12 @@ sort: by_weight
 𡗷	ko
 𡗹	phuonh
 𡗻	put
-𡘌	tshieq
 𡘌	heejh
+𡘌	tshieq
 𡘐	hejh
 𡘐	het
 𡘴	pet
+𡘷	thawh
 𡘷	thawq
 𡘸	kenq
 𡙁	sryangq
@@ -22968,9 +22990,9 @@ sort: by_weight
 𡡗	lwienq
 𡢑	trwit
 𡢕	hueq
-𡢖	khejh
 𡢖	kheeh
 𡢖	kheeq
+𡢖	khejh
 𡣊	ghomq
 𡣔	ghomq
 𡣪	sjiaek
@@ -23048,13 +23070,13 @@ sort: by_weight
 𡰝	trwien
 𡰟	lwah
 𡰟	lwie
-𡰠	lween
 𡰠	lwah
+𡰠	lween
 𡰠	lwie
 𡰢	ghwej
 𡰥	ji
-𡰪	touk
 𡰪	tok
+𡰪	touk
 𡰾	tshi
 𡱂	denh
 𡱂	don
@@ -23136,8 +23158,8 @@ sort: by_weight
 𡾰	gyenq
 𡾰	kyenq
 𡿔	lwi
-𡿖	nget
 𡿖	ngaet
+𡿖	nget
 𡿦	khon
 𡿧	tseoj
 𡿨	kwenq
@@ -23168,8 +23190,8 @@ sort: by_weight
 𢂤	bojh
 𢂤	lot
 𢂥	liejh
-𢂷	kop
 𢂷	keep
+𢂷	kop
 𢂹	maewh
 𢂺	tshenh
 𢂻	njinh
@@ -23179,8 +23201,8 @@ sort: by_weight
 𢃍	pie
 𢃏	dzong
 𢃐	khoung
-𢃒	tswajh
 𢃒	tsojh
+𢃒	tswajh
 𢃓	tjuongq
 𢃔	tjhiem
 𢃕	thop
@@ -23189,8 +23211,8 @@ sort: by_weight
 𢃛	gy
 𢃤	hweok
 𢃬	tsen
-𢃭	tjuongq
 𢃭	kon
+𢃭	tjuongq
 𢃮	mienq
 𢃳	djiew
 𢃴	lat
@@ -23202,13 +23224,13 @@ sort: by_weight
 𢄐	moungh
 𢄓	qoq
 𢄔	tajh
-𢄢	tjih
 𢄢	sjwiejh
+𢄢	tjih
 𢄳	khwaeq
 𢄴	naq
 𢄶	hweek
-𢄺	tsiewq
 𢄺	lewq
+𢄺	tsiewq
 𢄻	sanq
 𢄼	suo
 𢅉	maewh
@@ -23226,8 +23248,8 @@ sort: by_weight
 𢆃	nanh
 𢆉	njimq
 𢆞	kenq
-𢆶	qu
 𢆶	qiw
+𢆶	qu
 𢆷	qew
 𢆸	peeng
 𢇇	kwaen
@@ -23285,8 +23307,8 @@ sort: by_weight
 𢏗	ngejh
 𢏤	swinh
 𢐀	byit
-𢐂	tryh
 𢐂	djieh
+𢐂	tryh
 𢐄	jwienh
 𢐲	buon
 𢐸	lo
@@ -23322,8 +23344,8 @@ sort: by_weight
 𢕕	somq
 𢕘	tshoj
 𢕚	tryk
-𢕬	tsrhyip
 𢕬	sop
+𢕬	tsrhyip
 𢕮	traeh
 𢕶	qu
 𢖊	pheng
@@ -23336,8 +23358,8 @@ sort: by_weight
 𢖶	khuongq
 𢖺	jyk
 𢗊	heejh
-𢗋	gwiaeng
 𢗋	djwin
+𢗋	gwiaeng
 𢗒	boeungq
 𢗿	mat
 𢘁	siem
@@ -23366,8 +23388,8 @@ sort: by_weight
 𢛓	leen
 𢛢	gheong
 𢛳	teok
-𢜩	khyem
 𢜩	kheemq
+𢜩	khyem
 𢜫	siaengq
 𢜬	dak
 𢜭	gyaek
@@ -23375,8 +23397,8 @@ sort: by_weight
 𢜮	moq
 𢜮	muo
 𢜮	muoq
-𢜰	qyemh
 𢜰	qiemh
+𢜰	qyemh
 𢜳	tjhiejh
 𢜸	naw
 𢜽	gwi
@@ -23495,8 +23517,8 @@ sort: by_weight
 𢮛	djwienh
 𢮟	ghaet
 𢮨	djwienh
-𢯩	tsryk
 𢯩	dzyk
+𢯩	tsryk
 𢯮	ut
 𢯱	sru
 𢯴	kaewq
@@ -23536,8 +23558,8 @@ sort: by_weight
 𢶇	gwiaeng
 𢶉	pheek
 𢶋	thet
-𢶍	sap
 𢶍	dzap
+𢶍	sap
 𢶒	kwajh
 𢶜	quongq
 𢶡	khek
@@ -23590,8 +23612,8 @@ sort: by_weight
 𢽝	dzreem
 𢽣	kheem
 𢽤	kamq
-𢽱	qyop
 𢽱	qyep
+𢽱	qyop
 𢽳	sanq
 𢽴	touk
 𢽻	kaewq
@@ -23635,27 +23657,27 @@ sort: by_weight
 𣁗	thanh
 𣁟	ly
 𣁳	hwat
-𣁳	qweet
 𣁳	qwat
+𣁳	qweet
 𣁴	kheep
-𣂁	tshiew
 𣂁	thew
+𣂁	tshiew
 𣂆	baeng
 𣂆	phang
 𣂉	tek
 𣂞	laq
 𣂯	djiejh
 𣃈	tryak
-𣃍	tsrhuejh
 𣃍	tshwiejh
+𣃍	tsrhuejh
 𣃘	droeung
 𣃘	trhienq
 𣃘	tryng
 𣃦	mut
 𣃧	qyomq
 𣃰	qyemq
-𣄉	qyemq
 𣄉	qiep
+𣄉	qyemq
 𣄝	ngyemh
 𣄠	piew
 𣄧	jwi
@@ -23688,8 +23710,8 @@ sort: by_weight
 𣌍	nriep
 𣌏	teok
 𣌾	jinh
-𣍆	tjhy
 𣍆	neng
+𣍆	tjhy
 𣍘	dzaw
 𣍦	huangh
 𣎛	kwit
@@ -23698,8 +23720,8 @@ sort: by_weight
 𣎲	thangq
 𣎳	pheeh
 𣎴	ngat
-𣎵	phinh
 𣎵	pheeh
+𣎵	phinh
 𣎼	pawq
 𣏔	khonh
 𣏕	pheeh
@@ -23828,9 +23850,9 @@ sort: by_weight
 𣢑	hy
 𣢗	haep
 𣢘	sjin
-𣢜	quk
 𣢜	qiw
 𣢜	qiwq
+𣢜	quk
 𣢝	hiaengh
 𣢠	bit
 𣢩	hyop
@@ -23858,9 +23880,9 @@ sort: by_weight
 𣤦	jiewh
 𣤴	hye
 𣤵	qiaengq
-𣤶	tsuk
-𣤶	tsop
 𣤶	dzuk
+𣤶	tsop
+𣤶	tsuk
 𣥂	that
 𣥦	keon
 𣥹	tjhuk
@@ -23887,8 +23909,8 @@ sort: by_weight
 𣨶	huojh
 𣩄	khop
 𣩅	khawq
-𣩈	tsiae
 𣩈	dza
+𣩈	tsiae
 𣩎	mak
 𣩒	tsaw
 𣩟	deongh
@@ -24011,8 +24033,8 @@ sort: by_weight
 𤁸	lewq
 𤁹	hweek
 𤂥	draek
-𤂳	tshwiejh
 𤂳	swienh
+𤂳	tshwiejh
 𤂿	swienh
 𤃀	lejh
 𤃨	lomh
@@ -24024,8 +24046,8 @@ sort: by_weight
 𤃴	hwat
 𤃶	theong
 𤃶	theongh
-𤃷	qyimq
 𤃷	qomq
+𤃷	qyimq
 𤄎	hek
 𤄒	keenq
 𤄕	jyo
@@ -24063,8 +24085,8 @@ sort: by_weight
 𤎟	qen
 𤎡	ghamh
 𤎢	dziem
-𤎥	tjhiem
 𤎥	thamq
+𤎥	tjhiem
 𤎩	zwih
 𤎭	limq
 𤎱	tswie
@@ -24137,8 +24159,8 @@ sort: by_weight
 𤚼	kouh
 𤛊	lop
 𤛋	dang
-𤛎	myiq
 𤛎	myinq
+𤛎	myiq
 𤛐	khuoh
 𤛑	juong
 𤛹	ngok
@@ -24158,8 +24180,8 @@ sort: by_weight
 𤜤	traek
 𤜯	tsrheep
 𤜵	keenh
-𤜵	ngenh
 𤜵	ngaenh
+𤜵	ngenh
 𤜹	juo
 𤜼	dzrwen
 𤜾	kyaek
@@ -24338,8 +24360,8 @@ sort: by_weight
 𤷂	buj
 𤷃	dzienq
 𤷄	guen
-𤷇	hweek
 𤷇	huik
+𤷇	hweek
 𤷈	nat
 𤷈	nreet
 𤷌	kinq
@@ -24400,8 +24422,8 @@ sort: by_weight
 𤾬	moungq
 𤾸	ueq
 𤿊	kanq
-𤿎	phye
 𤿎	phie
+𤿎	phye
 𤿕	minq
 𤿙	byeh
 𤿙	tsryeh
@@ -24434,8 +24456,8 @@ sort: by_weight
 𥁼	tji
 𥂇	louk
 𥂈	po
-𥂓	mae
 𥂓	ma
+𥂓	mae
 𥂔	kaewq
 𥂖	louk
 𥂥	dzan
@@ -24451,9 +24473,9 @@ sort: by_weight
 𥃺	qaewq
 𥄃	myit
 𥄉	kew
-𥄎	tshwiaek
 𥄎	huik
 𥄎	muot
+𥄎	tshwiaek
 𥄔	pajh
 𥄔	phajh
 𥄗	qwat
@@ -24469,8 +24491,8 @@ sort: by_weight
 𥆗	guen
 𥆗	kwanh
 𥆙	moeung
-𥆛	hwiaek
 𥆛	hwek
+𥆛	hwiaek
 𥆝	sa
 𥇅	meenq
 𥇉	khyangh
@@ -24488,8 +24510,8 @@ sort: by_weight
 𥈈	huo
 𥈉	hwanh
 𥈌	trhu
-𥈔	qenq
 𥈔	qeet
+𥈔	qenq
 𥈙	lat
 𥈜	hyk
 𥈸	huo
@@ -24513,9 +24535,9 @@ sort: by_weight
 𥉶	louk
 𥉸	khaeng
 𥉺	tet
+𥉻	trhiejh
 𥉻	tshejh
 𥉻	tsrheet
-𥉻	trhiejh
 𥉽	khang
 𥊕	thek
 𥊬	tsryip
@@ -24581,8 +24603,8 @@ sort: by_weight
 𥏪	kheejq
 𥏬	dang
 𥏳	zryq
-𥏻	tshyang
 𥏻	sjyang
+𥏻	tshyang
 𥐁	bouk
 𥐙	pheet
 𥐝	tek
@@ -24779,8 +24801,8 @@ sort: by_weight
 𥰢	sjienh
 𥰣	lu
 𥰨	dam
-𥰭	tsraeq
 𥰭	dza
+𥰭	tsraeq
 𥰮	kaq
 𥰳	senh
 𥰶	ghaet
@@ -24890,8 +24912,8 @@ sort: by_weight
 𥽘	mat
 𥽬	nryangh
 𥽭	lanq
-𥽽	tsrhweenq
 𥽽	sreenq
+𥽽	tsrhweenq
 𥾍	kanq
 𥾛	tshot
 𥾝	met
@@ -24912,8 +24934,8 @@ sort: by_weight
 𦀉	twaq
 𦀒	huo
 𦀒	huoq
-𦀖	kyop
 𦀖	kyep
+𦀖	kyop
 𦀖	qyep
 𦀘	pej
 𦀘	phi
@@ -24949,9 +24971,9 @@ sort: by_weight
 𦄐	khunq
 𦄑	swiejh
 𦄒	penq
-𦄼	suq
-𦄼	suoq
 𦄼	suongq
+𦄼	suoq
+𦄼	suq
 𦄽	gyo
 𦅀	zim
 𦅇	sang
@@ -25011,14 +25033,14 @@ sort: by_weight
 𦍶	juq
 𦍹	jyang
 𦍻	doung
+𦎣	qeen
 𦎣	qej
 𦎣	qin
-𦎣	qeen
 𦎦	muoh
 𦎧	djwin
 𦎷	tsinh
-𦎸	tsieh
 𦎸	dzieh
+𦎸	tsieh
 𦎹	lou
 𦏆	doung
 𦏇	juq
@@ -25148,10 +25170,10 @@ sort: by_weight
 𦝚	jiaeng
 𦝜	ghejh
 𦝠	lwaq
-𦝢	gwi
 𦝢	gui
-𦝨	kheeq
+𦝢	gwi
 𦝨	keej
+𦝨	kheeq
 𦝭	lwih
 𦝮	munq
 𦝲	qyejh
@@ -25173,8 +25195,8 @@ sort: by_weight
 𦠁	tshuok
 𦠄	gyj
 𦠅	zim
-𦠆	sonq
 𦠆	dzruenh
+𦠆	sonq
 𦠌	njy
 𦠎	phiew
 𦠎	piew
@@ -25209,8 +25231,8 @@ sort: by_weight
 𦤶	trih
 𦤻	trit
 𦤼	qouk
-𦥊	trhyh
 𦥊	trhih
+𦥊	trhyh
 𦥐	drih
 𦥑	kuk
 𦥑	kuok
@@ -25269,8 +25291,8 @@ sort: by_weight
 𦫙	baeh
 𦫬	hej
 𦫰	mung
-𦫳	kweej
 𦫳	kwaeq
+𦫳	kweej
 𦫳	kweeq
 𦫵	sjyng
 𦫶	ku
@@ -25358,8 +25380,8 @@ sort: by_weight
 𦵐	net
 𦵡	khung
 𦵧	lang
-𦵩	tsaw
 𦵩	dzu
+𦵩	tsaw
 𦵫	sak
 𦵯	ghaet
 𦵱	set
@@ -25495,8 +25517,8 @@ sort: by_weight
 𧃡	tsawq
 𧄍	giew
 𧄓	toungq
-𧄔	tjyo
 𧄔	djyo
+𧄔	tjyo
 𧄕	tjyk
 𧄗	tsryo
 𧄶	lwan
@@ -25755,8 +25777,8 @@ sort: by_weight
 𧡨	dejh
 𧡩	ghwanq
 𧡩	huonq
-𧡪	tjhim
 𧡪	domq
+𧡪	tjhim
 𧡪	tom
 𧡬	trhimh
 𧡷	jiewh
@@ -25767,13 +25789,13 @@ sort: by_weight
 𧢘	phinh
 𧢜	buon
 𧢞	kheen
-𧢢	jyak
 𧢢	jiewh
+𧢢	jyak
 𧢦	gui
 𧢦	khuj
 𧢮	lejh
-𧢸	tjuong
 𧢸	koeung
+𧢸	tjuong
 𧢺	nroeuk
 𧣃	phae
 𧣒	gyoq
@@ -25806,13 +25828,14 @@ sort: by_weight
 𧦪	byenq
 𧦭	thwa
 𧦮	nrae
+𧧏	njah
 𧧒	tshieh
 𧧗	huong
+𧧢	huangq
 𧧢	hwang
 𧧢	hwangq
-𧧢	huangq
-𧧮	hwang
 𧧮	huangq
+𧧮	hwang
 𧧷	kuh
 𧧸	pyet
 𧧺	phi
@@ -26028,11 +26051,11 @@ sort: by_weight
 𧾒	tshi
 𧾚	jyo
 𧾛	gweek
-𧾢	kit
 𧾢	dzet
-𧾣	hwienq
-𧾣	hwenh
+𧾢	kit
 𧾣	huojh
+𧾣	hwenh
+𧾣	hwienq
 𧾣	kwit
 𧾨	hyonh
 𧾩	zwienh
@@ -26063,8 +26086,8 @@ sort: by_weight
 𨁸	lot
 𨁹	jiemq
 𨁽	teok
-𨂁	qop
 𨂁	qeep
+𨂁	qop
 𨂝	baem
 𨂢	tsyk
 𨂣	muoh
@@ -26115,13 +26138,13 @@ sort: by_weight
 𨋚	nrienq
 𨋩	buk
 𨋪	hoeung
-𨋬	tjyngq
 𨋬	djyng
+𨋬	tjyngq
 𨋱	thoj
 𨌄	dzangh
-𨌅	tshi
 𨌅	dzi
 𨌅	dzree
+𨌅	tshi
 𨌈	den
 𨌗	khuih
 𨌠	louk
@@ -26168,8 +26191,8 @@ sort: by_weight
 𨐖	sat
 𨐨	piaek
 𨐶	hweek
-𨑊	nruong
 𨑊	noungq
+𨑊	nruong
 𨑋	nong
 𨑒	do
 𨑤	khieh
@@ -26216,8 +26239,8 @@ sort: by_weight
 𨙶	pajh
 𨙷	tsiaengq
 𨙸	gie
-𨙹	tsiewq
 𨙹	sjiewq
+𨙹	tsiewq
 𨙺	nruq
 𨙻	naq
 𨙽	gyim
@@ -26284,9 +26307,9 @@ sort: by_weight
 𨞚	maeng
 𨞛	kat
 𨞜	kuo
-𨞪	dru
 𨞪	dju
 𨞪	djuq
+𨞪	dru
 𨞯	mung
 𨞼	muonh
 𨞾	hyng
@@ -26297,8 +26320,8 @@ sort: by_weight
 𨟙	qiaeng
 𨟙	qiaengq
 𨟚	njyang
-𨟠	khyak
 𨟠	khuen
+𨟠	khyak
 𨟻	tsyangh
 𨟼	kangq
 𨠒	phuonh
@@ -26308,8 +26331,8 @@ sort: by_weight
 𨡌	noj
 𨡩	phat
 𨡫	ghonq
-𨡭	mu
 𨡭	mo
+𨡭	mu
 𨡰	tsyangh
 𨢊	moung
 𨢌	lek
@@ -26335,8 +26358,8 @@ sort: by_weight
 𨥂	kyet
 𨥥	kwaengq
 𨥦	dzej
-𨥳	tsej
 𨥳	dzej
+𨥳	tsej
 𨦂	leojq
 𨦃	twaq
 𨦄	khyem
@@ -26353,9 +26376,9 @@ sort: by_weight
 𨫖	thangh
 𨬐	guot
 𨬕	ko
-𨬖	tsryin
 𨬖	dzreen
 𨬖	dzryen
+𨬖	tsryin
 𨬟	ko
 𨭖	tjienq
 𨮒	meongh
@@ -26407,8 +26430,8 @@ sort: by_weight
 𨷱	tjwienq
 𨷲	jyak
 𨷹	phun
-𨷺	ku
 𨷺	kiwq
+𨷺	ku
 𨷻	lan
 𨸏	buq
 𨸜	heoj
@@ -26480,20 +26503,20 @@ sort: by_weight
 𩁺	sreem
 𩂆	phuq
 𩂓	tong
-𩂢	ngyim
-𩂢	ngeej
 𩂢	ngee
+𩂢	ngeej
+𩂢	ngyim
 𩂣	lak
 𩂥	qinh
 𩂩	loj
 𩂹	jwiaek
 𩂻	trhiep
-𩃔	tsiem
 𩃔	sreem
+𩃔	tsiem
 𩃗	qyemq
 𩃙	kwaeng
-𩃢	tsiem
 𩃢	sreem
+𩃢	tsiem
 𩃵	njiemq
 𩃶	bat
 𩃾	hujq
@@ -26510,13 +26533,13 @@ sort: by_weight
 𩅦	qwaen
 𩅧	tjung
 𩅨	dzryim
+𩅼	liemh
 𩅼	tsiem
 𩅼	tsraemh
-𩅼	liemh
 𩅽	nong
 𩅿	phuak
-𩆂	tsi
 𩆂	dzi
+𩆂	tsi
 𩆈	leng
 𩆑	swan
 𩆚	leng
@@ -26529,8 +26552,8 @@ sort: by_weight
 𩇕	dziaengq
 𩇠	qop
 𩇪	bujh
-𩇯	byih
 𩇯	buj
+𩇯	byih
 𩈉	tomh
 𩈎	tsrhaewq
 𩈜	toj
@@ -26541,8 +26564,8 @@ sort: by_weight
 𩈵	lam
 𩈶	nraenq
 𩈹	menh
-𩈻	tsraemh
 𩈻	dzam
+𩈻	tsraemh
 𩉥	ghwenq
 𩉦	kweong
 𩉪	njuongh
@@ -26564,8 +26587,8 @@ sort: by_weight
 𩋄	tsrhuq
 𩋆	kheen
 𩋇	pet
-𩋊	qyop
 𩋊	qop
+𩋊	qyop
 𩋏	nep
 𩋟	buk
 𩋠	mienq
@@ -26608,8 +26631,8 @@ sort: by_weight
 𩍴	dzwan
 𩍿	bak
 𩎀	kyon
-𩎈	tswan
 𩎈	dzwan
+𩎈	tswan
 𩎉	sryeq
 𩎌	henh
 𩎑	tswan
@@ -26625,8 +26648,8 @@ sort: by_weight
 𩏑	ghan
 𩏚	zwih
 𩏠	traengh
-𩏩	hyom
 𩏩	hyemq
+𩏩	hyom
 𩏪	draek
 𩐅	sap
 𩐌	dojh
@@ -26643,8 +26666,8 @@ sort: by_weight
 𩑃	ngyop
 𩑐	tsrhee
 𩑒	dak
-𩑒	trhaek
 𩑒	traek
+𩑒	trhaek
 𩑔	khonq
 𩑔	khot
 𩑗	qew
@@ -26735,8 +26758,8 @@ sort: by_weight
 𩘑	qyaengq
 𩘚	ujq
 𩘡	lejh
-𩘹	suk
 𩘹	sruk
+𩘹	suk
 𩘽	traeng
 𩙅	jwit
 𩙒	phiew
@@ -26796,8 +26819,8 @@ sort: by_weight
 𩟂	kwah
 𩟃	leng
 𩟇	qawh
-𩟊	nroeung
 𩟊	nong
+𩟊	nroeung
 𩟓	qwak
 𩟗	tsiemq
 𩟦	dzet
@@ -26860,8 +26883,8 @@ sort: by_weight
 𩦡	jyo
 𩦡	jyoh
 𩦢	nguo
-𩦶	doung
 𩦶	dong
+𩦶	doung
 𩦺	moung
 𩧃	liejh
 𩧉	kwang
@@ -26911,8 +26934,8 @@ sort: by_weight
 𩭿	njaet
 𩮀	tsoung
 𩮀	tsoungq
-𩮁	kheet
 𩮁	kaet
+𩮁	kheet
 𩮂	haet
 𩮜	sjiaek
 𩮜	thek
@@ -26962,8 +26985,8 @@ sort: by_weight
 𩱱	juk
 𩱲	jyak
 𩱴	hyew
-𩱷	met
 𩱷	mat
+𩱷	met
 𩲄	qojh
 𩲏	hwaeh
 𩳍	qengq
@@ -27016,8 +27039,8 @@ sort: by_weight
 𩺱	nryk
 𩺵	sryin
 𩺽	boeuk
-𩻛	tsim
 𩻛	dzryim
+𩻛	tsim
 𩻜	lin
 𩻝	dzruenq
 𩻟	hue
@@ -27036,8 +27059,8 @@ sort: by_weight
 𩽜	kyenq
 𩽵	lejq
 𩾔	tshih
-𩾗	tsiew
 𩾗	tew
+𩾗	tsiew
 𩾘	ngyojh
 𩾜	lyk
 𩾞	ghwan
@@ -27090,8 +27113,8 @@ sort: by_weight
 𪂿	dejh
 𪃃	buk
 𪃄	seoj
-𪃈	ket
 𪃈	keet
+𪃈	ket
 𪃍	nguo
 𪃓	buq
 𪃦	miew
@@ -27142,8 +27165,8 @@ sort: by_weight
 𪇭	tshajh
 𪇰	bawh
 𪇰	poeuk
-𪇰	pouk
 𪇰	pok
+𪇰	pouk
 𪇱	lak
 𪇲	tsiet
 𪇴	met
@@ -27214,11 +27237,11 @@ sort: by_weight
 𪎮	hue
 𪎵	khangh
 𪎶	don
-𪎽	tjhung
 𪎽	thongh
+𪎽	tjhung
 𪏂	driem
-𪏆	thwan
 𪏆	thon
+𪏆	thwan
 𪏉	triem
 𪏓	ghwaeng
 𪏚	unq
@@ -27301,8 +27324,8 @@ sort: by_weight
 𪕯	ghek
 𪕯	ghet
 𪕱	gho
-𪕶	qiaek
 𪕶	qeek
+𪕶	qiaek
 𪕸	kouk
 𪕹	dang
 𪖂	lie
@@ -27333,22 +27356,22 @@ sort: by_weight
 𪗾	haet
 𪘁	ghop
 𪘁	thop
-𪘏	tsrhuk
 𪘏	tsrhoeuk
-𪘓	tsha
+𪘏	tsrhuk
 𪘓	dza
+𪘓	tsha
 𪘘	gheep
-𪘧	tsrhyit
 𪘧	dzot
+𪘧	tsrhyit
 𪘨	treej
 𪘩	ngunq
 𪘪	dzraenq
 𪘲	ngee
 𪙇	tshet
 𪙉	tsrhye
-𪙊	ngyomh
-𪙊	ngyem
 𪙊	ngeem
+𪙊	ngyem
+𪙊	ngyomh
 𪙌	tshet
 𪙍	pak
 𪙝	tshyang
@@ -27429,10 +27452,12 @@ sort: by_weight
 乾澀	kan=sryip
 乾燒	kan=sjiew
 乾燥	kan=sawq
+乾爸	kan=baq
 乾爹	kan=tiae
 乾爽	kan=sryangq
 乾癟	kan=phiet
 乾白	kan=baek
+乾硬	kan=ngeengh
 乾等	kan=teongq
 乾粉	kan=punq
 乾糧	kan=lyang
@@ -27489,6 +27514,7 @@ sort: by_weight
 保藏	pawq=dzang
 信函	sinh=gheem
 倉頡	tshang=ghet
+倍數	bojq=sruoh
 倒數	tawh=sruoh
 倒數	tawh=sruoq
 倒車	tawh=tjhiae
@@ -27526,8 +27552,8 @@ sort: by_weight
 冠軍	kwanh=kun
 冤句	quon=guo
 出使	tjhwit=sryh
-出差	tjhwit=tsrheej
 出差	tjhwit=tsrhee
+出差	tjhwit=tsrheej
 出發	tjhwit=puot
 函數	ghom=sruoh
 分别	pun=pyet
@@ -27612,6 +27638,7 @@ sort: by_weight
 因爲	qin=ueh
 固相	koh=syangh
 圈地	khuen=dih
+圈套	khuen=thawh
 圈子	khuen=tsyq
 圈養	guonq=jyangq
 圓圈	uen=khuen
@@ -27630,8 +27657,8 @@ sort: by_weight
 大汗	dajh=ghan
 大汗	dajh=ghanh
 大燕	dajh=qen
-大行	dajh=ghang
 大行	dajh=ghaeng
+大行	dajh=ghang
 大辟	dajh=biaek
 天台	then=theoj
 太守	thajh=sjuh
@@ -27739,6 +27766,7 @@ sort: by_weight
 所在	sryoq=dzeojh
 扁舟	phien=tju
 扁鵲	benq=tshyak
+打轉	taengq=trwienh
 技校	gyeq=ghaewh
 投行	dou=ghang
 投降	dou=ghoeung
@@ -28012,6 +28040,7 @@ sort: by_weight
 眞相	tjin=syangh
 着裝	tryak=tsryang
 睡覺	djwieh=kaewh
+祁山	gi=sreen
 票價	phiewh=kaeh
 票錢	phiewh=dzien
 秋請	tshu=dziaengh
@@ -28344,6 +28373,7 @@ sort: by_weight
 二人轉	njih=njin=trwienh
 代謝率	deojh=ziaeh=lwit
 函谷關	gheem=kouk=kwaen
+南北朝	nom=peok=driew
 吐谷渾	thoq=juok=ghon
 大汶口	dajh=munh=khouq
 將進酒	tshyang=tsinh=tsuq
@@ -28358,6 +28388,7 @@ sort: by_weight
 梅乾菜	moj=kan=tsheojh
 爲什麼	ueh=djip=ma
 白雲觀	baek=un=kwanh
+祁連山	gi=lien=sreen
 紅種人	ghoung=tjuongq=njin
 自乾五	dzih=kan=ngoq
 自行車	dzih=ghaeng=tjhiae
@@ -28369,6 +28400,7 @@ sort: by_weight
 青少年	tsheng=sjiewh=nen
 高句驪	kaw=kou=lie
 不亦說乎	put=jiaek=jwiet=gho
+六出祁山	luk=tjhwit=gi=sreen
 十年樹木	djip=nen=djuoq=mouk
 審時度勢	sjimq=djy=dak=sjiejh
 推心置腹	thoj=sim=tryh=puk
@@ -28436,7 +28468,7 @@ sort: by_weight
 一次	qit=tshih
 一氣	qit=khyjh
 一流	qit=lu
-一生	qit=sraeng
+一生	qit=sryaeng
 一甲	qit=kaep
 一直	qit=dryk
 一眼	qit=ngeenq
@@ -28947,7 +28979,7 @@ sort: by_weight
 互換	ghoh=ghwanh
 互文	ghoh=mun
 互斥	ghoh=tjhiaek
-互生	ghoh=sraeng
+互生	ghoh=sryaeng
 互異	ghoh=jyh
 互粉	ghoh=punq
 互素	ghoh=soh
@@ -29180,7 +29212,7 @@ sort: by_weight
 人物	njin=mut
 人犯	njin=buomq
 人猿	njin=uon
-人生	njin=sraeng
+人生	njin=sryaeng
 人禍	njin=ghwaq
 人精	njin=tsiaeng
 人緣	njin=jwien
@@ -29239,7 +29271,7 @@ sort: by_weight
 今村	kyim=tshon
 今次	kyim=tshih
 今歲	kyim=swiejh
-今生	kyim=sraeng
+今生	kyim=sryaeng
 今譯	kyim=jiaek
 今音	kyim=qyim
 介乎	keejh=gho
@@ -29582,7 +29614,7 @@ sort: by_weight
 來潮	leoj=driew
 來火	leoj=hwaq
 來犯	leoj=buomq
-來生	leoj=sraeng
+來生	leoj=sryaeng
 來由	leoj=ju
 來神	leoj=zjin
 來義	leoj=ngyeh
@@ -30009,7 +30041,7 @@ sort: by_weight
 催情	tshoj=dziaeng
 催淚	tshoj=lwih
 催熟	tshoj=djuk
-催生	tshoj=sraeng
+催生	tshoj=sryaeng
 催眠	tshoj=men
 催肥	tshoj=buj
 催膘	tshoj=phiewq
@@ -30119,7 +30151,7 @@ sort: by_weight
 優柔	qu=nju
 優步	qu=boh
 優渥	qu=qoeuk
-優生	qu=sraeng
+優生	qu=sryaeng
 優異	qu=jyh
 優盤	qu=ban
 優秀	qu=suh
@@ -30532,7 +30564,7 @@ sort: by_weight
 共同	guongh=doung
 共商	guongh=sjyang
 共存	guongh=dzon
-共生	guongh=sraeng
+共生	guongh=sryaeng
 共用	guongh=juongh
 共管	guongh=kwanq
 共謀	guongh=mu
@@ -30598,7 +30630,7 @@ sort: by_weight
 再版	tseojh=paenq
 再犯	tseojh=buomq
 再現	tseojh=ghenh
-再生	tseojh=sraeng
+再生	tseojh=sryaeng
 再發	tseojh=puot
 再者	tseojh=tjiaeq
 再育	tseojh=juk
@@ -30851,7 +30883,7 @@ sort: by_weight
 初步	tsrhyo=boh
 初潮	tsrhyo=driew
 初犯	tsrhyo=buomq
-初生	tsrhyo=sraeng
+初生	tsrhyo=sryaeng
 初秋	tsrhyo=tshu
 初等	tsrhyo=teongq
 初級	tsrhyo=kyip
@@ -33671,7 +33703,7 @@ sort: by_weight
 外海	ngwajh=heojq
 外源	ngwajh=nguon
 外牆	ngwajh=dzyang
-外甥	ngwajh=sraeng
+外甥	ngwajh=sryaeng
 外用	ngwajh=juongh
 外界	ngwajh=keejh
 外皮	ngwajh=bye
@@ -33859,7 +33891,7 @@ sort: by_weight
 天理	then=lyq
 天璇	then=zwien
 天璣	then=kyj
-天生	then=sraeng
+天生	then=sryaeng
 天界	then=keejh
 天癸	then=kwiq
 天皇	then=ghwang
@@ -34571,7 +34603,7 @@ sort: by_weight
 安然	qan=njien
 安營	qan=jwiaeng
 安瓶	qan=beng
-安生	qan=sraeng
+安生	qan=sryaeng
 安眠	qan=men
 安神	qan=zjin
 安祥	qan=zyang
@@ -34852,7 +34884,7 @@ sort: by_weight
 寄存	kyeh=dzon
 寄懷	kyeh=ghweej
 寄母	kyeh=mouq
-寄生	kyeh=sraeng
+寄生	kyeh=sryaeng
 寄發	kyeh=puot
 寄籍	kyeh=dziaek
 寄託	kyeh=thak
@@ -35054,7 +35086,7 @@ sort: by_weight
 寫手	siaeq=sjuq
 寫法	siaeq=puop
 寫照	siaeq=tjiewh
-寫生	siaeq=sraeng
+寫生	siaeq=sryaeng
 寬亮	khwan=lyangh
 寬免	khwan=myenq
 寬口	khwan=khouq
@@ -35486,7 +35518,7 @@ sort: by_weight
 尾流	mujq=lu
 尾燈	mujq=teong
 尾牙	mujq=ngae
-尾生	mujq=sraeng
+尾生	mujq=sryaeng
 尾礦	mujq=kwaengq
 尾翼	mujq=jyk
 尾聲	mujq=sjiaeng
@@ -35942,7 +35974,7 @@ sort: by_weight
 師尊	sryi=tson
 師徒	sryi=do
 師母	sryi=mouq
-師生	sryi=sraeng
+師生	sryi=sryaeng
 師範	sryi=buomq
 師表	sryi=pyewq
 師資	sryi=tsi
@@ -36621,7 +36653,7 @@ sort: by_weight
 往昔	uangq=siaek
 往時	uangq=djy
 往歲	uangq=swiejh
-往生	uangq=sraeng
+往生	uangq=sryaeng
 往程	uangq=driaeng
 往跡	uangq=tsiaek
 往返	uangq=puonq
@@ -37808,7 +37840,7 @@ sort: by_weight
 所指	sryoq=tjiq
 所有	sryoq=uq
 所為	sryoq=ue
-所生	sryoq=sraeng
+所生	sryoq=sryaeng
 所知	sryoq=trie
 所致	sryoq=trih
 所謂	sryoq=ujh
@@ -38401,7 +38433,7 @@ sort: by_weight
 捐款	jwien=khwanq
 捐物	jwien=mut
 捐班	jwien=paen
-捐生	jwien=sraeng
+捐生	jwien=sryaeng
 捐稅	jwien=sjwiejh
 捐給	jwien=kyip
 捐血	jwien=hwet
@@ -38502,7 +38534,7 @@ sort: by_weight
 排演	beej=jienq
 排版	beej=paenq
 排球	beej=gu
-排笙	beej=sraeng
+排笙	beej=sryaeng
 排簫	beej=sew
 排練	beej=lenh
 排翅	beej=sjieh
@@ -39094,7 +39126,7 @@ sort: by_weight
 救星	kuh=seng
 救火	kuh=hwaq
 救災	kuh=tseoj
-救生	kuh=sraeng
+救生	kuh=sryaeng
 救護	kuh=ghoh
 救贖	kuh=zjuok
 敖廣	ngaw=kwangq
@@ -39349,7 +39381,7 @@ sort: by_weight
 新潮	sin=driew
 新營	sin=jwiaeng
 新版	sin=paenq
-新生	sin=sraeng
+新生	sin=sryaeng
 新田	sin=den
 新界	sin=keejh
 新異	sin=jyh
@@ -39760,7 +39792,7 @@ sort: by_weight
 晚景	muonq=kyaengq
 晚期	muonq=gy
 晚清	muonq=tshiaeng
-晚生	muonq=sraeng
+晚生	muonq=sryaeng
 晚育	muonq=juk
 晚輩	muonq=pojh
 晚間	muonq=keenh
@@ -39983,7 +40015,7 @@ sort: by_weight
 書櫃	sjyo=guih
 書法	sjyo=puop
 書牘	sjyo=douk
-書生	sjyo=sraeng
+書生	sjyo=sryaeng
 書皮	sjyo=bye
 書目	sjyo=muk
 書眉	sjyo=myi
@@ -41536,7 +41568,7 @@ sort: by_weight
 死水	siq=sjwiq
 死海	siq=heojq
 死球	siq=gu
-死生	siq=sraeng
+死生	siq=sryaeng
 死硬	siq=ngeengh
 死神	siq=zjin
 死穴	siq=ghwet
@@ -41615,7 +41647,7 @@ sort: by_weight
 殺敵	sreet=dek
 殺死	sreet=siq
 殺滅	sreet=miet
-殺生	sreet=sraeng
+殺生	sreet=sryaeng
 殺絕	sreet=dzwiet
 殺菌	sreet=guinq
 殺頭	sreet=dou
@@ -41724,7 +41756,7 @@ sort: by_weight
 民歌	min=ka
 民法	min=puop
 民營	min=jwiaeng
-民生	min=sraeng
+民生	min=sryaeng
 民用	min=juongh
 民科	min=khwa
 民航	min=ghang
@@ -41800,7 +41832,7 @@ sort: by_weight
 水玉	sjwiq=nguok
 水珠	sjwiq=tjuo
 水球	sjwiq=gu
-水生	sjwiq=sraeng
+水生	sjwiq=sryaeng
 水田	sjwiq=den
 水療	sjwiq=liewh
 水盂	sjwiq=uo
@@ -41899,7 +41931,7 @@ sort: by_weight
 求救	gu=kuh
 求是	gu=djieq
 求歡	gu=hwan
-求生	gu=sraeng
+求生	gu=sryaeng
 求知	gu=trie
 求職	gu=tjyk
 求證	gu=tjyngh
@@ -42340,7 +42372,7 @@ sort: by_weight
 派勢	pheeh=sjiejh
 派對	pheeh=tojh
 派性	pheeh=siaengh
-派生	pheeh=sraeng
+派生	pheeh=sryaeng
 派系	pheeh=ghejh
 派購	pheeh=kouh
 派送	pheeh=soungh
@@ -43018,7 +43050,7 @@ sort: by_weight
 滋味	tsy=mujh
 滋擾	tsy=njiewq
 滋潤	tsy=njwinh
-滋生	tsy=sraeng
+滋生	tsy=sryaeng
 滋芽	tsy=ngae
 滋補	tsy=poq
 滋賀	tsy=ghah
@@ -43845,7 +43877,7 @@ sort: by_weight
 營救	jwiaeng=kuh
 營業	jwiaeng=ngyop
 營求	jwiaeng=gu
-營生	jwiaeng=sraeng
+營生	jwiaeng=sryaeng
 營盤	jwiaeng=ban
 營私	jwiaeng=si
 營謀	jwiaeng=mu
@@ -44056,9 +44088,9 @@ sort: by_weight
 物資	mut=tsi
 物鏡	mut=kyaengh
 物體	mut=thejq
-牲口	sraeng=khouq
-牲禮	sraeng=lejq
-牲體	sraeng=thejq
+牲口	sryaeng=khouq
+牲禮	sryaeng=lejq
+牲體	sryaeng=thejq
 牴觸	tejq=tjhuok
 牸牛	dzyh=ngu
 牸馬	dzyh=maeq
@@ -44118,7 +44150,7 @@ sort: by_weight
 犎牛	puong=ngu
 犒賞	khawh=sjyangq
 犢子	douk=tsyq
-犧牲	hye=sraeng
+犧牲	hye=sryaeng
 犪牛	gui=ngu
 犬儒	khwenq=njuo
 犬戎	khwenq=njung
@@ -44227,8 +44259,8 @@ sort: by_weight
 猢猻	gho=son
 猥瑣	qojq=swaq
 猥褻	qojq=siet
-猩猩	sraeng=sraeng
-猩紅	sraeng=ghoung
+猩猩	sryaeng=sryaeng
+猩紅	sryaeng=ghoung
 猳國	kae=kweok
 猴兒	ghou=njie
 猴子	ghou=tsyq
@@ -44273,7 +44305,7 @@ sort: by_weight
 獨步	douk=boh
 獨特	douk=deok
 獨獨	douk=douk
-獨生	douk=sraeng
+獨生	douk=sryaeng
 獨白	douk=baek
 獨秀	douk=suh
 獨立	douk=lip
@@ -44786,7 +44818,7 @@ sort: by_weight
 男星	nom=seng
 男根	nom=keon
 男爵	nom=tsyak
-男生	nom=sraeng
+男生	nom=sryaeng
 男的	nom=tek
 男神	nom=zjin
 男童	nom=doung
@@ -44819,7 +44851,7 @@ sort: by_weight
 畢摩	pit=ma
 畢昇	pit=sjyng
 畢業	pit=ngyop
-畢生	pit=sraeng
+畢生	pit=sryaeng
 畢竟	pit=kyaengh
 畢節	pit=tset
 畢肖	pit=siewh
@@ -45115,7 +45147,7 @@ sort: by_weight
 發獎	puot=tsyangq
 發現	puot=ghenh
 發球	puot=gu
-發生	puot=sraeng
+發生	puot=sryaeng
 發病	puot=byaengh
 發痛	puot=thoungh
 發癢	puot=jyangq
@@ -46566,7 +46598,7 @@ sort: by_weight
 竹林	truk=lim
 竹溪	truk=khej
 竹田	truk=den
-竹笙	truk=sraeng
+竹笙	truk=sryaeng
 竹筍	truk=swinq
 竹管	truk=kwanq
 竹節	truk=tset
@@ -46580,10 +46612,10 @@ sort: by_weight
 竿子	kan=tsyq
 竿頭	kan=dou
 笄年	kej=nen
-笙歌	sraeng=ka
-笙管	sraeng=kwanq
-笙簧	sraeng=ghwang
-笙簫	sraeng=sew
+笙歌	sryaeng=ka
+笙管	sryaeng=kwanq
+笙簧	sryaeng=ghwang
+笙簫	sryaeng=sew
 笛子	dek=tsyq
 笞刑	trhy=gheng
 笞撻	trhy=that
@@ -47260,7 +47292,7 @@ sort: by_weight
 終期	tjung=gy
 終極	tjung=gyk
 終止	tjung=tjyq
-終生	tjung=sraeng
+終生	tjung=sryaeng
 終究	tjung=kuh
 終端	tjung=twan
 終結	tjung=ket
@@ -48040,7 +48072,7 @@ sort: by_weight
 老歌	lawq=ka
 老漢	lawq=hanh
 老爸	lawq=baq
-老生	lawq=sraeng
+老生	lawq=sryaeng
 老粗	lawq=dzoq
 老練	lawq=lenh
 老繭	lawq=kenq
@@ -48088,7 +48120,7 @@ sort: by_weight
 考期	khawq=gy
 考本	khawq=ponq
 考核	khawq=gheek
-考生	khawq=sraeng
+考生	khawq=sryaeng
 考研	khawq=ngenh
 考究	khawq=kuh
 考績	khawq=tsek
@@ -48392,7 +48424,7 @@ sort: by_weight
 胎動	theoj=doungq
 胎壓	theoj=qaep
 胎座	theoj=dzwah
-胎生	theoj=sraeng
+胎生	theoj=sryaeng
 胎盤	theoj=ban
 胎糞	theoj=punh
 胎記	theoj=kyh
@@ -48415,7 +48447,7 @@ sort: by_weight
 胡狼	gho=lang
 胡琴	gho=gyim
 胡瓜	gho=kwae
-胡笙	gho=sraeng
+胡笙	gho=sryaeng
 胡臭	gho=tjhuh
 胡芫	gho=nguon
 胡花	gho=hwae
@@ -48452,7 +48484,7 @@ sort: by_weight
 脹起	tryangh=khyq
 脾胃	bie=ujh
 腋毛	jiaek=maw
-腋生	jiaek=sraeng
+腋生	jiaek=sryaeng
 腋臭	jiaek=tjhuh
 腋芽	jiaek=ngae
 腎炎	djinq=yem
@@ -49048,7 +49080,7 @@ sort: by_weight
 花環	hwae=ghwaen
 花瓣	hwae=beenh
 花瓶	hwae=beng
-花生	hwae=sraeng
+花生	hwae=sryaeng
 花用	hwae=juongh
 花甲	hwae=kaep
 花痴	hwae=trhy
@@ -49342,7 +49374,7 @@ sort: by_weight
 萇楚	dryang=tsrhyoh
 萋萋	tshej=tshej
 萌動	meeng=doungq
-萌生	meeng=sraeng
+萌生	meeng=sryaeng
 萌發	meeng=puot
 萌芽	meeng=ngae
 萍鄉	beng=hyang
@@ -50713,7 +50745,7 @@ sort: by_weight
 謀智	mu=trieh
 謀殺	mu=sreet
 謀求	mu=gu
-謀生	mu=sraeng
+謀生	mu=sryaeng
 謀略	mu=lyak
 謀職	mu=tjyk
 謀臣	mu=djin
@@ -51120,7 +51152,7 @@ sort: by_weight
 貢山	koungh=sreen
 貢布	koungh=poh
 貢物	koungh=mut
-貢生	koungh=sraeng
+貢生	koungh=sryaeng
 貢茶	koungh=drae
 貢賦	koungh=puoh
 貧乏	byin=buop
@@ -51493,7 +51525,7 @@ sort: by_weight
 超時	trhiew=djy
 超模	trhiew=mo
 超渡	trhiew=doh
-超生	trhiew=sraeng
+超生	trhiew=sryaeng
 超界	trhiew=keejh
 超等	trhiew=teongq
 超級	trhiew=kyip
@@ -52103,7 +52135,7 @@ sort: by_weight
 逃漏	daw=louh
 逃犯	daw=buomq
 逃獄	daw=nguok
-逃生	daw=sraeng
+逃生	daw=sryaeng
 逃稅	daw=sjwiejh
 逃竄	daw=tshwanh
 逃荒	daw=hwang
@@ -53365,7 +53397,7 @@ sort: by_weight
 門牙	mon=ngae
 門球	mon=gu
 門環	mon=ghwaen
-門生	mon=sraeng
+門生	mon=sryaeng
 門神	mon=zjin
 門童	mon=doung
 門第	mon=dejh
@@ -53721,7 +53753,7 @@ sort: by_weight
 陋屋	louh=qouk
 陋習	louh=zip
 陋規	louh=kwie
-陌生	maek=sraeng
+陌生	maek=sryaeng
 陌路	maek=loh
 陌陌	maek=maek
 限價	gheenq=kaeh
@@ -54095,7 +54127,7 @@ sort: by_weight
 雙溪	sroeung=khej
 雙灤	sroeung=lwan
 雙獨	sroeung=douk
-雙生	sroeung=sraeng
+雙生	sroeung=sryaeng
 雙盲	sroeung=maeng
 雙眸	sroeung=mu
 雙眼	sroeung=ngeenq
@@ -56224,7 +56256,7 @@ sort: by_weight
 一年半	qit=nen=panh
 一年多	qit=nen=ta
 一年期	qit=nen=gy
-一年生	qit=nen=sraeng
+一年生	qit=nen=sryaeng
 一把手	qit=paeq=sjuq
 一撥兒	qit=pat=njie
 一攬子	qit=lamq=tsyq
@@ -56344,7 +56376,7 @@ sort: by_weight
 中國通	trung=kweok=thoung
 中國鈸	trung=kweok=bat
 中壓管	trung=qaep=kwanq
-中學生	trung=ghoeuk=sraeng
+中學生	trung=ghoeuk=sryaeng
 中山裝	trung=sreen=tsryang
 中微子	trung=muj=tsyq
 中心矩	trung=sim=kuoq
@@ -56438,7 +56470,7 @@ sort: by_weight
 二地主	njih=dih=tjuoq
 二婚頭	njih=hon=dou
 二尖瓣	njih=tsiem=beenh
-二年生	njih=nen=sraeng
+二年生	njih=nen=sryaeng
 二手房	njih=sjuq=buang
 二手煙	njih=sjuq=qen
 二手貨	njih=sjuq=hwah
@@ -56813,7 +56845,7 @@ sort: by_weight
 傑里科	gyet=lyq=khwa
 傑里米	gyet=lyq=mejq
 備用環	byih=juongh=ghwaen
-催生婆	tshoj=sraeng=ba
+催生婆	tshoj=sryaeng=ba
 催眠曲	tshoj=men=khuok
 催眠藥	tshoj=men=jyak
 催眠術	tshoj=men=zjwit
@@ -57001,7 +57033,7 @@ sort: by_weight
 再保證	tseojh=pawq=tjyngh
 再保險	tseojh=pawq=hyemq
 再利用	tseojh=lih=juongh
-再發生	tseojh=puot=sraeng
+再發生	tseojh=puot=sryaeng
 再融資	tseojh=jung=tsi
 再製紙	tseojh=tjiejh=tjieq
 冕柳鶯	myenq=luq=qeeng
@@ -57022,7 +57054,7 @@ sort: by_weight
 冰球場	pying=gu=dryang
 冰醋酸	pying=tshoh=swan
 冶金學	jiaeq=kyim=ghoeuk
-准生證	tjwinq=sraeng=tjyngh
+准生證	tjwinq=sryaeng=tjyngh
 准考證	tjwinq=khawq=tjyngh
 凌志美	lyng=tjyh=myiq
 凌波舞	lyng=pa=muoq
@@ -57052,7 +57084,7 @@ sort: by_weight
 刊誤表	khan=ngoh=pyewq
 刑訴法	gheng=soh=puop
 划得來	ghwae=teok=leoj
-初中生	tsrhyo=trung=sraeng
+初中生	tsrhyo=trung=sryaeng
 初始化	tsrhyo=sjyq=hwaeh
 初學者	tsrhyo=ghoeuk=tjiaeq
 判例法	phanh=liejh=puop
@@ -57440,7 +57472,7 @@ sort: by_weight
 古文明	koq=mun=myaeng
 古新統	koq=sin=thongh
 古玩店	koq=ngwanh=temh
-古生物	koq=sraeng=mut
+古生物	koq=sryaeng=mut
 古登堡	koq=teong=pawq
 古盜鳥	koq=dawh=tewq
 古縴道	koq=khen=dawq
@@ -57454,7 +57486,7 @@ sort: by_weight
 叫花子	kewh=hwae=tsyq
 召集人	driewh=dzip=njin
 可倫坡	khaq=lwin=pha
-可再生	khaq=tseojh=sraeng
+可再生	khaq=tseojh=sryaeng
 可勁兒	khaq=kiaengh=njie
 可可米	khaq=khaq=mejq
 可塑性	khaq=soh=siaengh
@@ -57992,7 +58024,7 @@ sort: by_weight
 多巴胺	ta=pae=qat
 多幕劇	ta=mak=gyaek
 多年來	ta=nen=leoj
-多年生	ta=nen=sraeng
+多年生	ta=nen=sryaeng
 多得是	ta=teok=djieq
 多方位	ta=puang=uih
 多方面	ta=puang=mienh
@@ -58301,7 +58333,7 @@ sort: by_weight
 宣威市	swien=quj=djyq
 宣武門	swien=muoq=mon
 宣誓書	swien=djiejh=sjyo
-宰牲節	tseojq=sraeng=tset
+宰牲節	tseojq=sryaeng=tset
 害月子	ghajh=nguot=tsyq
 家八哥	kae=peet=ka
 家家酒	kae=kae=tsuq
@@ -58316,8 +58348,8 @@ sort: by_weight
 寄件者	kyeh=gyenq=tjiaeq
 寄存器	kyeh=dzon=khyih
 寄物櫃	kyeh=mut=guih
-寄生物	kyeh=sraeng=mut
-寄生者	kyeh=sraeng=tjiaeq
+寄生物	kyeh=sryaeng=mut
+寄生者	kyeh=sryaeng=tjiaeq
 密山市	myit=sreen=djyq
 密歇根	myit=hyot=keon
 密特朗	myit=deok=langq
@@ -58345,7 +58377,7 @@ sort: by_weight
 實幹家	zjit=kanh=kae
 實業家	zjit=ngyop=kae
 實況主	zjit=huangh=tjuoq
-實習生	zjit=zip=sraeng
+實習生	zjit=zip=sryaeng
 實際性	zjit=tsiejh=siaengh
 實驗室	zjit=ngyemh=sjit
 實驗所	zjit=ngyemh=sryoq
@@ -58430,7 +58462,7 @@ sort: by_weight
 小娃娃	siewq=qee=qee
 小孩兒	siewq=gheoj=njie
 小孩子	siewq=gheoj=tsyq
-小學生	siewq=ghoeuk=sraeng
+小學生	siewq=ghoeuk=sryaeng
 小家鼠	siewq=kae=sjyoq
 小屁孩	siewq=phih=gheoj
 小年人	siewq=nen=njin
@@ -58508,7 +58540,7 @@ sort: by_weight
 小黃瓜	siewq=ghwang=kwae
 小龍蝦	siewq=luong=ghae
 尖吻鱸	tsiem=munq=lo
-尖子生	tsiem=tsyq=sraeng
+尖子生	tsiem=tsyq=sryaeng
 尖石鄉	tsiem=djiaek=hyang
 尖管麵	tsiem=kwanq=menh
 尖草坪	tsiem=tshawq=byaeng
@@ -58849,7 +58881,7 @@ sort: by_weight
 微晶片	muj=tsiaeng=phenh
 微機化	muj=kyj=hwaeh
 微波爐	muj=pa=lo
-微生物	muj=sraeng=mut
+微生物	muj=sryaeng=mut
 微粒體	muj=lip=thejq
 微血管	muj=hwet=kwanq
 微電子	muj=denh=tsyq
@@ -59384,7 +59416,7 @@ sort: by_weight
 敏感性	myinq=komq=siaengh
 救撈局	kuh=law=guok
 救災款	kuh=tseoj=khwanq
-救生筏	kuh=sraeng=buot
+救生筏	kuh=sryaeng=buot
 救贖主	kuh=zjuok=tjuoq
 敖德薩	ngaw=teok=sat
 敖漢旗	ngaw=hanh=gy
@@ -59495,7 +59527,7 @@ sort: by_weight
 新泰市	sin=thajh=djyq
 新澤西	sin=draek=sej
 新營市	sin=jwiaeng=djyq
-新生代	sin=sraeng=deojh
+新生代	sin=sryaeng=deojh
 新石器	sin=djiaek=khyih
 新社鄉	sin=djiaeq=hyang
 新竹市	sin=truk=djyq
@@ -59760,7 +59792,7 @@ sort: by_weight
 本拉登	ponq=lop=teong
 本星期	ponq=seng=gy
 本溪市	ponq=khej=djyq
-本科生	ponq=khwa=sraeng
+本科生	ponq=khwa=sryaeng
 朱元璋	tjuo=nguon=tjyang
 朱利婭	tjuo=lih=qaeh
 朱利安	tjuo=lih=qan
@@ -59836,7 +59868,7 @@ sort: by_weight
 杏仁體	ghaengq=njin=thejq
 杏花嶺	ghaengq=hwae=liaengq
 杏花村	ghaengq=hwae=tshon
-杜月笙	doq=nguot=sraeng
+杜月笙	doq=nguot=sryaeng
 杜荀鶴	doq=swin=ghak
 杜蕾斯	doq=lojq=sie
 杜鵑座	doq=kwen=dzwah
@@ -60070,7 +60102,7 @@ sort: by_weight
 構想圖	kouh=syangq=do
 構詞學	kouh=zy=ghoeuk
 槭糖漿	tsuk=dang=tsyang
-槲寄生	ghouk=kyeh=sraeng
+槲寄生	ghouk=kyeh=sryaeng
 樓梯口	lou=thej=khouq
 樓梯臺	lou=thej=deoj
 樓梯間	lou=thej=keenh
@@ -60936,8 +60968,8 @@ sort: by_weight
 特雷沃	deok=loj=qok
 特雷莎	deok=loj=swa
 特魯多	deok=loq=ta
-犧牲品	hye=sraeng=phyimq
-犧牲者	hye=sraeng=tjiaeq
+犧牲品	hye=sryaeng=phyimq
+犧牲者	hye=sryaeng=tjiaeq
 犯罪學	buomq=dzojq=ghoeuk
 犯罪者	buomq=dzojq=tjiaeq
 狀聲詞	dzryangh=sjiaeng=zy
@@ -60954,8 +60986,8 @@ sort: by_weight
 狼牙山	lang=ngae=sreen
 猛勁兒	maengq=kiaengh=njie
 猜得透	tsheoj=teok=thouh
-猩紅熱	sraeng=ghoung=njiet
-猩紅色	sraeng=ghoung=sryk
+猩紅熱	sryaeng=ghoung=njiet
+猩紅色	sryaeng=ghoung=sryk
 猴孩子	ghou=gheoj=tsyq
 猴皮筋	ghou=bye=kyn
 猴麵包	ghou=menh=paew
@@ -62490,7 +62522,7 @@ sort: by_weight
 落地籤	lak=dih=tshiem
 落基山	lak=ky=sreen
 落水管	lak=sjwiq=kwanq
-落花生	lak=hwae=sraeng
+落花生	lak=hwae=sryaeng
 落馬洲	lak=maeq=tju
 葛法翁	kat=puop=qoung
 葛縷子	kat=luoq=tsyq
@@ -64329,7 +64361,7 @@ sort: by_weight
 黑浮鷗	heok=bu=qou
 黑澤明	heok=draek=myaeng
 黑煤玉	heok=moj=nguok
-黑猩猩	heok=sraeng=sraeng
+黑猩猩	heok=sryaeng=sryaeng
 黑琴雞	heok=gyim=kej
 黑百靈	heok=paek=leng
 黑皮諾	heok=bye=nak
@@ -64561,7 +64593,7 @@ sort: by_weight
 七拼八湊	tshit=peeng=peet=tshouh
 七政四餘	tshit=tjiaengh=sih=jyo
 七旬老人	tshit=zwin=lawq=njin
-七竅生煙	tshit=khewh=sraeng=qen
+七竅生煙	tshit=khewh=sryaeng=qen
 七老八十	tshit=lawq=peet=djip
 七聲音階	tshit=sjiaeng=qyim=keej
 七葷八素	tshit=hun=peet=soh
@@ -64582,7 +64614,7 @@ sort: by_weight
 三權鼎立	sam=guen=tengq=lip
 三次方程	sam=tshih=puang=driaeng
 三次曲線	sam=tshih=khuok=sienh
-三生有幸	sam=sraeng=uq=gheengq
+三生有幸	sam=sryaeng=uq=gheengq
 三藩叛亂	sam=puon=banh=lwanh
 三角戀愛	sam=koeuk=lwienh=qeojh
 三貞九烈	sam=triaeng=kuq=liet
@@ -64629,7 +64661,7 @@ sort: by_weight
 亂七八糟	lwanh=tshit=peet=tsaw
 亂成一團	lwanh=djiaeng=qit=dwan
 亂臣賊子	lwanh=djin=dzeok=tsyq
-了卻此生	lewq=khyak=tshieq=sraeng
+了卻此生	lewq=khyak=tshieq=sryaeng
 了無新意	lewq=muo=sin=qyh
 二八佳人	njih=peet=kee=njin
 二十一條	njih=djip=qit=dew
@@ -64925,7 +64957,7 @@ sort: by_weight
 健康受損	gyonh=khang=djuq=sonq
 健康狀況	gyonh=khang=dzryangh=huangh
 健美運動	gyonh=myiq=unh=doungq
-側生動物	tsryk=sraeng=doungq=mut
+側生動物	tsryk=sryaeng=doungq=mut
 偷天換日	thou=then=ghwanh=njit
 偷香竊玉	thou=hyang=tshet=nguok
 傑伊漢港	gyet=qi=hanh=koeungq
@@ -65404,7 +65436,7 @@ sort: by_weight
 同軸圓弧	doung=druk=uen=gho
 同軸電纜	doung=druk=denh=lamh
 同途殊歸	doung=do=djuo=kuj
-同配生殖	doung=phojh=sraeng=djyk
+同配生殖	doung=phojh=sryaeng=djyk
 名噪一時	miaeng=sawh=qit=djy
 名存實亡	miaeng=dzon=zjit=muang
 名揚四海	miaeng=jyang=sih=heojq
@@ -65776,7 +65808,7 @@ sort: by_weight
 好整以暇	hawh=tjiaengq=jyq=ghaeh
 妖魔鬼怪	qyew=ma=kujq=kweejh
 妙手回春	miewh=sjuq=ghoj=tjhwin
-妙筆生花	miewh=pyit=sraeng=hwae
+妙筆生花	miewh=pyit=sryaeng=hwae
 姆巴巴納	mouh=pae=pae=nop
 姍姍來遲	san=san=leoj=dri
 姑妄言之	ko=muangh=ngyon=tjy
@@ -66271,7 +66303,7 @@ sort: by_weight
 忽魯謨斯	hot=loq=mo=sie
 怡然自得	jy=njien=dzih=teok
 怡顏悅色	jy=ngaen=jwiet=sryk
-急中生智	kyip=trung=sraeng=trieh
+急中生智	kyip=trung=sryaeng=trieh
 急如星火	kyip=njyo=seng=hwaq
 急急忙忙	kyip=kyip=mang=mang
 急性腸炎	kyip=siaengh=dryang=yem
@@ -66300,7 +66332,7 @@ sort: by_weight
 悲天憫人	pyi=then=myinq=njin
 情同骨肉	dziaeng=doung=kot=njuk
 情境模型	dziaeng=kyaengq=mo=gheng
-情急智生	dziaeng=kyip=trieh=sraeng
+情急智生	dziaeng=kyip=trieh=sryaeng
 情有可原	dziaeng=uq=khaq=nguon
 情有獨鍾	dziaeng=uq=douk=tjuong
 情竇初開	dziaeng=douh=tsrhyo=kheoj
@@ -66365,7 +66397,7 @@ sort: by_weight
 應用物理	qyngh=juongh=mut=lyq
 應用程式	qyngh=juongh=driaeng=sjyk
 應用軟件	qyngh=juongh=njwienq=gyenq
-應運而生	qyngh=unh=njy=sraeng
+應運而生	qyngh=unh=njy=sryaeng
 懲一警百	dryng=qit=kyaengq=paek
 懵懵懂懂	moungq=moungq=toungq=toungq
 懶得搭理	lanq=teok=thap=lyq
@@ -66661,7 +66693,7 @@ sort: by_weight
 日本黑道	njit=ponq=heok=dawq
 日無暇晷	njit=muo=ghaeh=kuiq
 日落西山	njit=lak=sej=sreen
-日落風生	njit=lak=pung=sraeng
+日落風生	njit=lak=pung=sryaeng
 日薄崦嵫	njit=bak=qyem=tsy
 日電電子	njit=denh=denh=tsyq
 早睡早起	tsawq=djwieh=tsawq=khyq
@@ -66903,7 +66935,7 @@ sort: by_weight
 栗頭雀鶥	lit=dou=tsyak=myi
 栗頰噪鶥	lit=kep=sawh=myi
 栗額鶪鶥	lit=ngaek=kwek=myi
-栩栩如生	huoq=huoq=njyo=sraeng
+栩栩如生	huoq=huoq=njyo=sryaeng
 核子醫學	gheek=tsyq=qy=ghoeuk
 核對帳目	gheek=tojh=tryangh=muk
 核糖核酸	gheek=dang=gheek=swan
@@ -67007,7 +67039,7 @@ sort: by_weight
 歸心似箭	kuj=sim=zyq=tsienh
 歸根到底	kuj=keon=tawh=tejq
 歸根結底	kuj=keon=ket=tejq
-死中求生	siq=trung=gu=sraeng
+死中求生	siq=trung=gu=sryaeng
 死乞白賴	siq=khyt=baek=lajh
 死亡筆記	siq=muang=pyit=kyh
 死心踏地	siq=sim=thop=dih
@@ -67084,7 +67116,7 @@ sort: by_weight
 河外星雲	gha=ngwajh=seng=un
 河豚毒素	gha=don=dok=soh
 沸沸揚揚	pujh=pujh=jyang=jyang
-油然而生	ju=njien=njy=sraeng
+油然而生	ju=njien=njy=sryaeng
 治國理政	dry=kweok=lyq=tjiaengh
 沼澤地帶	tjiewq=draek=dih=tajh
 沼澤山雀	tjiewq=draek=sreen=tsyak
@@ -67649,7 +67681,7 @@ sort: by_weight
 白雪公主	baek=swiet=koung=tjuoq
 白雪皚皚	baek=swiet=ngeoj=ngeoj
 白雲機場	baek=un=kyj=dryang
-白面書生	baek=mienh=sjyo=sraeng
+白面書生	baek=mienh=sjyo=sryaeng
 白頂玄鷗	baek=tengq=ghwen=qou
 白項鳳鶥	baek=ghoeungq=bungh=myi
 白領八哥	baek=liaengq=peet=ka
@@ -68325,7 +68357,7 @@ sort: by_weight
 芳香療法	phuang=hyang=liewh=puop
 苛捐雜稅	gha=jwien=dzop=sjwiejh
 苯甲酸鈉	ponq=kaep=swan=njwiejh
-英勇犧牲	qyaeng=juongq=hye=sraeng
+英勇犧牲	qyaeng=juongq=hye=sryaeng
 英國石油	qyaeng=kweok=djiaek=ju
 英姿颯爽	qyaeng=tsi=sop=sryangq
 英年早逝	qyaeng=nen=tsawq=djiejh
@@ -68427,7 +68459,7 @@ sort: by_weight
 蘭斯洛特	lan=sie=lak=deok
 蘭新鐵路	lan=sin=thet=loh
 蘭開斯特	lan=kheoj=sie=deok
-虎口餘生	hoq=khouq=jyo=sraeng
+虎口餘生	hoq=khouq=jyo=sryaeng
 虎尾春冰	hoq=mujq=tjhwin=pying
 虎斑地鶇	hoq=paen=dih=toung
 虎斑鸚鵡	hoq=paen=qeeng=muoq
@@ -68651,7 +68683,7 @@ sort: by_weight
 赫福特郡	haek=puk=deok=gunh
 赫耳墨斯	haek=njyq=meok=sie
 起早貪黑	khyq=tsawq=thom=heok
-起死回生	khyq=siq=ghoj=sraeng
+起死回生	khyq=siq=ghoj=sryaeng
 起落裝置	khyq=lak=tsryang=tryh
 超乎尋常	trhiew=gho=zim=djyang
 超導電性	trhiew=dawh=denh=siaengh
@@ -69287,7 +69319,7 @@ sort: by_weight
 鬥私批修	touh=si=phej=su
 鬱鬱寡歡	qut=qut=kwaeq=hwan
 鬼斧神工	kujq=puoq=zjin=koung
-鬼由心生	kujq=ju=sim=sraeng
+鬼由心生	kujq=ju=sim=sryaeng
 鬼計多端	kujq=kejh=ta=twan
 鬼話連篇	kujq=ghwaejh=lien=phien
 鬼迷心竅	kujq=mej=sim=khewh
@@ -69547,7 +69579,7 @@ sort: by_weight
 口技表演者	khouq=gyeq=pyewq=jienq=tjiaeq
 古傑拉特邦	koq=gyet=lop=deok=poeung
 古吉拉特邦	koq=kit=lop=deok=poeung
-古生物學家	koq=sraeng=mut=ghoeuk=kae
+古生物學家	koq=sryaeng=mut=ghoeuk=kae
 可持續發展	khaq=dry=zuok=puot=trienq
 史前古器物	sryq=dzen=koq=khyih=mut
 司馬遼太郎	sy=maeq=lew=thajh=lang
@@ -69631,7 +69663,7 @@ sort: by_weight
 字根通用碼	dzyh=keon=thoung=juongh=maeq
 存款准備金	dzon=khwanq=tjwinq=byih=kyim
 學而優則仕	ghoeuk=njy=qu=tseok=dzryq
-宇宙生成論	uoq=druh=sraeng=djiaeng=lonh
+宇宙生成論	uoq=druh=sryaeng=djiaeng=lonh
 安納波利斯	qan=nop=pa=lih=sie
 宋武帝劉裕	songh=muoq=tejh=lu=juoh
 完形心理學	ghwan=gheng=sim=lyq=ghoeuk
@@ -69689,7 +69721,7 @@ sort: by_weight
 彭博通訊社	baeng=pak=thoung=sinh=djiaeq
 徐霞客遊記	zyo=ghae=khaek=ju=kyh
 得克薩斯州	teok=kheok=sat=sie=tju
-微生物學家	muj=sraeng=mut=ghoeuk=kae
+微生物學家	muj=sryaeng=mut=ghoeuk=kae
 德克薩斯州	teok=kheok=sat=sie=tju
 德古西加巴	teok=koq=sej=kae=pae
 德謨克拉西	teok=mo=kheok=lop=sej
@@ -69731,7 +69763,7 @@ sort: by_weight
 新西伯利亞	sin=sej=paek=lih=qaeh
 日本共同社	njit=ponq=guongh=doung=djiaeq
 日本松雀鷹	njit=ponq=zuong=tsyak=qyng
-早死早超生	tsawq=siq=tsawq=trhiew=sraeng
+早死早超生	tsawq=siq=tsawq=trhiew=sryaeng
 春江花月夜	tjhwin=koeung=hwae=nguot=jiaeh
 普羅維登斯	phoq=la=jwi=teong=sie
 普通老百姓	phoq=thoung=lawq=paek=siaengh
@@ -70095,8 +70127,8 @@ sort: by_weight
 黑額山噪鶥	heok=ngaek=sreen=sawh=myi
 點對點加密	temq=tojh=temq=kae=myit
 一個中國政策	qit=kah=trung=kweok=tjiaengh=tsrheek
-一回生二回熟	qit=ghoj=sraeng=njih=ghoj=djuk
-一回生兩回熟	qit=ghoj=sraeng=lyangq=ghoj=djuk
+一回生二回熟	qit=ghoj=sryaeng=njih=ghoj=djuk
+一回生兩回熟	qit=ghoj=sryaeng=lyangq=ghoj=djuk
 一掬同情之淚	qit=kuk=doung=dziaeng=tjy=lwih
 一條道走到黑	qit=dew=dawq=tsouq=tawh=heok
 一步一個腳印	qit=boh=qit=kah=kyak=qinh
@@ -70343,11 +70375,11 @@ sort: by_weight
 銷售時點情報系統	siew=djuh=djy=temq=dziaeng=pawh=ghejh=thongh
 順我者昌逆我者亡	zjwinh=ngaq=tjiaeq=tjhyang=ngyaek=ngaq=tjiaeq=muang
 黃花崗七十二烈士	ghwang=hwae=kang=tshit=djip=njih=liet=dzryq
-海森堡不确定性原理	heojq=sryim=pawq=put=ghoeuk=dengh=siaengh=nguon=lyq
-馬爾可夫鏈蒙特卡洛	maeq=njieq=khaq=puo=lien=moung=deok=khaeq=lak
 二十年目睹之怪現狀	njih=djip=nen=muk=toq=tjy=kweejh=ghenh=dzryangh
 司馬昭之心路人皆知	sy=maeq=tjiew=tjy=sim=loh=njin=keej=trie
 埃文河畔斯特拉特福	qeoj=mun=gha=banh=sie=deok=lop=deok=puk
+海森堡不确定性原理	heojq=sryim=pawq=put=ghoeuk=dengh=siaengh=nguon=lyq
 溫布爾登網球公開賽	qon=poh=njieq=teong=muangq=gu=koung=kheoj=seojh
+馬爾可夫鏈蒙特卡洛	maeq=njieq=khaq=puo=lien=moung=deok=khaeq=lak
 巴勒斯坦民族權力機構	pae=leok=sie=thanq=min=dzouk=guen=lyk=kyj=kouh
 布魯克海文國家實驗室	poh=loq=kheok=heojq=mun=kweok=kae=zjit=ngyemh=sjit

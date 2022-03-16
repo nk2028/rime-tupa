@@ -3,7 +3,7 @@
 
 ---
 name: tshet.words
-version: "2021.11.09"
+version: "2021.11.09-rev20220316-3"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -64,7 +64,7 @@ use_preset_vocabulary: true
 一次	qit tshih
 一氣	qit khyjh
 一流	qit lu
-一生	qit sraeng
+一生	qit sryaeng
 一甲	qit kaep
 一直	qit dryk
 一眼	qit ngeenq
@@ -575,7 +575,7 @@ use_preset_vocabulary: true
 互換	ghoh ghwanh
 互文	ghoh mun
 互斥	ghoh tjhiaek
-互生	ghoh sraeng
+互生	ghoh sryaeng
 互異	ghoh jyh
 互粉	ghoh punq
 互素	ghoh soh
@@ -808,7 +808,7 @@ use_preset_vocabulary: true
 人物	njin mut
 人犯	njin buomq
 人猿	njin uon
-人生	njin sraeng
+人生	njin sryaeng
 人禍	njin ghwaq
 人精	njin tsiaeng
 人緣	njin jwien
@@ -867,7 +867,7 @@ use_preset_vocabulary: true
 今村	kyim tshon
 今次	kyim tshih
 今歲	kyim swiejh
-今生	kyim sraeng
+今生	kyim sryaeng
 今譯	kyim jiaek
 今音	kyim qyim
 介乎	keejh gho
@@ -1210,7 +1210,7 @@ use_preset_vocabulary: true
 來潮	leoj driew
 來火	leoj hwaq
 來犯	leoj buomq
-來生	leoj sraeng
+來生	leoj sryaeng
 來由	leoj ju
 來神	leoj zjin
 來義	leoj ngyeh
@@ -1637,7 +1637,7 @@ use_preset_vocabulary: true
 催情	tshoj dziaeng
 催淚	tshoj lwih
 催熟	tshoj djuk
-催生	tshoj sraeng
+催生	tshoj sryaeng
 催眠	tshoj men
 催肥	tshoj buj
 催膘	tshoj phiewq
@@ -1747,7 +1747,7 @@ use_preset_vocabulary: true
 優柔	qu nju
 優步	qu boh
 優渥	qu qoeuk
-優生	qu sraeng
+優生	qu sryaeng
 優異	qu jyh
 優盤	qu ban
 優秀	qu suh
@@ -2160,7 +2160,7 @@ use_preset_vocabulary: true
 共同	guongh doung
 共商	guongh sjyang
 共存	guongh dzon
-共生	guongh sraeng
+共生	guongh sryaeng
 共用	guongh juongh
 共管	guongh kwanq
 共謀	guongh mu
@@ -2226,7 +2226,7 @@ use_preset_vocabulary: true
 再版	tseojh paenq
 再犯	tseojh buomq
 再現	tseojh ghenh
-再生	tseojh sraeng
+再生	tseojh sryaeng
 再發	tseojh puot
 再者	tseojh tjiaeq
 再育	tseojh juk
@@ -2479,7 +2479,7 @@ use_preset_vocabulary: true
 初步	tsrhyo boh
 初潮	tsrhyo driew
 初犯	tsrhyo buomq
-初生	tsrhyo sraeng
+初生	tsrhyo sryaeng
 初秋	tsrhyo tshu
 初等	tsrhyo teongq
 初級	tsrhyo kyip
@@ -5299,7 +5299,7 @@ use_preset_vocabulary: true
 外海	ngwajh heojq
 外源	ngwajh nguon
 外牆	ngwajh dzyang
-外甥	ngwajh sraeng
+外甥	ngwajh sryaeng
 外用	ngwajh juongh
 外界	ngwajh keejh
 外皮	ngwajh bye
@@ -5487,7 +5487,7 @@ use_preset_vocabulary: true
 天理	then lyq
 天璇	then zwien
 天璣	then kyj
-天生	then sraeng
+天生	then sryaeng
 天界	then keejh
 天癸	then kwiq
 天皇	then ghwang
@@ -6199,7 +6199,7 @@ use_preset_vocabulary: true
 安然	qan njien
 安營	qan jwiaeng
 安瓶	qan beng
-安生	qan sraeng
+安生	qan sryaeng
 安眠	qan men
 安神	qan zjin
 安祥	qan zyang
@@ -6480,7 +6480,7 @@ use_preset_vocabulary: true
 寄存	kyeh dzon
 寄懷	kyeh ghweej
 寄母	kyeh mouq
-寄生	kyeh sraeng
+寄生	kyeh sryaeng
 寄發	kyeh puot
 寄籍	kyeh dziaek
 寄託	kyeh thak
@@ -6682,7 +6682,7 @@ use_preset_vocabulary: true
 寫手	siaeq sjuq
 寫法	siaeq puop
 寫照	siaeq tjiewh
-寫生	siaeq sraeng
+寫生	siaeq sryaeng
 寬亮	khwan lyangh
 寬免	khwan myenq
 寬口	khwan khouq
@@ -7114,7 +7114,7 @@ use_preset_vocabulary: true
 尾流	mujq lu
 尾燈	mujq teong
 尾牙	mujq ngae
-尾生	mujq sraeng
+尾生	mujq sryaeng
 尾礦	mujq kwaengq
 尾翼	mujq jyk
 尾聲	mujq sjiaeng
@@ -7570,7 +7570,7 @@ use_preset_vocabulary: true
 師尊	sryi tson
 師徒	sryi do
 師母	sryi mouq
-師生	sryi sraeng
+師生	sryi sryaeng
 師範	sryi buomq
 師表	sryi pyewq
 師資	sryi tsi
@@ -8249,7 +8249,7 @@ use_preset_vocabulary: true
 往昔	uangq siaek
 往時	uangq djy
 往歲	uangq swiejh
-往生	uangq sraeng
+往生	uangq sryaeng
 往程	uangq driaeng
 往跡	uangq tsiaek
 往返	uangq puonq
@@ -9436,7 +9436,7 @@ use_preset_vocabulary: true
 所指	sryoq tjiq
 所有	sryoq uq
 所為	sryoq ue
-所生	sryoq sraeng
+所生	sryoq sryaeng
 所知	sryoq trie
 所致	sryoq trih
 所謂	sryoq ujh
@@ -10029,7 +10029,7 @@ use_preset_vocabulary: true
 捐款	jwien khwanq
 捐物	jwien mut
 捐班	jwien paen
-捐生	jwien sraeng
+捐生	jwien sryaeng
 捐稅	jwien sjwiejh
 捐給	jwien kyip
 捐血	jwien hwet
@@ -10130,7 +10130,7 @@ use_preset_vocabulary: true
 排演	beej jienq
 排版	beej paenq
 排球	beej gu
-排笙	beej sraeng
+排笙	beej sryaeng
 排簫	beej sew
 排練	beej lenh
 排翅	beej sjieh
@@ -10722,7 +10722,7 @@ use_preset_vocabulary: true
 救星	kuh seng
 救火	kuh hwaq
 救災	kuh tseoj
-救生	kuh sraeng
+救生	kuh sryaeng
 救護	kuh ghoh
 救贖	kuh zjuok
 敖廣	ngaw kwangq
@@ -10977,7 +10977,7 @@ use_preset_vocabulary: true
 新潮	sin driew
 新營	sin jwiaeng
 新版	sin paenq
-新生	sin sraeng
+新生	sin sryaeng
 新田	sin den
 新界	sin keejh
 新異	sin jyh
@@ -11388,7 +11388,7 @@ use_preset_vocabulary: true
 晚景	muonq kyaengq
 晚期	muonq gy
 晚清	muonq tshiaeng
-晚生	muonq sraeng
+晚生	muonq sryaeng
 晚育	muonq juk
 晚輩	muonq pojh
 晚間	muonq keenh
@@ -11611,7 +11611,7 @@ use_preset_vocabulary: true
 書櫃	sjyo guih
 書法	sjyo puop
 書牘	sjyo douk
-書生	sjyo sraeng
+書生	sjyo sryaeng
 書皮	sjyo bye
 書目	sjyo muk
 書眉	sjyo myi
@@ -13164,7 +13164,7 @@ use_preset_vocabulary: true
 死水	siq sjwiq
 死海	siq heojq
 死球	siq gu
-死生	siq sraeng
+死生	siq sryaeng
 死硬	siq ngeengh
 死神	siq zjin
 死穴	siq ghwet
@@ -13243,7 +13243,7 @@ use_preset_vocabulary: true
 殺敵	sreet dek
 殺死	sreet siq
 殺滅	sreet miet
-殺生	sreet sraeng
+殺生	sreet sryaeng
 殺絕	sreet dzwiet
 殺菌	sreet guinq
 殺頭	sreet dou
@@ -13352,7 +13352,7 @@ use_preset_vocabulary: true
 民歌	min ka
 民法	min puop
 民營	min jwiaeng
-民生	min sraeng
+民生	min sryaeng
 民用	min juongh
 民科	min khwa
 民航	min ghang
@@ -13428,7 +13428,7 @@ use_preset_vocabulary: true
 水玉	sjwiq nguok
 水珠	sjwiq tjuo
 水球	sjwiq gu
-水生	sjwiq sraeng
+水生	sjwiq sryaeng
 水田	sjwiq den
 水療	sjwiq liewh
 水盂	sjwiq uo
@@ -13527,7 +13527,7 @@ use_preset_vocabulary: true
 求救	gu kuh
 求是	gu djieq
 求歡	gu hwan
-求生	gu sraeng
+求生	gu sryaeng
 求知	gu trie
 求職	gu tjyk
 求證	gu tjyngh
@@ -13968,7 +13968,7 @@ use_preset_vocabulary: true
 派勢	pheeh sjiejh
 派對	pheeh tojh
 派性	pheeh siaengh
-派生	pheeh sraeng
+派生	pheeh sryaeng
 派系	pheeh ghejh
 派購	pheeh kouh
 派送	pheeh soungh
@@ -14646,7 +14646,7 @@ use_preset_vocabulary: true
 滋味	tsy mujh
 滋擾	tsy njiewq
 滋潤	tsy njwinh
-滋生	tsy sraeng
+滋生	tsy sryaeng
 滋芽	tsy ngae
 滋補	tsy poq
 滋賀	tsy ghah
@@ -15473,7 +15473,7 @@ use_preset_vocabulary: true
 營救	jwiaeng kuh
 營業	jwiaeng ngyop
 營求	jwiaeng gu
-營生	jwiaeng sraeng
+營生	jwiaeng sryaeng
 營盤	jwiaeng ban
 營私	jwiaeng si
 營謀	jwiaeng mu
@@ -15684,9 +15684,9 @@ use_preset_vocabulary: true
 物資	mut tsi
 物鏡	mut kyaengh
 物體	mut thejq
-牲口	sraeng khouq
-牲禮	sraeng lejq
-牲體	sraeng thejq
+牲口	sryaeng khouq
+牲禮	sryaeng lejq
+牲體	sryaeng thejq
 牴觸	tejq tjhuok
 牸牛	dzyh ngu
 牸馬	dzyh maeq
@@ -15746,7 +15746,7 @@ use_preset_vocabulary: true
 犎牛	puong ngu
 犒賞	khawh sjyangq
 犢子	douk tsyq
-犧牲	hye sraeng
+犧牲	hye sryaeng
 犪牛	gui ngu
 犬儒	khwenq njuo
 犬戎	khwenq njung
@@ -15855,8 +15855,8 @@ use_preset_vocabulary: true
 猢猻	gho son
 猥瑣	qojq swaq
 猥褻	qojq siet
-猩猩	sraeng sraeng
-猩紅	sraeng ghoung
+猩猩	sryaeng sryaeng
+猩紅	sryaeng ghoung
 猳國	kae kweok
 猴兒	ghou njie
 猴子	ghou tsyq
@@ -15901,7 +15901,7 @@ use_preset_vocabulary: true
 獨步	douk boh
 獨特	douk deok
 獨獨	douk douk
-獨生	douk sraeng
+獨生	douk sryaeng
 獨白	douk baek
 獨秀	douk suh
 獨立	douk lip
@@ -16414,7 +16414,7 @@ use_preset_vocabulary: true
 男星	nom seng
 男根	nom keon
 男爵	nom tsyak
-男生	nom sraeng
+男生	nom sryaeng
 男的	nom tek
 男神	nom zjin
 男童	nom doung
@@ -16447,7 +16447,7 @@ use_preset_vocabulary: true
 畢摩	pit ma
 畢昇	pit sjyng
 畢業	pit ngyop
-畢生	pit sraeng
+畢生	pit sryaeng
 畢竟	pit kyaengh
 畢節	pit tset
 畢肖	pit siewh
@@ -16743,7 +16743,7 @@ use_preset_vocabulary: true
 發獎	puot tsyangq
 發現	puot ghenh
 發球	puot gu
-發生	puot sraeng
+發生	puot sryaeng
 發病	puot byaengh
 發痛	puot thoungh
 發癢	puot jyangq
@@ -18194,7 +18194,7 @@ use_preset_vocabulary: true
 竹林	truk lim
 竹溪	truk khej
 竹田	truk den
-竹笙	truk sraeng
+竹笙	truk sryaeng
 竹筍	truk swinq
 竹管	truk kwanq
 竹節	truk tset
@@ -18208,10 +18208,10 @@ use_preset_vocabulary: true
 竿子	kan tsyq
 竿頭	kan dou
 笄年	kej nen
-笙歌	sraeng ka
-笙管	sraeng kwanq
-笙簧	sraeng ghwang
-笙簫	sraeng sew
+笙歌	sryaeng ka
+笙管	sryaeng kwanq
+笙簧	sryaeng ghwang
+笙簫	sryaeng sew
 笛子	dek tsyq
 笞刑	trhy gheng
 笞撻	trhy that
@@ -18888,7 +18888,7 @@ use_preset_vocabulary: true
 終期	tjung gy
 終極	tjung gyk
 終止	tjung tjyq
-終生	tjung sraeng
+終生	tjung sryaeng
 終究	tjung kuh
 終端	tjung twan
 終結	tjung ket
@@ -19668,7 +19668,7 @@ use_preset_vocabulary: true
 老歌	lawq ka
 老漢	lawq hanh
 老爸	lawq baq
-老生	lawq sraeng
+老生	lawq sryaeng
 老粗	lawq dzoq
 老練	lawq lenh
 老繭	lawq kenq
@@ -19716,7 +19716,7 @@ use_preset_vocabulary: true
 考期	khawq gy
 考本	khawq ponq
 考核	khawq gheek
-考生	khawq sraeng
+考生	khawq sryaeng
 考研	khawq ngenh
 考究	khawq kuh
 考績	khawq tsek
@@ -20020,7 +20020,7 @@ use_preset_vocabulary: true
 胎動	theoj doungq
 胎壓	theoj qaep
 胎座	theoj dzwah
-胎生	theoj sraeng
+胎生	theoj sryaeng
 胎盤	theoj ban
 胎糞	theoj punh
 胎記	theoj kyh
@@ -20043,7 +20043,7 @@ use_preset_vocabulary: true
 胡狼	gho lang
 胡琴	gho gyim
 胡瓜	gho kwae
-胡笙	gho sraeng
+胡笙	gho sryaeng
 胡臭	gho tjhuh
 胡芫	gho nguon
 胡花	gho hwae
@@ -20080,7 +20080,7 @@ use_preset_vocabulary: true
 脹起	tryangh khyq
 脾胃	bie ujh
 腋毛	jiaek maw
-腋生	jiaek sraeng
+腋生	jiaek sryaeng
 腋臭	jiaek tjhuh
 腋芽	jiaek ngae
 腎炎	djinq yem
@@ -20676,7 +20676,7 @@ use_preset_vocabulary: true
 花環	hwae ghwaen
 花瓣	hwae beenh
 花瓶	hwae beng
-花生	hwae sraeng
+花生	hwae sryaeng
 花用	hwae juongh
 花甲	hwae kaep
 花痴	hwae trhy
@@ -20970,7 +20970,7 @@ use_preset_vocabulary: true
 萇楚	dryang tsrhyoh
 萋萋	tshej tshej
 萌動	meeng doungq
-萌生	meeng sraeng
+萌生	meeng sryaeng
 萌發	meeng puot
 萌芽	meeng ngae
 萍鄉	beng hyang
@@ -22341,7 +22341,7 @@ use_preset_vocabulary: true
 謀智	mu trieh
 謀殺	mu sreet
 謀求	mu gu
-謀生	mu sraeng
+謀生	mu sryaeng
 謀略	mu lyak
 謀職	mu tjyk
 謀臣	mu djin
@@ -22748,7 +22748,7 @@ use_preset_vocabulary: true
 貢山	koungh sreen
 貢布	koungh poh
 貢物	koungh mut
-貢生	koungh sraeng
+貢生	koungh sryaeng
 貢茶	koungh drae
 貢賦	koungh puoh
 貧乏	byin buop
@@ -23121,7 +23121,7 @@ use_preset_vocabulary: true
 超時	trhiew djy
 超模	trhiew mo
 超渡	trhiew doh
-超生	trhiew sraeng
+超生	trhiew sryaeng
 超界	trhiew keejh
 超等	trhiew teongq
 超級	trhiew kyip
@@ -23731,7 +23731,7 @@ use_preset_vocabulary: true
 逃漏	daw louh
 逃犯	daw buomq
 逃獄	daw nguok
-逃生	daw sraeng
+逃生	daw sryaeng
 逃稅	daw sjwiejh
 逃竄	daw tshwanh
 逃荒	daw hwang
@@ -24993,7 +24993,7 @@ use_preset_vocabulary: true
 門牙	mon ngae
 門球	mon gu
 門環	mon ghwaen
-門生	mon sraeng
+門生	mon sryaeng
 門神	mon zjin
 門童	mon doung
 門第	mon dejh
@@ -25349,7 +25349,7 @@ use_preset_vocabulary: true
 陋屋	louh qouk
 陋習	louh zip
 陋規	louh kwie
-陌生	maek sraeng
+陌生	maek sryaeng
 陌路	maek loh
 陌陌	maek maek
 限價	gheenq kaeh
@@ -25723,7 +25723,7 @@ use_preset_vocabulary: true
 雙溪	sroeung khej
 雙灤	sroeung lwan
 雙獨	sroeung douk
-雙生	sroeung sraeng
+雙生	sroeung sryaeng
 雙盲	sroeung maeng
 雙眸	sroeung mu
 雙眼	sroeung ngeenq
@@ -27852,7 +27852,7 @@ use_preset_vocabulary: true
 一年半	qit nen panh
 一年多	qit nen ta
 一年期	qit nen gy
-一年生	qit nen sraeng
+一年生	qit nen sryaeng
 一把手	qit paeq sjuq
 一撥兒	qit pat njie
 一攬子	qit lamq tsyq
@@ -27972,7 +27972,7 @@ use_preset_vocabulary: true
 中國通	trung kweok thoung
 中國鈸	trung kweok bat
 中壓管	trung qaep kwanq
-中學生	trung ghoeuk sraeng
+中學生	trung ghoeuk sryaeng
 中山裝	trung sreen tsryang
 中微子	trung muj tsyq
 中心矩	trung sim kuoq
@@ -28066,7 +28066,7 @@ use_preset_vocabulary: true
 二地主	njih dih tjuoq
 二婚頭	njih hon dou
 二尖瓣	njih tsiem beenh
-二年生	njih nen sraeng
+二年生	njih nen sryaeng
 二手房	njih sjuq buang
 二手煙	njih sjuq qen
 二手貨	njih sjuq hwah
@@ -28441,7 +28441,7 @@ use_preset_vocabulary: true
 傑里科	gyet lyq khwa
 傑里米	gyet lyq mejq
 備用環	byih juongh ghwaen
-催生婆	tshoj sraeng ba
+催生婆	tshoj sryaeng ba
 催眠曲	tshoj men khuok
 催眠藥	tshoj men jyak
 催眠術	tshoj men zjwit
@@ -28629,7 +28629,7 @@ use_preset_vocabulary: true
 再保證	tseojh pawq tjyngh
 再保險	tseojh pawq hyemq
 再利用	tseojh lih juongh
-再發生	tseojh puot sraeng
+再發生	tseojh puot sryaeng
 再融資	tseojh jung tsi
 再製紙	tseojh tjiejh tjieq
 冕柳鶯	myenq luq qeeng
@@ -28650,7 +28650,7 @@ use_preset_vocabulary: true
 冰球場	pying gu dryang
 冰醋酸	pying tshoh swan
 冶金學	jiaeq kyim ghoeuk
-准生證	tjwinq sraeng tjyngh
+准生證	tjwinq sryaeng tjyngh
 准考證	tjwinq khawq tjyngh
 凌志美	lyng tjyh myiq
 凌波舞	lyng pa muoq
@@ -28680,7 +28680,7 @@ use_preset_vocabulary: true
 刊誤表	khan ngoh pyewq
 刑訴法	gheng soh puop
 划得來	ghwae teok leoj
-初中生	tsrhyo trung sraeng
+初中生	tsrhyo trung sryaeng
 初始化	tsrhyo sjyq hwaeh
 初學者	tsrhyo ghoeuk tjiaeq
 判例法	phanh liejh puop
@@ -29068,7 +29068,7 @@ use_preset_vocabulary: true
 古文明	koq mun myaeng
 古新統	koq sin thongh
 古玩店	koq ngwanh temh
-古生物	koq sraeng mut
+古生物	koq sryaeng mut
 古登堡	koq teong pawq
 古盜鳥	koq dawh tewq
 古縴道	koq khen dawq
@@ -29082,7 +29082,7 @@ use_preset_vocabulary: true
 叫花子	kewh hwae tsyq
 召集人	driewh dzip njin
 可倫坡	khaq lwin pha
-可再生	khaq tseojh sraeng
+可再生	khaq tseojh sryaeng
 可勁兒	khaq kiaengh njie
 可可米	khaq khaq mejq
 可塑性	khaq soh siaengh
@@ -29620,7 +29620,7 @@ use_preset_vocabulary: true
 多巴胺	ta pae qat
 多幕劇	ta mak gyaek
 多年來	ta nen leoj
-多年生	ta nen sraeng
+多年生	ta nen sryaeng
 多得是	ta teok djieq
 多方位	ta puang uih
 多方面	ta puang mienh
@@ -29929,7 +29929,7 @@ use_preset_vocabulary: true
 宣威市	swien quj djyq
 宣武門	swien muoq mon
 宣誓書	swien djiejh sjyo
-宰牲節	tseojq sraeng tset
+宰牲節	tseojq sryaeng tset
 害月子	ghajh nguot tsyq
 家八哥	kae peet ka
 家家酒	kae kae tsuq
@@ -29944,8 +29944,8 @@ use_preset_vocabulary: true
 寄件者	kyeh gyenq tjiaeq
 寄存器	kyeh dzon khyih
 寄物櫃	kyeh mut guih
-寄生物	kyeh sraeng mut
-寄生者	kyeh sraeng tjiaeq
+寄生物	kyeh sryaeng mut
+寄生者	kyeh sryaeng tjiaeq
 密山市	myit sreen djyq
 密歇根	myit hyot keon
 密特朗	myit deok langq
@@ -29973,7 +29973,7 @@ use_preset_vocabulary: true
 實幹家	zjit kanh kae
 實業家	zjit ngyop kae
 實況主	zjit huangh tjuoq
-實習生	zjit zip sraeng
+實習生	zjit zip sryaeng
 實際性	zjit tsiejh siaengh
 實驗室	zjit ngyemh sjit
 實驗所	zjit ngyemh sryoq
@@ -30058,7 +30058,7 @@ use_preset_vocabulary: true
 小娃娃	siewq qee qee
 小孩兒	siewq gheoj njie
 小孩子	siewq gheoj tsyq
-小學生	siewq ghoeuk sraeng
+小學生	siewq ghoeuk sryaeng
 小家鼠	siewq kae sjyoq
 小屁孩	siewq phih gheoj
 小年人	siewq nen njin
@@ -30136,7 +30136,7 @@ use_preset_vocabulary: true
 小黃瓜	siewq ghwang kwae
 小龍蝦	siewq luong ghae
 尖吻鱸	tsiem munq lo
-尖子生	tsiem tsyq sraeng
+尖子生	tsiem tsyq sryaeng
 尖石鄉	tsiem djiaek hyang
 尖管麵	tsiem kwanq menh
 尖草坪	tsiem tshawq byaeng
@@ -30477,7 +30477,7 @@ use_preset_vocabulary: true
 微晶片	muj tsiaeng phenh
 微機化	muj kyj hwaeh
 微波爐	muj pa lo
-微生物	muj sraeng mut
+微生物	muj sryaeng mut
 微粒體	muj lip thejq
 微血管	muj hwet kwanq
 微電子	muj denh tsyq
@@ -31012,7 +31012,7 @@ use_preset_vocabulary: true
 敏感性	myinq komq siaengh
 救撈局	kuh law guok
 救災款	kuh tseoj khwanq
-救生筏	kuh sraeng buot
+救生筏	kuh sryaeng buot
 救贖主	kuh zjuok tjuoq
 敖德薩	ngaw teok sat
 敖漢旗	ngaw hanh gy
@@ -31123,7 +31123,7 @@ use_preset_vocabulary: true
 新泰市	sin thajh djyq
 新澤西	sin draek sej
 新營市	sin jwiaeng djyq
-新生代	sin sraeng deojh
+新生代	sin sryaeng deojh
 新石器	sin djiaek khyih
 新社鄉	sin djiaeq hyang
 新竹市	sin truk djyq
@@ -31388,7 +31388,7 @@ use_preset_vocabulary: true
 本拉登	ponq lop teong
 本星期	ponq seng gy
 本溪市	ponq khej djyq
-本科生	ponq khwa sraeng
+本科生	ponq khwa sryaeng
 朱元璋	tjuo nguon tjyang
 朱利婭	tjuo lih qaeh
 朱利安	tjuo lih qan
@@ -31464,7 +31464,7 @@ use_preset_vocabulary: true
 杏仁體	ghaengq njin thejq
 杏花嶺	ghaengq hwae liaengq
 杏花村	ghaengq hwae tshon
-杜月笙	doq nguot sraeng
+杜月笙	doq nguot sryaeng
 杜荀鶴	doq swin ghak
 杜蕾斯	doq lojq sie
 杜鵑座	doq kwen dzwah
@@ -31698,7 +31698,7 @@ use_preset_vocabulary: true
 構想圖	kouh syangq do
 構詞學	kouh zy ghoeuk
 槭糖漿	tsuk dang tsyang
-槲寄生	ghouk kyeh sraeng
+槲寄生	ghouk kyeh sryaeng
 樓梯口	lou thej khouq
 樓梯臺	lou thej deoj
 樓梯間	lou thej keenh
@@ -32564,8 +32564,8 @@ use_preset_vocabulary: true
 特雷沃	deok loj qok
 特雷莎	deok loj swa
 特魯多	deok loq ta
-犧牲品	hye sraeng phyimq
-犧牲者	hye sraeng tjiaeq
+犧牲品	hye sryaeng phyimq
+犧牲者	hye sryaeng tjiaeq
 犯罪學	buomq dzojq ghoeuk
 犯罪者	buomq dzojq tjiaeq
 狀聲詞	dzryangh sjiaeng zy
@@ -32582,8 +32582,8 @@ use_preset_vocabulary: true
 狼牙山	lang ngae sreen
 猛勁兒	maengq kiaengh njie
 猜得透	tsheoj teok thouh
-猩紅熱	sraeng ghoung njiet
-猩紅色	sraeng ghoung sryk
+猩紅熱	sryaeng ghoung njiet
+猩紅色	sryaeng ghoung sryk
 猴孩子	ghou gheoj tsyq
 猴皮筋	ghou bye kyn
 猴麵包	ghou menh paew
@@ -34118,7 +34118,7 @@ use_preset_vocabulary: true
 落地籤	lak dih tshiem
 落基山	lak ky sreen
 落水管	lak sjwiq kwanq
-落花生	lak hwae sraeng
+落花生	lak hwae sryaeng
 落馬洲	lak maeq tju
 葛法翁	kat puop qoung
 葛縷子	kat luoq tsyq
@@ -35957,7 +35957,7 @@ use_preset_vocabulary: true
 黑浮鷗	heok bu qou
 黑澤明	heok draek myaeng
 黑煤玉	heok moj nguok
-黑猩猩	heok sraeng sraeng
+黑猩猩	heok sryaeng sryaeng
 黑琴雞	heok gyim kej
 黑百靈	heok paek leng
 黑皮諾	heok bye nak
@@ -36189,7 +36189,7 @@ use_preset_vocabulary: true
 七拼八湊	tshit peeng peet tshouh
 七政四餘	tshit tjiaengh sih jyo
 七旬老人	tshit zwin lawq njin
-七竅生煙	tshit khewh sraeng qen
+七竅生煙	tshit khewh sryaeng qen
 七老八十	tshit lawq peet djip
 七聲音階	tshit sjiaeng qyim keej
 七葷八素	tshit hun peet soh
@@ -36210,7 +36210,7 @@ use_preset_vocabulary: true
 三權鼎立	sam guen tengq lip
 三次方程	sam tshih puang driaeng
 三次曲線	sam tshih khuok sienh
-三生有幸	sam sraeng uq gheengq
+三生有幸	sam sryaeng uq gheengq
 三藩叛亂	sam puon banh lwanh
 三角戀愛	sam koeuk lwienh qeojh
 三貞九烈	sam triaeng kuq liet
@@ -36257,7 +36257,7 @@ use_preset_vocabulary: true
 亂七八糟	lwanh tshit peet tsaw
 亂成一團	lwanh djiaeng qit dwan
 亂臣賊子	lwanh djin dzeok tsyq
-了卻此生	lewq khyak tshieq sraeng
+了卻此生	lewq khyak tshieq sryaeng
 了無新意	lewq muo sin qyh
 二八佳人	njih peet kee njin
 二十一條	njih djip qit dew
@@ -36553,7 +36553,7 @@ use_preset_vocabulary: true
 健康受損	gyonh khang djuq sonq
 健康狀況	gyonh khang dzryangh huangh
 健美運動	gyonh myiq unh doungq
-側生動物	tsryk sraeng doungq mut
+側生動物	tsryk sryaeng doungq mut
 偷天換日	thou then ghwanh njit
 偷香竊玉	thou hyang tshet nguok
 傑伊漢港	gyet qi hanh koeungq
@@ -37032,7 +37032,7 @@ use_preset_vocabulary: true
 同軸圓弧	doung druk uen gho
 同軸電纜	doung druk denh lamh
 同途殊歸	doung do djuo kuj
-同配生殖	doung phojh sraeng djyk
+同配生殖	doung phojh sryaeng djyk
 名噪一時	miaeng sawh qit djy
 名存實亡	miaeng dzon zjit muang
 名揚四海	miaeng jyang sih heojq
@@ -37404,7 +37404,7 @@ use_preset_vocabulary: true
 好整以暇	hawh tjiaengq jyq ghaeh
 妖魔鬼怪	qyew ma kujq kweejh
 妙手回春	miewh sjuq ghoj tjhwin
-妙筆生花	miewh pyit sraeng hwae
+妙筆生花	miewh pyit sryaeng hwae
 姆巴巴納	mouh pae pae nop
 姍姍來遲	san san leoj dri
 姑妄言之	ko muangh ngyon tjy
@@ -37899,7 +37899,7 @@ use_preset_vocabulary: true
 忽魯謨斯	hot loq mo sie
 怡然自得	jy njien dzih teok
 怡顏悅色	jy ngaen jwiet sryk
-急中生智	kyip trung sraeng trieh
+急中生智	kyip trung sryaeng trieh
 急如星火	kyip njyo seng hwaq
 急急忙忙	kyip kyip mang mang
 急性腸炎	kyip siaengh dryang yem
@@ -37928,7 +37928,7 @@ use_preset_vocabulary: true
 悲天憫人	pyi then myinq njin
 情同骨肉	dziaeng doung kot njuk
 情境模型	dziaeng kyaengq mo gheng
-情急智生	dziaeng kyip trieh sraeng
+情急智生	dziaeng kyip trieh sryaeng
 情有可原	dziaeng uq khaq nguon
 情有獨鍾	dziaeng uq douk tjuong
 情竇初開	dziaeng douh tsrhyo kheoj
@@ -37993,7 +37993,7 @@ use_preset_vocabulary: true
 應用物理	qyngh juongh mut lyq
 應用程式	qyngh juongh driaeng sjyk
 應用軟件	qyngh juongh njwienq gyenq
-應運而生	qyngh unh njy sraeng
+應運而生	qyngh unh njy sryaeng
 懲一警百	dryng qit kyaengq paek
 懵懵懂懂	moungq moungq toungq toungq
 懶得搭理	lanq teok thap lyq
@@ -38289,7 +38289,7 @@ use_preset_vocabulary: true
 日本黑道	njit ponq heok dawq
 日無暇晷	njit muo ghaeh kuiq
 日落西山	njit lak sej sreen
-日落風生	njit lak pung sraeng
+日落風生	njit lak pung sryaeng
 日薄崦嵫	njit bak qyem tsy
 日電電子	njit denh denh tsyq
 早睡早起	tsawq djwieh tsawq khyq
@@ -38531,7 +38531,7 @@ use_preset_vocabulary: true
 栗頭雀鶥	lit dou tsyak myi
 栗頰噪鶥	lit kep sawh myi
 栗額鶪鶥	lit ngaek kwek myi
-栩栩如生	huoq huoq njyo sraeng
+栩栩如生	huoq huoq njyo sryaeng
 核子醫學	gheek tsyq qy ghoeuk
 核對帳目	gheek tojh tryangh muk
 核糖核酸	gheek dang gheek swan
@@ -38635,7 +38635,7 @@ use_preset_vocabulary: true
 歸心似箭	kuj sim zyq tsienh
 歸根到底	kuj keon tawh tejq
 歸根結底	kuj keon ket tejq
-死中求生	siq trung gu sraeng
+死中求生	siq trung gu sryaeng
 死乞白賴	siq khyt baek lajh
 死亡筆記	siq muang pyit kyh
 死心踏地	siq sim thop dih
@@ -38712,7 +38712,7 @@ use_preset_vocabulary: true
 河外星雲	gha ngwajh seng un
 河豚毒素	gha don dok soh
 沸沸揚揚	pujh pujh jyang jyang
-油然而生	ju njien njy sraeng
+油然而生	ju njien njy sryaeng
 治國理政	dry kweok lyq tjiaengh
 沼澤地帶	tjiewq draek dih tajh
 沼澤山雀	tjiewq draek sreen tsyak
@@ -39277,7 +39277,7 @@ use_preset_vocabulary: true
 白雪公主	baek swiet koung tjuoq
 白雪皚皚	baek swiet ngeoj ngeoj
 白雲機場	baek un kyj dryang
-白面書生	baek mienh sjyo sraeng
+白面書生	baek mienh sjyo sryaeng
 白頂玄鷗	baek tengq ghwen qou
 白項鳳鶥	baek ghoeungq bungh myi
 白領八哥	baek liaengq peet ka
@@ -39953,7 +39953,7 @@ use_preset_vocabulary: true
 芳香療法	phuang hyang liewh puop
 苛捐雜稅	gha jwien dzop sjwiejh
 苯甲酸鈉	ponq kaep swan njwiejh
-英勇犧牲	qyaeng juongq hye sraeng
+英勇犧牲	qyaeng juongq hye sryaeng
 英國石油	qyaeng kweok djiaek ju
 英姿颯爽	qyaeng tsi sop sryangq
 英年早逝	qyaeng nen tsawq djiejh
@@ -40055,7 +40055,7 @@ use_preset_vocabulary: true
 蘭斯洛特	lan sie lak deok
 蘭新鐵路	lan sin thet loh
 蘭開斯特	lan kheoj sie deok
-虎口餘生	hoq khouq jyo sraeng
+虎口餘生	hoq khouq jyo sryaeng
 虎尾春冰	hoq mujq tjhwin pying
 虎斑地鶇	hoq paen dih toung
 虎斑鸚鵡	hoq paen qeeng muoq
@@ -40279,7 +40279,7 @@ use_preset_vocabulary: true
 赫福特郡	haek puk deok gunh
 赫耳墨斯	haek njyq meok sie
 起早貪黑	khyq tsawq thom heok
-起死回生	khyq siq ghoj sraeng
+起死回生	khyq siq ghoj sryaeng
 起落裝置	khyq lak tsryang tryh
 超乎尋常	trhiew gho zim djyang
 超導電性	trhiew dawh denh siaengh
@@ -40915,7 +40915,7 @@ use_preset_vocabulary: true
 鬥私批修	touh si phej su
 鬱鬱寡歡	qut qut kwaeq hwan
 鬼斧神工	kujq puoq zjin koung
-鬼由心生	kujq ju sim sraeng
+鬼由心生	kujq ju sim sryaeng
 鬼計多端	kujq kejh ta twan
 鬼話連篇	kujq ghwaejh lien phien
 鬼迷心竅	kujq mej sim khewh
@@ -41175,7 +41175,7 @@ use_preset_vocabulary: true
 口技表演者	khouq gyeq pyewq jienq tjiaeq
 古傑拉特邦	koq gyet lop deok poeung
 古吉拉特邦	koq kit lop deok poeung
-古生物學家	koq sraeng mut ghoeuk kae
+古生物學家	koq sryaeng mut ghoeuk kae
 可持續發展	khaq dry zuok puot trienq
 史前古器物	sryq dzen koq khyih mut
 司馬遼太郎	sy maeq lew thajh lang
@@ -41259,7 +41259,7 @@ use_preset_vocabulary: true
 字根通用碼	dzyh keon thoung juongh maeq
 存款准備金	dzon khwanq tjwinq byih kyim
 學而優則仕	ghoeuk njy qu tseok dzryq
-宇宙生成論	uoq druh sraeng djiaeng lonh
+宇宙生成論	uoq druh sryaeng djiaeng lonh
 安納波利斯	qan nop pa lih sie
 宋武帝劉裕	songh muoq tejh lu juoh
 完形心理學	ghwan gheng sim lyq ghoeuk
@@ -41317,7 +41317,7 @@ use_preset_vocabulary: true
 彭博通訊社	baeng pak thoung sinh djiaeq
 徐霞客遊記	zyo ghae khaek ju kyh
 得克薩斯州	teok kheok sat sie tju
-微生物學家	muj sraeng mut ghoeuk kae
+微生物學家	muj sryaeng mut ghoeuk kae
 德克薩斯州	teok kheok sat sie tju
 德古西加巴	teok koq sej kae pae
 德謨克拉西	teok mo kheok lop sej
@@ -41359,7 +41359,7 @@ use_preset_vocabulary: true
 新西伯利亞	sin sej paek lih qaeh
 日本共同社	njit ponq guongh doung djiaeq
 日本松雀鷹	njit ponq zuong tsyak qyng
-早死早超生	tsawq siq tsawq trhiew sraeng
+早死早超生	tsawq siq tsawq trhiew sryaeng
 春江花月夜	tjhwin koeung hwae nguot jiaeh
 普羅維登斯	phoq la jwi teong sie
 普通老百姓	phoq thoung lawq paek siaengh
@@ -41723,8 +41723,8 @@ use_preset_vocabulary: true
 黑額山噪鶥	heok ngaek sreen sawh myi
 點對點加密	temq tojh temq kae myit
 一個中國政策	qit kah trung kweok tjiaengh tsrheek
-一回生二回熟	qit ghoj sraeng njih ghoj djuk
-一回生兩回熟	qit ghoj sraeng lyangq ghoj djuk
+一回生二回熟	qit ghoj sryaeng njih ghoj djuk
+一回生兩回熟	qit ghoj sryaeng lyangq ghoj djuk
 一掬同情之淚	qit kuk doung dziaeng tjy lwih
 一條道走到黑	qit dew dawq tsouq tawh heok
 一步一個腳印	qit boh qit kah kyak qinh
@@ -41971,11 +41971,11 @@ use_preset_vocabulary: true
 銷售時點情報系統	siew djuh djy temq dziaeng pawh ghejh thongh
 順我者昌逆我者亡	zjwinh ngaq tjiaeq tjhyang ngyaek ngaq tjiaeq muang
 黃花崗七十二烈士	ghwang hwae kang tshit djip njih liet dzryq
-海森堡不确定性原理	heojq sryim pawq put ghoeuk dengh siaengh nguon lyq
-馬爾可夫鏈蒙特卡洛	maeq njieq khaq puo lien moung deok khaeq lak
 二十年目睹之怪現狀	njih djip nen muk toq tjy kweejh ghenh dzryangh
 司馬昭之心路人皆知	sy maeq tjiew tjy sim loh njin keej trie
 埃文河畔斯特拉特福	qeoj mun gha banh sie deok lop deok puk
+海森堡不确定性原理	heojq sryim pawq put ghoeuk dengh siaengh nguon lyq
 溫布爾登網球公開賽	qon poh njieq teong muangq gu koung kheoj seojh
+馬爾可夫鏈蒙特卡洛	maeq njieq khaq puo lien moung deok khaeq lak
 巴勒斯坦民族權力機構	pae leok sie thanq min dzouk guen lyk kyj kouh
 布魯克海文國家實驗室	poh loq kheok heojq mun kweok kae zjit ngyemh sjit
