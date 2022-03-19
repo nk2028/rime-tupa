@@ -62,7 +62,7 @@ speller:
     - "xform/'//"
     - abbrev/^([a-z]).+$/$1/
     - abbrev/^([^aeiouyw]+).+$/$1/
-    - abbrev/[xh]$//
+    - abbrev/[qh]$// # 聲調
 
 translator:
   dictionary: tshet
