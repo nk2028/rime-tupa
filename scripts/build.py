@@ -1,8 +1,8 @@
 with open('cache/kyonh.txt') as f:
     kyonh2descr = dict(line.rstrip('\n').split('\t')[::-1] for line in f)
 
-with open('cache/tshet.txt') as f:
-    descr2tshet = dict(line.rstrip('\n').split('\t') for line in f)
+with open('cache/tupa.txt') as f:
+    descr2tupa = dict(line.rstrip('\n').split('\t') for line in f)
 
 def do(fin, fout, ferr):
     # header
@@ -13,7 +13,7 @@ def do(fin, fout, ferr):
             print(line, file=fout)
             break
 
-        line = line.replace('kyonh', 'tshet')
+        line = line.replace('kyonh', 'tupa')
         print(line, file=fout)
 
     # data
@@ -27,7 +27,7 @@ def do(fin, fout, ferr):
         word, romans, *extras = line.split('\t')
 
         try:
-            romans = ' '.join(descr2tshet[kyonh2descr[roman]] for roman in romans.split(' '))
+            romans = ' '.join(descr2tupa[kyonh2descr[roman]] for roman in romans.split(' '))
             print(word, romans, *extras, sep='\t', file=fout)
         except KeyError:
             for c, roman in zip(word, romans.split(' ')):
@@ -36,7 +36,7 @@ def do(fin, fout, ferr):
 
 
 with open('cache/unhandled2.txt', 'w') as ferr:
-    with open('../rime-kyonh/kyonh.dict.yaml') as fin, open('tshet.dict.yaml', 'w') as fout:
+    with open('../rime-kyonh/kyonh.dict.yaml') as fin, open('tupa.dict.yaml', 'w') as fout:
         do(fin, fout, ferr)
-    with open('../rime-kyonh/kyonh.words.dict.yaml') as fin, open('tshet.words.dict.yaml', 'w') as fout:
+    with open('../rime-kyonh/kyonh.words.dict.yaml') as fin, open('tupa.words.dict.yaml', 'w') as fout:
         do(fin, fout, ferr)

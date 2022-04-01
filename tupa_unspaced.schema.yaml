@@ -2,7 +2,7 @@
 # encoding: UTF-8
 
 schema:
-  schema_id: tshet_unspaced
+  schema_id: tupa_unspaced
   name: 無空格切韻拼音
   version: "0.1"
 
@@ -23,7 +23,7 @@ speller:
     - xform/[=]//
 
 translator:
-  dictionary: tshet_unspaced
+  dictionary: tupa_unspaced
   spelling_hints: 20
   comment_format:
     - xform/=/ /

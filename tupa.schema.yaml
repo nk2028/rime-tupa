@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: tshet
+  schema_id: tupa
   name: 切韻拼音
   version: "2021.03.26"
   author:
@@ -14,7 +14,7 @@ schema:
   dependencies:
     - luna_pinyin
     - jyut6ping3
-    - tshet_unspaced
+    - tupa_unspaced
 
 switches:
   - name: ascii_mode
@@ -53,7 +53,7 @@ engine:
   filters:
     - simplifier
     - uniquifier
-    - reverse_lookup_filter@tshet_reverse_lookup
+    - reverse_lookup_filter@tupa_reverse_lookup
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
@@ -65,7 +65,7 @@ speller:
     - abbrev/[qh]$// # 聲調
 
 translator:
-  dictionary: tshet
+  dictionary: tupa
   spelling_hints: 8
   comment_format:
     - "xform/$/\u200b/" # 永遠顯示拼音
@@ -88,10 +88,10 @@ jyut6ping3:
   suffix: ";"
   tips: 〔粵語〕
 
-tshet_reverse_lookup:
+tupa_reverse_lookup:
   tags: [ luna_pinyin, jyut6ping3 ]
   overwrite_comment: false
-  dictionary: tshet_unspaced
+  dictionary: tupa_unspaced
   comment_format:
     - xform/=/ /
 

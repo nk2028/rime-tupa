@@ -1,9 +1,9 @@
 import fs from 'fs';
 import Qieyun from 'qieyun';
-import { kyonh, tshet } from 'qieyun-examples';
+import { kyonh, tupa } from 'qieyun-examples';
 
 const kyonh_map = [];
-const tshet_map = [];
+const tupa_map = [];
 
 function* 生成音韻地位() {
     yield* Qieyun.iter音韻地位();
@@ -33,11 +33,11 @@ for (const 音韻地位 of 生成音韻地位()) {
     const { 最簡描述 } = 音韻地位;
 
     const kyonh_ = kyonh_override[最簡描述] || kyonh(音韻地位);
-    const tshet_ = tshet(音韻地位);
+    const tupa_ = tupa(音韻地位);
 
     kyonh_map.push(最簡描述 + '\t' + kyonh_);
-    tshet_map.push(最簡描述 + '\t' + tshet_);
+    tupa_map.push(最簡描述 + '\t' + tupa_);
 }
 
 fs.writeFileSync('cache/kyonh.txt', kyonh_map.join('\n') + '\n');
-fs.writeFileSync('cache/tshet.txt', tshet_map.join('\n') + '\n');
+fs.writeFileSync('cache/tupa.txt', tupa_map.join('\n') + '\n');

@@ -2,12 +2,12 @@
 # encoding: utf-8
 
 ---
-name: tshet
+name: tupa
 version: "20201015-rev20220316-3"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
-  - tshet.words
+  - tupa.words
 ...
 
 〇	leng
