@@ -998,7 +998,7 @@ import_tables:
 㱿	khoeuk
 㲀	dzryin
 㲀	tjin
-㲃	khu
+㲃	khyiw
 㲃	kuh
 㲄	khouk
 㲅	kejh
@@ -3966,6 +3966,7 @@ import_tables:
 倃	guq
 倃	kaw
 倄	ghaew
+倄	uojq
 倅	tshojh
 倅	tsot
 倆	lyangq
@@ -7722,7 +7723,8 @@ import_tables:
 恕	sjyoh
 恖	sy
 恗	ho
-恘	khu
+恘	khyiw
+𰀧	khyiw
 恙	jyangh
 恚	qwieh
 恜	trhyk
@@ -8303,7 +8305,7 @@ import_tables:
 抏	ngwan
 抐	nonh
 抐	not
-抑	qyk
+抑	qyik
 抒	zjyoq
 抒	zyoq
 抓	tsraew
@@ -11761,7 +11763,7 @@ import_tables:
 烄	kawh
 烈	liet
 烊	jyang
-烋	hiw
+烋	hyiw
 烏	qo
 烑	jiew
 烒	sjyk
@@ -12053,7 +12055,7 @@ import_tables:
 父	puoq	10%
 爸	baq
 爹	daq	50%
-爹	tiae
+爹	triae
 爺	jiae
 爻	ghaew
 爽	sryangq
@@ -22437,7 +22439,7 @@ import_tables:
 𠁁	douq
 𠁥	kwaeq
 𠁥	kweeq
-𠁫	khu
+𠁫	khyiw
 𠁭	gie
 𠂄	hwan
 𠂆	jiejh
@@ -22854,7 +22856,7 @@ import_tables:
 𡈣	swien
 𡈼	thengq
 𡉚	puong
-𡊁	qyk
+𡊁	qyik
 𡊄	pun
 𡊅	punh
 𡊉	mat
