@@ -643,6 +643,7 @@ import_tables:
 㧁	khop
 㧁	khyoh
 㧁	kop
+㧄	khyomq
 㧆	kynh
 㧉	keojh
 㧊	phat
@@ -998,7 +999,7 @@ import_tables:
 㱿	khoeuk
 㲀	dzryin
 㲀	tjin
-㲃	khu
+㲃	khyiw
 㲃	kuh
 㲄	khouk
 㲅	kejh
@@ -1967,6 +1968,7 @@ import_tables:
 䎄	hew
 䎈	jiejh
 䎌	tsrhuk
+䎎	nryop
 䎑	louk
 䎒	tjienq
 䎒	tsraenq
@@ -3695,8 +3697,7 @@ import_tables:
 令	liaengh
 令	lien
 以	jyq
-仨	sam
-仨	sap
+仨	sa
 仫	moh
 仯	tsrhaewh
 仯	tsrhaewq
@@ -3955,7 +3956,7 @@ import_tables:
 俸	buongh
 俸	poungq
 俹	qaeh
-俺	qomq
+俺	ngomq
 俺	qyemh	2%
 俺	qyomh	2%
 俻	byih
@@ -3966,9 +3967,11 @@ import_tables:
 倃	guq
 倃	kaw
 倄	ghaew
+倄	uojq
 倅	tshojh
 倅	tsot
 倆	lyangq
+倆	lyaq
 倇	quonq
 倈	ly
 倉	tshang
@@ -4042,7 +4045,7 @@ import_tables:
 偈	gyet
 偉	ujq
 偋	biaengh
-偌	njah
+偌	njiaeh
 偎	qoj
 偏	phien
 偏	phienh
@@ -4433,6 +4436,7 @@ import_tables:
 凰	ghwang
 凱	kheojq
 凳	teongh
+凵	khyomq
 凶	huong
 凷	khojh
 凷	khwajh
@@ -4719,6 +4723,7 @@ import_tables:
 匴	swanq
 匵	douk
 匶	guh
+匸	ghejq
 匹	phit
 医	qejh
 匽	qyonh
@@ -5030,6 +5035,7 @@ import_tables:
 咉	qangq
 咊	ghwa
 咋	dzraek
+咋	tsaq	90%
 咋	tsraeh
 咋	tsreek
 和	ghwa
@@ -5074,6 +5080,7 @@ import_tables:
 咮	truoh
 咯	kak
 咰	sruit
+咱	dza
 咱	dzom
 咳	gheoj
 咳	kheok
@@ -5246,7 +5253,7 @@ import_tables:
 啡	phojq
 啣	ghaem
 啤	bie
-啥	sjiaeq
+啥	djiaeq
 啦	lop
 啪	phaek
 啵	pa
@@ -5375,6 +5382,7 @@ import_tables:
 嗩	swaq
 嗪	dzin
 嗯	qeon
+嗲	tiaeq
 嗵	thoung
 嗶	pit
 嗷	ngaw
@@ -6202,6 +6210,7 @@ import_tables:
 妜	qwet
 妜	qwiet
 妝	tsryang
+妞	nruq
 妠	nomh
 妠	nop
 妠	nrwaet
@@ -6238,6 +6247,7 @@ import_tables:
 姁	huoh
 姁	huoq
 姂	buop
+姂	khyop
 姂	phuomh
 姅	panh
 姅	phanh
@@ -6614,7 +6624,7 @@ import_tables:
 孎	troeuk
 孎	truok
 子	tsyq
-孑	kyet
+孑	kiet
 孒	kuongq
 孒	kuot
 孒	kut
@@ -7577,6 +7587,7 @@ import_tables:
 徭	jiew
 微	muj
 徯	ghej
+徯	ghejq
 徵	tryng
 徵	tryq	20%
 德	teok
@@ -7648,7 +7659,7 @@ import_tables:
 怋	mon
 怌	phyi
 怍	dzak
-怎	tsryimq
+怎	tsoimq
 怏	qyangh
 怏	qyangq
 怐	houh
@@ -7722,7 +7733,7 @@ import_tables:
 恕	sjyoh
 恖	sy
 恗	ho
-恘	khu
+恘	khyiw
 恙	jyangh
 恚	qwieh
 恜	trhyk
@@ -7792,7 +7803,7 @@ import_tables:
 悠	ju
 悢	lyangh
 患	ghwaenh
-您	nrim
+您	nrimq
 悮	ngoh
 悰	dzong
 悱	phujq
@@ -7822,7 +7833,7 @@ import_tables:
 惃	konq
 惄	nek
 情	dziaeng
-惆	khu
+惆	khyiw
 惆	trhu
 惇	tjwin
 惇	ton
@@ -8303,7 +8314,7 @@ import_tables:
 抏	ngwan
 抐	nonh
 抐	not
-抑	qyk
+抑	qyik
 抒	zjyoq
 抒	zyoq
 抓	tsraew
@@ -8365,7 +8376,7 @@ import_tables:
 拍	phaek
 拎	leng
 拏	nrae
-拐	geeq
+拐	kweeq
 拑	gyem
 拒	gyoq
 拓	thak
@@ -8405,6 +8416,7 @@ import_tables:
 拺	tsrheek
 拼	peeng
 拼	pheng
+拼	piaeng
 拽	djiejh
 拽	jiet
 拾	djip
@@ -8745,7 +8757,6 @@ import_tables:
 摐	tsrhoeung
 摑	kweek
 摒	piaengh
-摔	srui
 摔	sruit
 摕	dejh
 摕	det
@@ -8804,7 +8815,7 @@ import_tables:
 摽	biewq
 摽	phiew
 摽	phiewh
-撂	lyak
+撂	lewh
 撅	guot	2%
 撅	kuot
 撆	phet
@@ -8906,7 +8917,7 @@ import_tables:
 擡	deoj
 擢	droeuk
 擣	tawq
-擤	siaengq
+擤	haengq
 擥	lamq
 擦	tshat
 擦	tsrheet
@@ -9175,7 +9186,8 @@ import_tables:
 早	tsawq
 旬	zwin
 旭	huok
-旮	kae
+旮	koeuk
+旯	lak
 旰	kanh
 旱	ghanq
 旴	huo
@@ -10967,6 +10979,7 @@ import_tables:
 浾	tsrae
 浿	phajh
 浿	pheejh
+涀	ghejq
 涀	ghenh
 涀	khenh
 涂	do
@@ -11099,7 +11112,7 @@ import_tables:
 淺	tshienq
 添	them
 淼	miewq
-渃	njah
+渃	njiaeh
 清	tshiaeng
 渌	louk
 渌	luok
@@ -12280,6 +12293,7 @@ import_tables:
 猱	nruh
 猲	hat
 猲	hyot
+猲	khyop
 猳	kae
 猴	ghou
 猵	binq
@@ -12733,7 +12747,7 @@ import_tables:
 甥	sryaeng
 甦	so
 用	juongh
-甩	srueq
+甩	sruit
 甪	louk
 甫	puoq
 甬	juongq
@@ -14243,7 +14257,7 @@ import_tables:
 箄	pieq
 箅	pejh
 箇	kah
-箉	geeq
+箉	deeq
 箊	qyo
 箋	tsen
 箍	ko
@@ -17803,8 +17817,8 @@ import_tables:
 訍	tsrheeh
 討	thawq
 訏	huo
+訐	kiet
 訐	kyejh
-訐	kyet
 訐	kyot
 訒	njinh
 訓	hunh
@@ -18108,6 +18122,7 @@ import_tables:
 謏	souq
 謏	sruk
 謐	mit
+謑	ghejq
 謑	haeh
 謑	heeh
 謒	tshyang
@@ -18547,8 +18562,8 @@ import_tables:
 越	uot	99%
 趌	gyit
 趌	khit
+趌	kiet
 趌	kit
-趌	kyet
 趍	drie
 趍	tshuo
 趎	druo
@@ -18635,6 +18650,7 @@ import_tables:
 跐	tsryeq
 跑	baew
 跑	boeuk
+跑	phaewq	95%
 跒	khaeq
 跓	druoq
 跔	kuo
@@ -20259,6 +20275,7 @@ import_tables:
 閒	gheen	1%
 閒	keen	99%
 閒	keenh
+間	keen
 間	keenh	99%
 閔	myinq
 閘	kap
@@ -20792,6 +20809,7 @@ import_tables:
 韹	ghwaeng
 韹	ghwang
 韺	qyaeng
+韻	uinh
 韻	unh
 韽	qeemh
 韽	qom
@@ -22437,7 +22455,7 @@ import_tables:
 𠁁	douq
 𠁥	kwaeq
 𠁥	kweeq
-𠁫	khu
+𠁫	khyiw
 𠁭	gie
 𠂄	hwan
 𠂆	jiejh
@@ -22534,6 +22552,7 @@ import_tables:
 𠐾	khy
 𠐿	hweong
 𠑅	treeng
+𠑆	trhyomq
 𠑗	sien
 𠑘	ten
 𠑟	pen
@@ -22854,7 +22873,7 @@ import_tables:
 𡈣	swien
 𡈼	thengq
 𡉚	puong
-𡊁	qyk
+𡊁	qyik
 𡊄	pun
 𡊅	punh
 𡊉	mat
@@ -23002,7 +23021,7 @@ import_tables:
 𡤫	khae
 𡤬	quak
 𡤯	lwi
-𡤼	kyet
+𡤼	kiet
 𡥀	pawq
 𡥆	hawh
 𡥈	kaewh
@@ -23117,6 +23136,7 @@ import_tables:
 𡶫	nget
 𡷘	byet
 𡷛	ghanq
+𡷝	nryop
 𡷡	qwien
 𡷥	khok
 𡷨	kheeng
@@ -23996,6 +24016,7 @@ import_tables:
 𣹬	ghouk
 𣹮	phejh
 𣹲	dej
+𣹵	nryop
 𣺬	hwang
 𣻎	khou
 𣻎	khouh
@@ -24522,6 +24543,7 @@ import_tables:
 𥉈	thek
 𥉋	deong
 𥉍	tjhy
+𥉐	ghejq
 𥉑	ghak
 𥉑	juk
 𥉓	met
@@ -24799,6 +24821,7 @@ import_tables:
 𥰠	lyoq
 𥰢	sjienh
 𥰣	lu
+𥰥	ghejq
 𥰨	dam
 𥰭	dza
 𥰭	tsraeq
@@ -25068,6 +25091,7 @@ import_tables:
 𦑜	keek
 𦑟	hweeng
 𦑡	djie
+𦑣	trhyop
 𦑲	dap
 𦑹	buo
 𦒆	lop
@@ -25273,6 +25297,7 @@ import_tables:
 𦩣	khejh
 𦩤	dot
 𦩨	tsin
+𦩶	ghejq
 𦩻	triew
 𦪆	gy
 𦪇	louk
@@ -25827,7 +25852,7 @@ import_tables:
 𧦪	byenq
 𧦭	thwa
 𧦮	nrae
-𧧏	njah
+𧧏	njiaeh
 𧧒	tshieh
 𧧗	huong
 𧧢	huangq
@@ -25841,6 +25866,7 @@ import_tables:
 𧨀	swa
 𧨁	tsiae
 𧨃	hek
+𧨍	ghejq
 𧨫	haengh
 𧨹	luok
 𧩦	kyk
@@ -26115,6 +26141,7 @@ import_tables:
 𨇆	lajh
 𨇈	trih
 𨇙	kuejh
+𨇧	trhyomq
 𨇨	set
 𨇮	kuot
 𨇯	sroeung
@@ -26354,7 +26381,7 @@ import_tables:
 𨣼	tshoung
 𨤐	mie
 𨤩	trhuong
-𨥂	kyet
+𨥂	kiet
 𨥥	kwaengq
 𨥦	dzej
 𨥳	dzej
@@ -27673,7 +27700,7 @@ import_tables:
 姥爺	lawq jiae
 嫪毐	lawh qeojq
 子女	tsyq nryoq
-孑孓	kyet kuongq
+孑孓	kiet kuongq
 孝弟	haewh dejh
 孝悌	haewh dejh
 學校	ghoeuk ghaewh
@@ -28243,8 +28270,8 @@ import_tables:
 質押	trih qaep
 質樸	tjit phoeuk
 質量	tjit lyangh
-跑圈	baew khuen
-跑調	baew dewh
+跑圈	phaewq khuen
+跑調	phaewq dewh
 身分	sjin bunh
 車主	tjhiae tjuoq
 車票	tjhiae phiewh
