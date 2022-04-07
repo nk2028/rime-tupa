@@ -2,6 +2,6 @@
     "private": true,
     "type": "module",
     "devDependencies": {
-        "qieyun-examples": "^20220316.0.0"
+        "qieyun-examples": "^20220407.0.0"
     }
 }
