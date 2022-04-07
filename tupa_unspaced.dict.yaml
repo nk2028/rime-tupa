@@ -644,6 +644,7 @@ sort: by_weight
 㧁	khop
 㧁	khyoh
 㧁	kop
+㧄	khyomq
 㧆	kynh
 㧉	keojh
 㧊	phat
@@ -1968,6 +1969,7 @@ sort: by_weight
 䎄	hew
 䎈	jiejh
 䎌	tsrhuk
+䎎	nryop
 䎑	louk
 䎒	tjienq
 䎒	tsraenq
@@ -3696,8 +3698,7 @@ sort: by_weight
 令	liaengh
 令	lien
 以	jyq
-仨	sam
-仨	sap
+仨	sa
 仫	moh
 仯	tsrhaewh
 仯	tsrhaewq
@@ -3956,7 +3957,7 @@ sort: by_weight
 俸	buongh
 俸	poungq
 俹	qaeh
-俺	qomq
+俺	ngomq
 俺	qyemh	2%
 俺	qyomh	2%
 俻	byih
@@ -3967,9 +3968,11 @@ sort: by_weight
 倃	guq
 倃	kaw
 倄	ghaew
+倄	uojq
 倅	tshojh
 倅	tsot
 倆	lyangq
+倆	lyaq
 倇	quonq
 倈	ly
 倉	tshang
@@ -4043,7 +4046,7 @@ sort: by_weight
 偈	gyet
 偉	ujq
 偋	biaengh
-偌	njah
+偌	njiaeh
 偎	qoj
 偏	phien
 偏	phienh
@@ -4434,6 +4437,7 @@ sort: by_weight
 凰	ghwang
 凱	kheojq
 凳	teongh
+凵	khyomq
 凶	huong
 凷	khojh
 凷	khwajh
@@ -4720,6 +4724,7 @@ sort: by_weight
 匴	swanq
 匵	douk
 匶	guh
+匸	ghejq
 匹	phit
 医	qejh
 匽	qyonh
@@ -5031,6 +5036,7 @@ sort: by_weight
 咉	qangq
 咊	ghwa
 咋	dzraek
+咋	tsaq	90%
 咋	tsraeh
 咋	tsreek
 和	ghwa
@@ -5075,6 +5081,7 @@ sort: by_weight
 咮	truoh
 咯	kak
 咰	sruit
+咱	dza
 咱	dzom
 咳	gheoj
 咳	kheok
@@ -5247,7 +5254,7 @@ sort: by_weight
 啡	phojq
 啣	ghaem
 啤	bie
-啥	sjiaeq
+啥	djiaeq
 啦	lop
 啪	phaek
 啵	pa
@@ -5376,6 +5383,7 @@ sort: by_weight
 嗩	swaq
 嗪	dzin
 嗯	qeon
+嗲	tiaeq
 嗵	thoung
 嗶	pit
 嗷	ngaw
@@ -6203,6 +6211,7 @@ sort: by_weight
 妜	qwet
 妜	qwiet
 妝	tsryang
+妞	nruq
 妠	nomh
 妠	nop
 妠	nrwaet
@@ -6239,6 +6248,7 @@ sort: by_weight
 姁	huoh
 姁	huoq
 姂	buop
+姂	khyop
 姂	phuomh
 姅	panh
 姅	phanh
@@ -6615,7 +6625,7 @@ sort: by_weight
 孎	troeuk
 孎	truok
 子	tsyq
-孑	kyet
+孑	kiet
 孒	kuongq
 孒	kuot
 孒	kut
@@ -7578,6 +7588,7 @@ sort: by_weight
 徭	jiew
 微	muj
 徯	ghej
+徯	ghejq
 徵	tryng
 徵	tryq	20%
 德	teok
@@ -7649,7 +7660,7 @@ sort: by_weight
 怋	mon
 怌	phyi
 怍	dzak
-怎	tsryimq
+怎	tsoimq
 怏	qyangh
 怏	qyangq
 怐	houh
@@ -7793,7 +7804,7 @@ sort: by_weight
 悠	ju
 悢	lyangh
 患	ghwaenh
-您	nrim
+您	nrimq
 悮	ngoh
 悰	dzong
 悱	phujq
@@ -8304,7 +8315,7 @@ sort: by_weight
 抏	ngwan
 抐	nonh
 抐	not
-抑	qyk
+抑	qyik
 抒	zjyoq
 抒	zyoq
 抓	tsraew
@@ -8366,7 +8377,7 @@ sort: by_weight
 拍	phaek
 拎	leng
 拏	nrae
-拐	geeq
+拐	kweeq
 拑	gyem
 拒	gyoq
 拓	thak
@@ -8406,6 +8417,7 @@ sort: by_weight
 拺	tsrheek
 拼	peeng
 拼	pheng
+拼	piaeng
 拽	djiejh
 拽	jiet
 拾	djip
@@ -8746,7 +8758,6 @@ sort: by_weight
 摐	tsrhoeung
 摑	kweek
 摒	piaengh
-摔	srui
 摔	sruit
 摕	dejh
 摕	det
@@ -8805,7 +8816,7 @@ sort: by_weight
 摽	biewq
 摽	phiew
 摽	phiewh
-撂	lyak
+撂	lewh
 撅	guot	2%
 撅	kuot
 撆	phet
@@ -8907,7 +8918,7 @@ sort: by_weight
 擡	deoj
 擢	droeuk
 擣	tawq
-擤	siaengq
+擤	haengq
 擥	lamq
 擦	tshat
 擦	tsrheet
@@ -9176,7 +9187,8 @@ sort: by_weight
 早	tsawq
 旬	zwin
 旭	huok
-旮	kae
+旮	koeuk
+旯	lak
 旰	kanh
 旱	ghanq
 旴	huo
@@ -10968,6 +10980,7 @@ sort: by_weight
 浾	tsrae
 浿	phajh
 浿	pheejh
+涀	ghejq
 涀	ghenh
 涀	khenh
 涂	do
@@ -11100,7 +11113,7 @@ sort: by_weight
 淺	tshienq
 添	them
 淼	miewq
-渃	njah
+渃	njiaeh
 清	tshiaeng
 渌	louk
 渌	luok
@@ -12281,6 +12294,7 @@ sort: by_weight
 猱	nruh
 猲	hat
 猲	hyot
+猲	khyop
 猳	kae
 猴	ghou
 猵	binq
@@ -12734,7 +12748,7 @@ sort: by_weight
 甥	sryaeng
 甦	so
 用	juongh
-甩	srueq
+甩	sruit
 甪	louk
 甫	puoq
 甬	juongq
@@ -14244,7 +14258,7 @@ sort: by_weight
 箄	pieq
 箅	pejh
 箇	kah
-箉	geeq
+箉	deeq
 箊	qyo
 箋	tsen
 箍	ko
@@ -17804,8 +17818,8 @@ sort: by_weight
 訍	tsrheeh
 討	thawq
 訏	huo
+訐	kiet
 訐	kyejh
-訐	kyet
 訐	kyot
 訒	njinh
 訓	hunh
@@ -18109,6 +18123,7 @@ sort: by_weight
 謏	souq
 謏	sruk
 謐	mit
+謑	ghejq
 謑	haeh
 謑	heeh
 謒	tshyang
@@ -18548,8 +18563,8 @@ sort: by_weight
 越	uot	99%
 趌	gyit
 趌	khit
+趌	kiet
 趌	kit
-趌	kyet
 趍	drie
 趍	tshuo
 趎	druo
@@ -18636,6 +18651,7 @@ sort: by_weight
 跐	tsryeq
 跑	baew
 跑	boeuk
+跑	phaewq	95%
 跒	khaeq
 跓	druoq
 跔	kuo
@@ -20260,6 +20276,7 @@ sort: by_weight
 閒	gheen	1%
 閒	keen	99%
 閒	keenh
+間	keen
 間	keenh	99%
 閔	myinq
 閘	kap
@@ -20793,6 +20810,7 @@ sort: by_weight
 韹	ghwaeng
 韹	ghwang
 韺	qyaeng
+韻	uinh
 韻	unh
 韽	qeemh
 韽	qom
@@ -22535,6 +22553,7 @@ sort: by_weight
 𠐾	khy
 𠐿	hweong
 𠑅	treeng
+𠑆	trhyomq
 𠑗	sien
 𠑘	ten
 𠑟	pen
@@ -22855,7 +22874,7 @@ sort: by_weight
 𡈣	swien
 𡈼	thengq
 𡉚	puong
-𡊁	qyk
+𡊁	qyik
 𡊄	pun
 𡊅	punh
 𡊉	mat
@@ -23003,7 +23022,7 @@ sort: by_weight
 𡤫	khae
 𡤬	quak
 𡤯	lwi
-𡤼	kyet
+𡤼	kiet
 𡥀	pawq
 𡥆	hawh
 𡥈	kaewh
@@ -23118,6 +23137,7 @@ sort: by_weight
 𡶫	nget
 𡷘	byet
 𡷛	ghanq
+𡷝	nryop
 𡷡	qwien
 𡷥	khok
 𡷨	kheeng
@@ -23997,6 +24017,7 @@ sort: by_weight
 𣹬	ghouk
 𣹮	phejh
 𣹲	dej
+𣹵	nryop
 𣺬	hwang
 𣻎	khou
 𣻎	khouh
@@ -24523,6 +24544,7 @@ sort: by_weight
 𥉈	thek
 𥉋	deong
 𥉍	tjhy
+𥉐	ghejq
 𥉑	ghak
 𥉑	juk
 𥉓	met
@@ -24800,6 +24822,7 @@ sort: by_weight
 𥰠	lyoq
 𥰢	sjienh
 𥰣	lu
+𥰥	ghejq
 𥰨	dam
 𥰭	dza
 𥰭	tsraeq
@@ -25069,6 +25092,7 @@ sort: by_weight
 𦑜	keek
 𦑟	hweeng
 𦑡	djie
+𦑣	trhyop
 𦑲	dap
 𦑹	buo
 𦒆	lop
@@ -25274,6 +25298,7 @@ sort: by_weight
 𦩣	khejh
 𦩤	dot
 𦩨	tsin
+𦩶	ghejq
 𦩻	triew
 𦪆	gy
 𦪇	louk
@@ -25828,7 +25853,7 @@ sort: by_weight
 𧦪	byenq
 𧦭	thwa
 𧦮	nrae
-𧧏	njah
+𧧏	njiaeh
 𧧒	tshieh
 𧧗	huong
 𧧢	huangq
@@ -25842,6 +25867,7 @@ sort: by_weight
 𧨀	swa
 𧨁	tsiae
 𧨃	hek
+𧨍	ghejq
 𧨫	haengh
 𧨹	luok
 𧩦	kyk
@@ -26116,6 +26142,7 @@ sort: by_weight
 𨇆	lajh
 𨇈	trih
 𨇙	kuejh
+𨇧	trhyomq
 𨇨	set
 𨇮	kuot
 𨇯	sroeung
@@ -26355,7 +26382,7 @@ sort: by_weight
 𨣼	tshoung
 𨤐	mie
 𨤩	trhuong
-𨥂	kyet
+𨥂	kiet
 𨥥	kwaengq
 𨥦	dzej
 𨥳	dzej
@@ -27972,7 +27999,7 @@ sort: by_weight
 亂花	lwanh=hwae
 亂講	lwanh=koeungq
 亂象	lwanh=zyangq
-亂跑	lwanh=baew
+亂跑	lwanh=phaewq
 亂跳	lwanh=dew
 亂道	lwanh=dawq
 亂麻	lwanh=mae
@@ -29777,7 +29804,7 @@ sort: by_weight
 冤句	quon=guo
 冤家	quon=kae
 冤情	quon=dziaeng
-冤抑	quon=qyk
+冤抑	quon=qyik
 冤枉	quon=quangq
 冤案	quon=qanh
 冤業	quon=ngyop
@@ -30415,7 +30442,7 @@ sort: by_weight
 助理	dzryoh=lyq
 助益	dzryoh=qiaek
 助詞	dzryoh=zy
-助跑	dzryoh=baew
+助跑	dzryoh=phaewq
 助陣	dzryoh=drinh
 努克	noq=kheok
 努力	noq=lyk
@@ -32830,7 +32857,7 @@ sort: by_weight
 壓實	qaep=zjit
 壓寶	qaep=pawq
 壓強	qaep=gyang
-壓抑	qaep=qyk
+壓抑	qaep=qyik
 壓服	qaep=buk
 壓板	qaep=paenq
 壓根	qaep=keon
@@ -33620,11 +33647,11 @@ sort: by_weight
 子集	tsyq=dzip
 子音	tsyq=qyim
 子鼠	tsyq=sjyoq
-孑孑	kyet=kyet
-孑孓	kyet=kuongq
-孑然	kyet=njien
-孑立	kyet=lip
-孑身	kyet=sjin
+孑孑	kiet=kiet
+孑孓	kiet=kuongq
+孑然	kiet=njien
+孑立	kiet=lip
+孑身	kiet=sjin
 孔丘	khoungq=khu
 孔子	khoungq=tsyq
 孔孟	khoungq=maengh
@@ -33727,13 +33754,13 @@ sort: by_weight
 孤傲	ko=ngawh
 孤孀	ko=sryang
 孤子	ko=tsyq
-孤孑	ko=kyet
+孤孑	ko=kiet
 孤寂	ko=dzek
 孤寒	ko=ghan
 孤寡	ko=kwaeq
 孤山	ko=sreen
 孤征	ko=tjiaeng
-孤拐	ko=geeq
+孤拐	ko=kweeq
 孤獨	ko=douk
 孤立	ko=lip
 孤絕	ko=dzwiet
@@ -34621,7 +34648,7 @@ sort: by_weight
 小我	siewq=ngaq
 小技	siewq=gyeq
 小抄	siewq=tsrhaew
-小拐	siewq=geeq
+小拐	siewq=kweeq
 小指	siewq=tjiq
 小昊	siewq=ghawq
 小春	siewq=tjhwin
@@ -36310,7 +36337,7 @@ sort: by_weight
 快船	khwaejh=zjwien
 快艇	khwaejh=dengq
 快訊	khwaejh=sinh
-快跑	khwaejh=baew
+快跑	khwaejh=phaewq
 快退	khwaejh=thojh
 快速	khwaejh=souk
 快進	khwaejh=tsinh
@@ -36816,7 +36843,7 @@ sort: by_weight
 慢火	maenh=hwaq
 慢班	maenh=paen
 慢用	maenh=juongh
-慢跑	maenh=baew
+慢跑	maenh=phaewq
 慣例	kwaenh=liejh
 慣偷	kwaenh=thou
 慣家	kwaenh=kae
@@ -37342,12 +37369,12 @@ sort: by_weight
 把門	paeq=mon
 把關	paeq=kwaen
 把頭	paeq=dou
-抑制	qyk=tjiejh
-抑或	qyk=ghweok
-抑揚	qyk=jyang
-抑止	qyk=tjyq
-抑素	qyk=soh
-抑鬱	qyk=qut
+抑制	qyik=tjiejh
+抑或	qyik=ghweok
+抑揚	qyik=jyang
+抑止	qyik=tjyq
+抑素	qyik=soh
+抑鬱	qyik=qut
 投保	dou=pawq
 投入	dou=njip
 投壺	dou=gho
@@ -37528,12 +37555,12 @@ sort: by_weight
 拍馬	phaek=maeq
 拎包	leng=paew
 拎起	leng=khyq
-拐子	geeq=tsyq
-拐彎	geeq=qwaen
-拐杖	geeq=dryangq
-拐棍	geeq=ghonq
-拐賣	geeq=meeh
-拐點	geeq=temq
+拐子	kweeq=tsyq
+拐彎	kweeq=qwaen
+拐杖	kweeq=dryangq
+拐棍	kweeq=ghonq
+拐賣	kweeq=meeh
+拐點	kweeq=temq
 拒付	gyoq=puoh
 拒捕	gyoq=boh
 拒接	gyoq=tsiep
@@ -37653,30 +37680,30 @@ sort: by_weight
 拶刑	tsat=gheng
 拶子	tsat=tsyq
 拶指	tsat=tjiq
-拼力	peeng=lyk
-拼命	peeng=myaengh
-拼圖	peeng=do
-拼字	peeng=dzyh
-拼客	peeng=khaek
-拼寫	peeng=siaeq
-拼成	peeng=djiaeng
-拼接	peeng=tsiep
-拼攏	peeng=loungq
-拼板	peeng=paenq
-拼桌	peeng=troeuk
-拼死	peeng=siq
-拼法	peeng=puop
-拼湊	peeng=tshouh
-拼火	peeng=hwaq
-拼爭	peeng=tsreeng
-拼版	peeng=paenq
-拼盤	peeng=ban
-拼裝	peeng=tsryang
-拼讀	peeng=douk
-拼貼	peeng=thep
-拼音	peeng=qyim
-拼餐	peeng=tshan
-拼鬥	peeng=touh
+拼力	pheng=lyk
+拼命	pheng=myaengh
+拼圖	piaeng=do
+拼字	piaeng=dzyh
+拼客	piaeng=khaek
+拼寫	piaeng=siaeq
+拼成	piaeng=djiaeng
+拼接	piaeng=tsiep
+拼攏	piaeng=loungq
+拼板	piaeng=paenq
+拼桌	piaeng=troeuk
+拼死	pheng=siq
+拼法	piaeng=puop
+拼湊	piaeng=tshouh
+拼火	pheng=hwaq
+拼爭	pheng=tsreeng
+拼版	piaeng=paenq
+拼盤	piaeng=ban
+拼裝	piaeng=tsryang
+拼讀	piaeng=douk
+拼貼	piaeng=thep
+拼音	piaeng=qyim
+拼餐	piaeng=tshan
+拼鬥	pheng=touh
 拾得	djip=teok
 拾物	djip=mut
 拾獲	djip=ghweek
@@ -40120,7 +40147,7 @@ sort: by_weight
 架勢	kaeh=sjiejh
 架子	kaeh=tsyq
 架式	kaeh=sjyk
-架拐	kaeh=geeq
+架拐	kaeh=kweeq
 架構	kaeh=kouh
 架橋	kaeh=gyew
 架次	kaeh=tshih
@@ -45251,7 +45278,7 @@ sort: by_weight
 瞎子	haet=tsyq
 瞎弄	haet=loungh
 瞎忙	haet=mang
-瞎拼	haet=peeng
+瞎拼	haet=piaeng
 瞎晃	haet=ghwangq
 瞎混	haet=ghonq
 瞎猜	haet=tsheoj
@@ -45320,7 +45347,7 @@ sort: by_weight
 短袖	twanq=zuh
 短襪	twanq=muot
 短訊	twanq=sinh
-短跑	twanq=baew
+短跑	twanq=phaewq
 短路	twanq=loh
 短靴	twanq=hua
 矮人	qeeq=njin
@@ -47486,7 +47513,7 @@ sort: by_weight
 羊城	jyang=djiaeng
 羊年	jyang=nen
 羊怪	jyang=kweejh
-羊拐	jyang=geeq
+羊拐	jyang=kweeq
 羊排	jyang=beej
 羊桃	jyang=daw
 羊毛	jyang=maw
@@ -48340,7 +48367,7 @@ sort: by_weight
 自戀	dzih=lwienh
 自我	dzih=ngaq
 自戕	dzih=dzyang
-自抑	dzih=qyk
+自抑	dzih=qyik
 自拍	dzih=phaek
 自指	dzih=tjiq
 自排	dzih=beej
@@ -49107,7 +49134,7 @@ sort: by_weight
 落色	lak=sryk
 落莫	lak=mak
 落葬	lak=tsangh
-落跑	lak=baew
+落跑	lak=phaewq
 落馬	lak=maeq
 落魄	lak=thak
 著名	tryoh=miaeng
@@ -49680,7 +49707,7 @@ sort: by_weight
 血庫	hwet=khoh
 血性	hwet=siaengh
 血戰	hwet=tjienh
-血拼	hwet=peeng
+血拼	hwet=pheng
 血族	hwet=dzouk
 血暈	hwet=unh
 血書	hwet=sjyo
@@ -50418,7 +50445,7 @@ sort: by_weight
 誘姦	juq=kaen
 誘導	juq=dawh
 誘惑	juq=ghweok
-誘拐	juq=geeq
+誘拐	juq=kweeq
 誘捕	juq=boh
 誘掖	juq=jiaek
 誘發	juq=puot
@@ -51047,7 +51074,7 @@ sort: by_weight
 貶低	pyemq=tej
 貶值	pyemq=dryh
 貶官	pyemq=kwan
-貶抑	pyemq=qyk
+貶抑	pyemq=qyik
 貶損	pyemq=sonq
 貶斥	pyemq=tjhiaek
 貶義	pyemq=ngyeh
@@ -51210,7 +51237,7 @@ sort: by_weight
 賽程	seojh=driaeng
 賽船	seojh=zjwien
 賽艇	seojh=dengq
-賽跑	seojh=baew
+賽跑	seojh=phaewq
 賽道	seojh=dawq
 賽馬	seojh=maeq
 賽點	seojh=temq
@@ -51311,7 +51338,7 @@ sort: by_weight
 起誓	khyq=djiejh
 起課	khyq=khwah
 起講	khyq=koeungq
-起跑	khyq=baew
+起跑	khyq=phaewq
 起身	khyq=sjin
 起迄	khyq=hyt
 起運	khyq=unh
@@ -51342,7 +51369,7 @@ sort: by_weight
 超綱	trhiew=kang
 超聲	trhiew=sjiaeng
 超賣	trhiew=meeh
-超跑	trhiew=baew
+超跑	trhiew=phaewq
 超速	trhiew=souk
 超遷	trhiew=tshien
 超頻	trhiew=bin
@@ -51384,17 +51411,17 @@ sort: by_weight
 跌跤	det=khaew
 跌進	det=tsinh
 跏趺	kae=puo
-跑味	baew=mujh
-跑圈	baew=khuen
-跑堂	baew=dang
-跑壘	baew=lwiq
-跑步	baew=boh
-跑法	baew=puop
-跑調	baew=dewh
-跑路	baew=loh
-跑酷	baew=khok
-跑電	baew=denh
-跑馬	baew=maeq
+跑味	phaewq=mujh
+跑圈	phaewq=khuen
+跑堂	phaewq=dang
+跑壘	phaewq=lwiq
+跑步	phaewq=boh
+跑法	phaewq=puop
+跑調	phaewq=dewh
+跑路	phaewq=loh
+跑酷	phaewq=khok
+跑電	phaewq=denh
+跑馬	phaewq=maeq
 距今	gyoq=kyim
 距角	gyoq=koeuk
 跟人	keon=njin
@@ -51977,7 +52004,7 @@ sort: by_weight
 逃竄	daw=tshwanh
 逃荒	daw=hwang
 逃課	daw=khwah
-逃跑	daw=baew
+逃跑	daw=phaewq
 逃逸	daw=jit
 逃避	daw=bieh
 逆倫	ngyaek=lwin
@@ -52036,16 +52063,16 @@ sort: by_weight
 逗逼	douh=pyik
 逗點	douh=temq
 這些	tjiaek=siae
-這位	ngyenh=uih
-這個	ngyenh=kah
-這天	ngyenh=then
-這就	ngyenh=dzuh
-這時	ngyenh=djy
-這末	ngyenh=mat
-這裏	ngyenh=lyq
-這邊	ngyenh=pen
-這類	ngyenh=lwih
-這麼	ngyenh=maq
+這位	tjiaeq=uih
+這個	tjiaeq=kah
+這天	tjiaeq=then
+這就	tjiaeq=dzuh
+這時	tjiaeq=djy
+這末	tjiaeq=mat
+這裏	tjiaeq=lyq
+這邊	tjiaeq=pen
+這類	tjiaeq=lwih
+這麼	tjiaeq=maq
 通什	thoung=djip
 通例	thoung=liejh
 通俗	thoung=zuok
@@ -52312,7 +52339,7 @@ sort: by_weight
 過失	kwah=sjit
 過錯	kwah=tshak
 遏制	qat=tjiejh
-遏抑	qat=qyk
+遏抑	qat=qyik
 遏止	qat=tjyq
 遏阻	qat=tsryoq
 遐布	ghae=poh
@@ -53578,7 +53605,7 @@ sort: by_weight
 阜陽	buq=jyang
 阮朝	nguonq=driew
 阻力	tsryoq=lyk
-阻抑	tsryoq=qyk
+阻抑	tsryoq=qyik
 阻抗	tsryoq=khangh
 阻擋	tsryoq=tangh
 阻礙	tsryoq=ngeojh
@@ -54014,8 +54041,8 @@ sort: by_weight
 雙層	sroeung=dzeong
 雙手	sroeung=sjuq
 雙抽	sroeung=trhu
-雙拐	sroeung=geeq
-雙拼	sroeung=peeng
+雙拐	sroeung=kweeq
+雙拼	sroeung=piaeng
 雙擊	sroeung=kek
 雙擺	sroeung=peeq
 雙星	sroeung=seng
@@ -54775,7 +54802,7 @@ sort: by_weight
 領袖	liaengq=zuh
 領諾	liaengq=nak
 領證	liaengq=tjyngh
-領跑	liaengq=baew
+領跑	liaengq=phaewq
 領路	liaengq=loh
 領軍	liaengq=kun
 領釦	liaengq=khouq
@@ -54962,7 +54989,7 @@ sort: by_weight
 飛船	puj=zjwien
 飛艇	puj=dengq
 飛賊	puj=dzeok
-飛跑	puj=baew
+飛跑	puj=phaewq
 飛躍	puj=jyak
 飛身	puj=sjin
 飛輪	puj=lwin
@@ -58866,7 +58893,7 @@ sort: by_weight
 快中子	khwaejh=trung=tsyq
 快可立	khwaejh=khaq=lip
 快板兒	khwaejh=paenq=njie
-快步跑	khwaejh=boh=baew
+快步跑	khwaejh=boh=phaewq
 快炒店	khwaejh=tsrhaewq=temh
 快熟麵	khwaejh=djuk=menh
 快餐店	khwaejh=tshan=temh
@@ -59186,8 +59213,8 @@ sort: by_weight
 拜物教	peejh=mut=kaewh
 拳擊手	guen=kek=sjuq
 拳擊臺	guen=kek=deoj
-拼到底	peeng=tawh=tejq
-拼起來	peeng=khyq=leoj
+拼到底	pheng=tawh=tejq
+拼起來	piaeng=khyq=leoj
 拾音器	djip=qyim=khyih
 持久戰	dry=kuq=tjienh
 持國天	dry=kweok=then
@@ -59805,7 +59832,7 @@ sort: by_weight
 李英儒	lyq=qyaeng=njuo
 李誠恩	lyq=djiaeng=qeon
 李連杰	lyq=lien=gyet
-李鐵拐	lyq=thet=geeq
+李鐵拐	lyq=thet=kweeq
 李隆基	lyq=lung=ky
 李雪健	lyq=swiet=gyonh
 李雲娜	lyq=un=naq
@@ -62203,7 +62230,7 @@ sort: by_weight
 腦門子	nawq=mon=tsyq
 腦電圖	nawq=denh=do
 腳丫子	kyak=qae=tsyq
-腳孤拐	kyak=ko=geeq
+腳孤拐	kyak=ko=kweeq
 腳手架	kyak=sjuq=kaeh
 腳指甲	kyak=tjiq=kaep
 腳氣病	kyak=khyjh=byaengh
@@ -62802,7 +62829,7 @@ sort: by_weight
 詹姆斯	tjiem=mouh=sie
 誅九族	truo=kuq=dzouk
 誇海口	khwae=heojq=khouq
-誘拐者	juq=geeq=tjiaeq
+誘拐者	juq=kweeq=tjiaeq
 誤判案	ngoh=phanh=qanh
 誨淫性	hojh=jim=siaengh
 誰知道	djwi=trie=dawq
@@ -63019,7 +63046,7 @@ sort: by_weight
 起訴員	khyq=soh=un
 起訴書	khyq=soh=sjyo
 起訴者	khyq=soh=tjiaeq
-起跑線	khyq=baew=sienh
+起跑線	khyq=phaewq=sienh
 起電機	khyq=denh=kyj
 起點線	khyq=temq=sienh
 超博士	trhiew=pak=dzryq
@@ -63050,15 +63077,15 @@ sort: by_weight
 跆拳道	deoj=guen=dawq
 跌停板	det=deng=paenq
 跌眼鏡	det=ngeenq=kyaengh
-跑味兒	baew=mujh=njie
-跑步者	baew=boh=tjiaeq
-跑江湖	baew=koeung=gho
-跑神兒	baew=zjin=njie
-跑警報	baew=kyaengq=pawh
-跑馬地	baew=maeq=dih
-跑馬場	baew=maeq=dryang
-跑馬山	baew=maeq=sreen
-跑馬廳	baew=maeq=theng
+跑味兒	phaewq=mujh=njie
+跑步者	phaewq=boh=tjiaeq
+跑江湖	phaewq=koeung=gho
+跑神兒	phaewq=zjin=njie
+跑警報	phaewq=kyaengq=pawh
+跑馬地	phaewq=maeq=dih
+跑馬場	phaewq=maeq=dryang
+跑馬山	phaewq=maeq=sreen
+跑馬廳	phaewq=maeq=theng
 跟屁股	keon=phih=koq
 路得記	loh=teok=kyh
 路德宗	loh=teok=tsong
@@ -63164,8 +63191,8 @@ sort: by_weight
 透水性	thouh=sjwiq=siaengh
 透通性	thouh=thoung=siaengh
 逗悶子	douh=monh=tsyq
-這年頭	ngyenh=nen=dou
-這陣子	ngyenh=drinh=tsyq
+這年頭	tjiaeq=nen=dou
+這陣子	tjiaeq=drinh=tsyq
 通佈圖	thoung=poh=do
 通信線	thoung=sinh=sienh
 通化市	thoung=hwaeh=djyq
@@ -63476,7 +63503,7 @@ sort: by_weight
 鐵力市	thet=lyk=djyq
 鐵力木	thet=lyk=mouk
 鐵嶺市	thet=liaengq=djyq
-鐵拐李	thet=geeq=lyq
+鐵拐李	thet=kweeq=lyq
 鐵法市	thet=puop=djyq
 鐵爪鵐	thet=tsraewq=muo
 鐵甲船	thet=kaep=zjwien
@@ -64487,7 +64514,7 @@ sort: by_weight
 一無所長	qit=muo=sryoq=dryang
 一犯再犯	qit=buomq=tseojh=buomq
 一琴一鶴	qit=gyim=qit=ghak
-一瘸一拐	qit=gua=qit=geeq
+一瘸一拐	qit=gua=qit=kweeq
 一目了然	qit=muk=lewq=njien
 一目十行	qit=muk=djip=ghang
 一直以來	qit=dryk=jyq=leoj
@@ -64551,7 +64578,7 @@ sort: by_weight
 七國集團	tshit=kweok=dzip=dwan
 七層架構	tshit=dzeong=kaeh=kouh
 七年之癢	tshit=nen=tjy=jyangq
-七拼八湊	tshit=peeng=peet=tshouh
+七拼八湊	tshit=piaeng=peet=tshouh
 七政四餘	tshit=tjiaengh=sih=jyo
 七旬老人	tshit=zwin=lawq=njin
 七竅生煙	tshit=khewh=sryaeng=qen
@@ -65796,9 +65823,9 @@ sort: by_weight
 嫌貧愛富	ghem=byin=qeojh=puh
 子子孫孫	tsyq=tsyq=son=son
 子孫娘娘	tsyq=son=nryang=nryang
-孑孑為義	kyet=kyet=ue=ngyeh
-孑然一身	kyet=njien=qit=sjin
-孑立無依	kyet=lip=muo=qyj
+孑孑為義	kiet=kiet=ue=ngyeh
+孑然一身	kiet=njien=qit=sjin
+孑立無依	kiet=lip=muo=qyj
 孔孟之道	khoungq=maengh=tjy=dawq
 孔武有力	khoungq=muoq=uq=lyk
 孔融讓梨	khoungq=jung=njyangh=li
@@ -65814,7 +65841,7 @@ sort: by_weight
 孟加拉國	maengh=kae=lop=kweok
 孟加拉灣	maengh=kae=lop=qwaen
 孟德斯鳩	maengh=teok=sie=ku
-孤孑特立	ko=kyet=deok=lip
+孤孑特立	ko=kiet=deok=lip
 孤家寡人	ko=kae=kwaeq=njin
 孤注一擲	ko=tjuoh=qit=driaek
 孤立子波	ko=lip=tsyq=pa
@@ -66428,7 +66455,7 @@ sort: by_weight
 技術發展	gyeq=zjwit=puot=trienq
 技術規範	gyeq=zjwit=kwie=buomq
 把酒言歡	paeq=tsuq=ngyon=hwan
-抑揚頓挫	qyk=jyang=tonh=tswah
+抑揚頓挫	qyik=jyang=tonh=tswah
 投懷送抱	dou=ghweej=soungh=bawq
 投桃報李	dou=daw=pawh=lyq
 投機買賣	dou=kyj=meeq=meeh
@@ -66437,7 +66464,7 @@ sort: by_weight
 投資移民	dou=tsi=jie=min
 投鼠忌器	dou=sjyoq=gyh=khyih
 抗憂鬱藥	khangh=qu=qut=jyak
-抗抑鬱藥	khangh=qyk=qut=jyak
+抗抑鬱藥	khangh=qyik=qut=jyak
 抗精神病	khangh=tsiaeng=zjin=byaengh
 抱成一團	bawq=djiaeng=qit=dwan
 抱薪救火	bawq=sin=kuh=hwaq
@@ -66475,12 +66502,12 @@ sort: by_weight
 拜金主義	peejh=kyim=tjuoq=ngyeh
 拭目以待	sjyk=muk=jyq=deojq
 拭目傾耳	sjyk=muk=khwiaeng=njyq
-拼圖玩具	peeng=do=ngwanh=guoh
-拼板玩具	peeng=paenq=ngwanh=guoh
-拼花地板	peeng=hwae=dih=paenq
-拼音字母	peeng=qyim=dzyh=mouq
-拼音文字	peeng=qyim=mun=dzyh
-拼音階段	peeng=qyim=keej=dwanh
+拼圖玩具	piaeng=do=ngwanh=guoh
+拼板玩具	piaeng=paenq=ngwanh=guoh
+拼花地板	piaeng=hwae=dih=paenq
+拼音字母	piaeng=qyim=dzyh=mouq
+拼音文字	piaeng=qyim=mun=dzyh
+拼音階段	piaeng=qyim=keej=dwanh
 拾人牙慧	djip=njin=ngae=ghwejh
 持續時間	dry=zuok=djy=keenh
 指指點點	tjiq=tjiq=temq=temq
@@ -67371,7 +67398,7 @@ sort: by_weight
 焦頭爛額	tsiew=dou=lanh=ngaek
 煙花柳巷	qen=hwae=luq=ghoeungh
 煙花粉黛	qen=hwae=punq=deojh
-煢煢孑立	gwiaeng=gwiaeng=kyet=lip
+煢煢孑立	gwiaeng=gwiaeng=kiet=lip
 煥然一新	hwanh=njien=qit=sin
 照本宣科	tjiewh=ponq=swien=khwa
 照片底版	tjiewh=phenh=tejq=paenq
@@ -67550,7 +67577,7 @@ sort: by_weight
 甲骨文字	kaep=kot=mun=dzyh
 男子籃球	nom=tsyq=lam=gu
 男性主義	nom=siaengh=tjuoq=ngyeh
-男性貶抑	nom=siaengh=pyemq=qyk
+男性貶抑	nom=siaengh=pyemq=qyik
 畏畏縮縮	qujh=qujh=sruk=sruk
 畢恭畢敬	pit=kuong=pit=kyaengh
 畢業典禮	pit=ngyop=tenq=lejq
@@ -67645,7 +67672,7 @@ sort: by_weight
 白腹隼鵰	baek=puk=swinq=tew
 白腹鳳鶥	baek=puk=bungh=myi
 白腿小隼	baek=thojq=siewq=swinq
-白跑一趟	baek=baew=qit=traengh
+白跑一趟	baek=phaewq=qit=traengh
 白金漢宮	baek=kyim=hanh=kung
 白金漢郡	baek=kyim=hanh=gunh
 白雪公主	baek=swiet=koung=tjuoq
@@ -68240,7 +68267,7 @@ sort: by_weight
 自欺欺人	dzih=khy=khy=njin
 自然主義	dzih=njien=tjuoq=ngyeh
 自然之友	dzih=njien=tjy=uq
-自然拼讀	dzih=njien=peeng=douk
+自然拼讀	dzih=njien=piaeng=douk
 自然條件	dzih=njien=dew=gyenq
 自然災害	dzih=njien=tseoj=ghajh
 自然現象	dzih=njien=ghenh=zyangq
@@ -68672,7 +68699,7 @@ sort: by_weight
 跌破眼鏡	det=phah=ngeenq=kyaengh
 跌跌爬爬	det=det=bae=bae
 跌跌蹌蹌	det=det=tshyang=tshyang
-跑來跑去	baew=leoj=baew=khyoh
+跑來跑去	phaewq=leoj=phaewq=khyoh
 距狀皮層	gyoq=dzryangh=bye=dzeong
 距翅麥雞	gyoq=sjieh=meek=kej
 路人皆知	loh=njin=keej=trie
@@ -68748,14 +68775,14 @@ sort: by_weight
 逐字逐句	druk=dzyh=druk=kuoh
 逐步升級	druk=boh=sjyng=kyip
 逗人喜愛	douh=njin=hyq=qeojh
-這一陣子	ngyenh=qit=drinh=tsyq
-這次危機	ngyenh=tshih=ngue=kyj
+這一陣子	tjiaeq=qit=drinh=tsyq
+這次危機	tjiaeq=tshih=ngue=kyj
 通信地址	thoung=sinh=dih=tjyq
 通信技術	thoung=sinh=gyeq=zjwit
 通信服務	thoung=sinh=buk=muoh
 通信網絡	thoung=sinh=muangq=lak
 通商口岸	thoung=sjyang=khouq=nganh
-通用拼音	thoung=juongh=peeng=qyim
+通用拼音	thoung=juongh=piaeng=qyim
 通用電器	thoung=juongh=denh=khyih
 通訊協定	thoung=sinh=ghep=dengh
 通訊系統	thoung=sinh=ghejh=thongh
@@ -69180,7 +69207,7 @@ sort: by_weight
 預期用途	jyoh=gy=juongh=do
 預謀殺人	jyoh=mu=sreet=njin
 預警系統	jyoh=kyaengq=ghejh=thongh
-頓挫抑揚	tonh=tswah=qyk=jyang
+頓挫抑揚	tonh=tswah=qyik=jyang
 頓涅斯克	tonh=net=sie=kheok
 頓涅茨克	tonh=net=dzi=kheok
 領導小組	liaengq=dawh=siewq=tsoq
@@ -70008,7 +70035,7 @@ sort: by_weight
 通用字符集	thoung=juongh=dzyh=buo=dzip
 通訊自動化	thoung=sinh=dzih=doungq=hwaeh
 遼寧古盜鳥	lew=neng=koq=dawh=tewq
-郵政式拼音	u=tjiaengh=sjyk=peeng=qyim
+郵政式拼音	u=tjiaengh=sjyk=piaeng=qyim
 都市美型男	to=djyq=myiq=gheng=nom
 鄂爾多斯市	ngak=njieq=ta=sie=djyq
 鄂霍次克海	ngak=hwak=tshih=kheok=heojq
