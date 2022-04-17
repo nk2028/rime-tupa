@@ -218,16 +218,15 @@ rm -f ~/.xprofile
 
 ## 開發
 
-本倉庫資料來源爲 [ayaka14732/rime-kyonh](https://github.com/ayaka14732/rime-kyonh)。
+本倉庫資料來源爲 [nk2028/rime-dict-source](https://github.com/nk2028/rime-dict-source)。
 
 構建方法：
 
-```sh
-npm install
-rm -rf cache *.dict.yaml
-mkdir -p cache
-node scripts/generate_map.js
-python scripts/build.py
-python scripts/build_unspaced.py
-python scripts/uniqsort.py
-```
+1.  在本機準備好 [nk2028/rime-dict-builder](https://github.com/nk2028/rime-dict-builder) 和 [nk2028/rime-dict-source](https://github.com/nk2028/rime-dict-source)（參見 rime-dict-builder 的 README）
+
+2.  在本目錄下執行：
+
+    ```sh
+    node <rime-dict-builder目錄>/build.js  # <> 中部分替換為 rime-dict-builder 實際所在目錄
+    # 可加參數 `--help` 查看可用選項
+    ```
