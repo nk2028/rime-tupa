@@ -222,11 +222,11 @@ rm -f ~/.xprofile
 
 構建方法：
 
-1.  在本機準備好 [nk2028/rime-dict-builder](https://github.com/nk2028/rime-dict-builder) 和 [nk2028/rime-dict-source](https://github.com/nk2028/rime-dict-source)（參見 rime-dict-builder 的 README）
-
-2.  在本目錄下執行：
-
-    ```sh
-    node <rime-dict-builder目錄>/build.js  # <...>（含括號）替換為 rime-dict-builder 實際所在目錄
-    # 可加參數 `--help` 查看可用選項
-    ```
+```sh
+git clone https://github.com/nk2028/rime-dict-source.git
+git clone https://github.com/nk2028/rime-dict-builder.git
+(cd rime-dict-builder; npm i)
+git clone https://github.com/ayaka14732/rime-tupa.git
+cd rime-tupa
+node ../rime-dict-builder/build.js  # 可加參數 `--help` 查看可用選項
+```
