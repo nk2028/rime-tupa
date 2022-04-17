@@ -227,6 +227,6 @@ rm -f ~/.xprofile
 2.  在本目錄下執行：
 
     ```sh
-    node <rime-dict-builder目錄>/build.js  # <> 中部分替換為 rime-dict-builder 實際所在目錄
+    node <rime-dict-builder目錄>/build.js  # <...>（含括號）替換為 rime-dict-builder 實際所在目錄
     # 可加參數 `--help` 查看可用選項
     ```
