@@ -4,7 +4,7 @@ rime 切韻拼音輸入方案
 
 [切韻拼音](https://zhuanlan.zhihu.com/p/478751152)（Tshet-uinh Phonetic Alphabet，可簡稱切拼或 TUPA）是爲切韻音系創制的拼音方案，用於拼寫與切韻音系相合的南北朝中期到隋初中古漢語。
 
-本輸入方案旨在爲 rime 輸入法增加切韻拼音輸入支援，使得用戶可以簡便地利用切韻拼音輸入中文字，是學習漢語音韻學的有效工具。除本切韻拼音輸入方案外，用戶還可以利用[切韻音系自動推導器](https://nk2028.shn.hk/qieyun-autoderiver/)與[韻鑒 APP](https://zhuanlan.zhihu.com/p/361127660) 查詢漢字的切韻拼音。
+本輸入方案旨在爲 rime 輸入法增加切韻拼音輸入支援，使得用戶可以簡便地利用切韻拼音輸入中文字，是學習漢語音韻學的有效工具。除本切韻拼音輸入方案外，用家亦可利用[切韻音系自動推導器](https://nk2028.shn.hk/qieyun-autoderiver/)與[韻鑒 APP](https://zhuanlan.zhihu.com/p/361127660) 查詢漢字的切韻拼音。
 
 ## 功能
 
