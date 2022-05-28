@@ -6,7 +6,7 @@
 
 ---
 name: tupa_unspaced
-version: "20220517"
+version: "20220528"
 sort: by_weight
 ...
 
@@ -17864,8 +17864,8 @@ sort: by_weight
 訍	tsrheeh
 討	thawq
 訏	huo
-訐	kiet
 訐	kyejh
+訐	kyet
 訐	kyot
 訒	njinh
 訓	hunh
@@ -23418,7 +23418,7 @@ sort: by_weight
 𢔋	suong
 𢔌	pieq
 𢔟	nruq
-𢔠	tshwiaek
+𢔠	hwiaek
 𢔡	kheej
 𢔢	juo
 𢔥	ut
@@ -24566,9 +24566,9 @@ sort: by_weight
 𥄃	myit
 𥄉	kew
 𥄎	huik
+𥄎	hwiaek
 𥄎	hwiet
 𥄎	muot
-𥄎	tshwiaek
 𥄔	pajh
 𥄔	phajh
 𥄗	qwat
@@ -25479,7 +25479,7 @@ sort: by_weight
 𦳩	uh
 𦳬	ghop
 𦳭	luoq
-𦳮	tjwiaek
+𦳮	kwiaek
 𦳯	uit
 𦳲	giaeng
 𦳷	ju
