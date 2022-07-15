@@ -48,7 +48,7 @@ rime 切韻拼音輸入方案
 
 ![](https://camo.githubusercontent.com/97f42eb9aff6a44934777e2568ff5e6dc7a648266bbdc01739ec09d5810d718e/68747470733a2f2f692e696d6775722e636f6d2f657578684543562e706e67)
 
-在跳出的視窗中鍵入 `cantonese` 以安裝粵語輸入方案（用於反查），按下 <kbd>Enter</kbd>。然後鍵入 `ayaka14732/rime-tupa`，按下 <kbd>Enter</kbd>。
+在跳出的視窗中鍵入 `cantonese` 以安裝粵語輸入方案（用於反查），按下 <kbd>Enter</kbd>。然後鍵入 `nk2028/rime-tupa`，按下 <kbd>Enter</kbd>。
 
 ![](https://camo.githubusercontent.com/9609be7beef59bc18bb006aa95c8d17238f2ad45e0f88a274bc03d3984bad1c1/68747470733a2f2f692e696d6775722e636f6d2f315871617959382e706e67)
 
@@ -79,7 +79,7 @@ rime 切韻拼音輸入方案
 打開 Terminal，複製粘貼以下命令：
 
 ```sh
-curl -fsSL https://git.io/rime-install | bash -s -- cantonese ayaka14732/rime-tupa custom:set:config=default,key=installed_from,value=ayaka14732/rime-tupa custom:clear_schema_list custom:add:schema=tupa custom:add:schema=luna_pinyin custom:add:schema=jyut6ping3
+curl -fsSL https://git.io/rime-install | bash -s -- cantonese nk2028/rime-tupa custom:set:config=default,key=installed_from,value=nk2028/rime-tupa custom:clear_schema_list custom:add:schema=tupa custom:add:schema=luna_pinyin custom:add:schema=jyut6ping3
 ```
 
 在命令執行過程中，可能會跳出視窗提示安裝 git，要點選允許，否則無法正常安裝。
@@ -176,7 +176,7 @@ export XMODIFIERS=@im=fcitx
 
 ```sh
 mkdir -p ~/.local/share/fcitx5/rime/opencc
-git clone https://github.com/ayaka14732/rime-tupa.git ~/.rime-tupa
+git clone https://github.com/nk2028/rime-tupa.git ~/.rime-tupa
 ln -s ~/.rime-tupa/*.yaml ~/.local/share/fcitx5/rime
 git clone https://github.com/rime/rime-cantonese.git ~/.rime-cantonese
 ln -s ~/.rime-cantonese/*.yaml ~/.local/share/fcitx5/rime
@@ -226,7 +226,7 @@ rm -f ~/.xprofile
 git clone https://github.com/nk2028/rime-dict-source.git
 git clone https://github.com/nk2028/rime-dict-builder.git
 (cd rime-dict-builder; npm i)
-git clone https://github.com/ayaka14732/rime-tupa.git
+git clone https://github.com/nk2028/rime-tupa.git
 cd rime-tupa
 node ../rime-dict-builder/build.js  # 可加參數 `--help` 查看可用選項
 ```
