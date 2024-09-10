@@ -6,7 +6,7 @@
 
 ---
 name: tupa_unspaced
-version: "20220916"
+version: "20240910"
 sort: by_weight
 ...
 
@@ -89,7 +89,6 @@ sort: by_weight
 㓺	kyon
 㓻	kang
 㓼	tsrhyit
-㓼	tsrhyq
 㓽	dzrung
 㓽	dzrungh
 㔂	linh
@@ -956,10 +955,11 @@ sort: by_weight
 㰻	qyiq
 㰼	sryep
 㰽	qyonh
-㱀	tsrhyq
+㱀	tsrhwaejh
 㱂	khang
 㱃	qyimq
 㱄	heok
+㱇	hyk
 㱇	sryk
 㱊	qu
 㱍	lwan
@@ -1107,7 +1107,7 @@ sort: by_weight
 㶏	qyn
 㶏	qynh
 㶏	qynq
-㶒	sjamq
+㶒	sjiemq
 㶒	thomh
 㶔	beejh
 㶕	keenq
@@ -1493,7 +1493,6 @@ sort: by_weight
 䀮	hwang
 䀮	mang
 䀰	kouk
-䀴	ngeep
 䀴	ngengq
 䀵	sjy
 䀶	lyangh
@@ -2486,7 +2485,7 @@ sort: by_weight
 䜃	toj
 䜅	djwi
 䜅	jwi
-䜅	tshou
+䜅	tshwi
 䜆	tjiep
 䜈	tsrhaew
 䜉	tsrhyit
@@ -3555,7 +3554,7 @@ sort: by_weight
 丙	pyaengq
 丞	djyng
 丞	djyngh
-丟	tiw
+丟	tu
 丠	khu
 両	lyangq
 丣	juq
@@ -4847,7 +4846,7 @@ sort: by_weight
 去	khyoh
 去	khyoq	3%
 厽	lwieq
-厾	tiw
+厾	tu
 叀	djwienh
 叀	tjwien
 叁	sam
@@ -6625,8 +6624,8 @@ sort: by_weight
 嬿	qenq
 孀	sryang
 孁	leng
-孂	kemq
 孂	keok
+孂	kiwq
 孂	kyewq
 孃	njyang
 孃	nryang
@@ -6829,7 +6828,6 @@ sort: by_weight
 尞	liewh
 尟	sienq
 尠	sienq
-尠	suoh
 尢	qwang
 尢	u
 尣	qwang
@@ -7680,7 +7678,7 @@ sort: by_weight
 怋	mon
 怌	phyi
 怍	dzak
-怎	tsoimq
+怎	tsoymq
 怏	qyangh
 怏	qyangq
 怐	houh
@@ -8898,6 +8896,7 @@ sort: by_weight
 撰	dzruenq
 撰	dzrwaenq
 撱	jwieq
+撱	jwiq
 撲	phouk
 撳	khyimh
 撻	that
@@ -10444,7 +10443,7 @@ sort: by_weight
 欹	qye
 欺	khy
 欻	hut
-欼	tsrhyq
+欼	tsrhwaejh
 欽	khyim
 款	khwanq
 欿	ghomq
@@ -14059,6 +14058,7 @@ sort: by_weight
 窀	drween
 窀	trwin
 突	dot
+突	thot	1%
 窂	law
 窄	tsraek
 窅	qaew
@@ -14177,7 +14177,7 @@ sort: by_weight
 笈	gyip
 笈	gyop
 笈	tsrheep
-笉	tshinq
+笉	uinq
 笊	tsraewh
 笊	tsraewq
 笋	swinq
@@ -19540,7 +19540,6 @@ sort: by_weight
 鄶	kwajh
 鄸	mungh
 鄹	dzuoq
-鄹	dzwanq
 鄹	tsru
 鄺	hwang
 鄺	kwangq
@@ -19887,7 +19886,7 @@ sort: by_weight
 銥	qyj
 銦	qin
 銨	qanq
-銩	tiw
+銩	tu
 銪	uq
 銫	sryk
 銬	khawh
@@ -22106,7 +22105,7 @@ sort: by_weight
 鷓	tjiaeh
 鷔	ngaw
 鷔	ngawh
-鷕	jiewq
+鷕	jwiq
 鷖	qej
 鷗	qou
 鷘	trhyk
@@ -22706,7 +22705,7 @@ sort: by_weight
 𠟪	tshiep
 𠟭	tseok
 𠟯	tsiewq
-𠟴	tsrhyq
+𠟴	tsrhyit
 𠟻	tseok
 𠟼	ghwaen
 𠟽	kweet
@@ -23150,7 +23149,7 @@ sort: by_weight
 𡰖	dej
 𡰖	tej
 𡰝	guen
-𡰝	trwien
+𡰝	tej
 𡰟	lwah
 𡰟	lwie
 𡰠	lwah
@@ -23722,7 +23721,7 @@ sort: by_weight
 𢿨	sanq
 𢿱	sanh
 𢿻	leen
-𢿿	hewh
+𢿿	hyk
 𣀃	liem
 𣀒	dzoungh
 𣀓	dju
@@ -23941,7 +23940,7 @@ sort: by_weight
 𣢜	qiw
 𣢜	qiwq
 𣢜	quk
-𣢝	hiaengh
+𣢝	hom
 𣢠	bit
 𣢩	hyop
 𣢫	quangq
@@ -24274,7 +24273,7 @@ sort: by_weight
 𤜵	ngaenh
 𤜵	ngenh
 𤜹	juo
-𤜼	dzrwen
+𤜼	tjyak
 𤜾	kyaek
 𤝕	mouq
 𤝞	trhwit
@@ -25929,7 +25928,7 @@ sort: by_weight
 𧥣	khouq
 𧥮	ghoh
 𧥱	buo
-𧥺	ghin
+𧥺	ghenq
 𧥺	kwinh
 𧦝	ho
 𧦦	njiem
@@ -26801,7 +26800,7 @@ sort: by_weight
 𩑹	ghwenh
 𩒉	tjinh
 𩒝	tenq
-𩒣	dzryimq
+𩒣	khyimq
 𩒥	khyomq
 𩒮	gu
 𩒰	nga
