@@ -4,7 +4,7 @@ rime 切韻拼音輸入方案
 
 [切韻拼音](https://zhuanlan.zhihu.com/p/478751152)（Tshet-uinh Phonetic Alphabet，可簡稱切拼或 TUPA）是爲切韻音系創制的拼音方案，用於拼寫與切韻音系相合的南北朝中期到隋初中古漢語。
 
-本輸入方案旨在爲 rime 輸入法增加切韻拼音輸入支援，使得用戶可以簡便地利用切韻拼音輸入中文字，是學習漢語音韻學的有效工具。除本切韻拼音輸入方案外，用家亦可利用[切韻音系自動推導器](https://nk2028.shn.hk/qieyun-autoderiver/)與[韻鑒 APP](https://zhuanlan.zhihu.com/p/361127660) 查詢漢字的切韻拼音。
+本輸入方案旨在爲 rime 輸入法增加切韻拼音輸入支援，使得用戶可以簡便地利用切韻拼音輸入中文字，是學習漢語音韻學的有效工具。除本切韻拼音輸入方案外，用家亦可利用[切韻音系自動推導器](https://nk2028.shn.hk/tshet-uinh-autoderiver/)查詢漢字的切韻拼音。
 
 ## 功能
 
@@ -120,6 +120,8 @@ XMODIFIERS=@im=fcitx
 
 然後重新登入。
 
+（※ 注意：若您使用 Wayland，請參閱 https://wiki.archlinux.org/title/Fcitx5 及 https://fcitx-im.org/wiki/Using_Fcitx_5_on_Wayland 設定 Fcitx5）
+
 （你可能需要手動啓動 Fcitx5 程式）
 
 開啓 Fcitx5 設定，啓用 rime。
@@ -167,6 +169,8 @@ export GTK_IM_MODULE=fcitx
 export QT_IM_MODULE=fcitx
 export XMODIFIERS=@im=fcitx
 ```
+
+（※ 注意：若您使用 Wayland，請參閱 https://wiki.archlinux.org/title/Fcitx5 及 https://fcitx-im.org/wiki/Using_Fcitx_5_on_Wayland 設定 Fcitx5）
 
 重新啓動系統後，在輸入法圖標上點按右鍵，開啓 Fcitx5 配置，然後添加 rime。
 
