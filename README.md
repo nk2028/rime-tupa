@@ -42,11 +42,11 @@ rime 切韻拼音輸入方案
 
 右擊「中」，點選「輸入法設定」。
 
-![](https://camo.githubusercontent.com/aabb02dd5cd3dc8fbbff33efd6201707ad0fad94cb1e6ce913ce36684c619325/68747470733a2f2f692e696d6775722e636f6d2f5858484d5343432e706e67)
+![](https://jyutping.net/assets/faq2-windows1.png)
 
 點擊「獲取更多輸入方案...」。
 
-![](https://camo.githubusercontent.com/97f42eb9aff6a44934777e2568ff5e6dc7a648266bbdc01739ec09d5810d718e/68747470733a2f2f692e696d6775722e636f6d2f657578684543562e706e67)
+![](https://jyutping.net/assets/faq2-windows2.png)
 
 在跳出的視窗中鍵入 `cantonese` 以安裝粵語輸入方案（用於反查），按下 <kbd>Enter</kbd>。然後鍵入 `nk2028/rime-tupa`，按下 <kbd>Enter</kbd>。
 
