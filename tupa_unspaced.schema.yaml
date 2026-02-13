@@ -3,7 +3,6 @@
 
 schema:
   schema_id: tupa_unspaced
-  name: 無空格切韻拼音
   version: "0.1"
 
 engine:
@@ -20,10 +19,9 @@ speller:
   alphabet: abcdefghijklmnopqrstuvwxyz
   delimiter: " '"
   algebra:
-    - xform/[=]//
+    - xform/=//
 
 translator:
   dictionary: tupa_unspaced
-  spelling_hints: 20
   comment_format:
     - xform/=/ /

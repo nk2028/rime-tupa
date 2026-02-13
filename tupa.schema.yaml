@@ -4,7 +4,7 @@
 schema:
   schema_id: tupa
   name: 切韻拼音
-  version: "2022.05.21"
+  version: "2024.11.21"
   author:
     - Ayaka Mikazuki <ayaka@mail.shn.hk>
   description: |-
@@ -66,7 +66,9 @@ speller:
 
 translator:
   dictionary: tupa
-  spelling_hints: 8
+  spelling_hints: 2147483647
+  always_show_comments: true
+  enable_completion: true
   comment_format:
     - "xform/$/\u200b/" # 永遠顯示拼音
 
@@ -90,7 +92,8 @@ jyut6ping3:
 
 tupa_reverse_lookup:
   tags: [ luna_pinyin, jyut6ping3 ]
-  overwrite_comment: false
+  overwrite_comment: true
+  enable_completion: true
   dictionary: tupa_unspaced
   comment_format:
     - xform/=/ /
